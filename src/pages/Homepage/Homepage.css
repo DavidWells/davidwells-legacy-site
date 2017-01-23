@@ -1,0 +1,9 @@
+.wrapper {
+  min-height: 100vh;
+  background: #fff;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding-top: 0px;
+  justify-content: flex-start;
+}

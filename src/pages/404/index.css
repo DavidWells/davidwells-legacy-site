@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh !important;
+  background: $black1;
+  color: #fff;
+  padding-bottom: 90px;
+}
+
+.oops {
+  font-size: 4rem;
+  line-height: 4rem;
+  color: #ddd;
+}
+
+.content {
+  text-align: center;
+  color: #fff;
+  a {
+    color: #979fe1;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .otherLinks {
+    margin-top: 20px;
+    a {
+      padding: 0 20px;
+      display: inline-block;
+    }
+  }
+}
+.message {
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 2rem;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 5%;
+    margin: auto;
+  }
+  .container img {
+    width: 100%;
+    min-width: 100%;
+  }
+}

@@ -1,0 +1,25 @@
+.textarea {
+  display: block;
+  border: 2px solid $gray1;
+  margin-left: 15px;
+  width: 80%;
+  min-height: 70px;
+  font-size: 16px;
+  padding: 5px;
+  margin-top: 10px;
+  &:focus {
+    outline: none;
+  }
+}
+.feedbackSubmit {
+  margin-left: 10px;
+  display: block;
+  margin-top: 25px;
+  button {
+    font-weight: 500;
+  }
+  button:hover {
+    background: $yellow;
+    color: $black1;
+  }
+}

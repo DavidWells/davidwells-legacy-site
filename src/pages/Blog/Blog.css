@@ -1,0 +1,30 @@
+.wrapper {
+  display: flex;
+}
+.postList {
+  width: 66.66666666666666%;
+  padding-right: 35px;
+}
+.sidebar {
+  width: 33.33333333333333%;
+}
+.pageination {
+  margin-bottom: 20px;
+  a {
+    margin-right: 20px;
+  }
+}
+
+@media (max-width: 960px) {
+  .wrapper {
+    flex-direction: column;
+    padding: 10px;
+  }
+  .pageTitle {
+    padding: 0 10px;
+  }
+  .postList, .sidebar {
+    width: 100%;
+    padding: 0px;
+  }
+}

@@ -1,0 +1,38 @@
+.breadcrumbs {
+  margin: 0;
+  padding: 0;
+}
+.item {
+  display: inline-flex;
+  position: relative;
+  a {
+    text-decoration: none;
+    text-transform: capitalize;
+    border: none !important;
+  }
+  &:after {
+    content: ' › ';
+    color: #a1a1a1;
+    width: 20px;
+    margin: 0 2px;
+    display: inline-flex;
+    justify-content: center;
+  }
+  &:first-of-type {
+    margin-left: 0px;
+  }
+  &:last-of-type:after {
+    content: '';
+  }
+}
+.itemInner {
+
+}
+.basePath {
+
+}
+.current {
+  a {
+    font-weight: 700;
+  }
+}

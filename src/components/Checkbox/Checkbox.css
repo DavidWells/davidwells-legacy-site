@@ -1,0 +1,85 @@
+$height: 60px;
+$labelColor: $black1;
+$checkboxColor: $yellow;
+.checkbox {
+  color: #AAAAAA;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: $height;
+}
+
+.checkbox input[type=checkbox] {
+  position: absolute;
+  height: $height;
+  width: $height;
+  opacity: 0;
+  margin: 0;
+  z-index: 10;
+  user-select: none;
+}
+
+.checkbox label {
+  display: flex;
+  align-items: center;
+  position: relative;
+  font-weight: 300;
+  font-size: 1.9rem;
+  height: $height;
+  z-index: 9;
+  cursor: pointer;
+  flex-grow: 1;
+  margin-left: 15px;
+  user-select: none;
+  padding-top: 1px; /*Font face hack */
+  @media (max-width: 768px) {
+    font-size: 1.6rem;
+  }
+}
+
+.checkbox:hover label{
+	color: $labelColor;
+}
+
+.checkbox .check {
+  display: block;
+  border: 5px solid #AAAAAA;
+  height: 25px;
+  width: 25px;
+	z-index: 5;
+  margin-left: 15px;
+  font-size: 12px;
+}
+
+.checkbox:hover .check {
+  border: 5px solid $labelColor;
+}
+
+.checkbox .check::before {
+  display: block;
+	content: '';
+  border-radius: 0%;
+  height: 100%;
+  width: 100%;
+  top: 0px;
+	left: 0px;
+	display: flex;
+	align-items:center;
+  justify-content: center;
+  margin: auto;
+}
+
+.checkbox input[type=checkbox]:checked ~ .check {
+  border: 5px solid $checkboxColor;
+}
+
+.checkbox input[type=checkbox]:checked ~ .check::before{
+
+	content: '✔';
+	color: $checkboxColor;
+}
+
+.checkbox input[type=checkbox]:checked ~ label{
+  color: $checkboxColor;
+}

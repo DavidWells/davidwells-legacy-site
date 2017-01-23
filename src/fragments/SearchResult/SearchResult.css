@@ -1,0 +1,12 @@
+
+.title {
+  margin: 0;
+}
+
+.algolia {
+  text-align: right;
+
+  & svg {
+    max-width: 20%;
+  }
+}

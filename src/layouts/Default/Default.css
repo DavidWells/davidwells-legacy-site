@@ -1,0 +1,39 @@
+.page {
+  max-width: 96rem;
+  margin: 20px auto 0 auto;
+  min-height: calc(100vh - $navHeight - $footerHeight);
+  img {
+    max-width: 100%;
+  }
+  a {
+    color: $black2;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    font-weight: 400;
+  }
+}
+.fullWidth {
+  width: 100%;
+  a {
+    color: $black2;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    font-weight: 400;
+  }
+  strong a {
+    font-weight: bold;
+  }
+}
+
+@media (max-width: 960px) {
+  .page {
+    padding: 0 10px;
+  }
+  .fullWidth {
+    padding: 0px;
+  }
+}
+
+@media (max-width: 768px) {
+
+}

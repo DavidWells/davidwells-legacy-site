@@ -1,0 +1,64 @@
+$height: 50px;
+
+.emailForm {
+  display: flex;
+}
+
+:global {
+
+  .form-group {
+   width: 70%;
+  }
+  .form-control {
+    width: 100%;
+    text-align: center;
+    border-radius: 3px;
+    background: 0 0;
+    border: 2px solid $yellow;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    height: $height;
+    font-family: avenir, sans-serif;
+    font-size: 14px;
+    color: $black2;
+    &:focus {
+      outline: 0!important;
+    }
+  }
+  .btn-action {
+    outline: 0!important;
+    text-align: center;
+    margin-bottom: 0;
+    font-weight: 500;
+    white-space: nowrap;
+    touch-action: manipulation;
+    cursor: pointer;
+    user-select: none;
+    border: none;
+    font-size: 16px;
+    padding: 0 25px;
+    padding-right: 30px;
+    border-radius: 3px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    height: $height;
+    font-family: avenir, sans-serif;
+    color: rgba(0,0,0,.7);
+    background-color: $yellow;
+    min-width: 30%;
+  }
+  @media (max-width: 768px) {
+    .sl-email-inner {
+      width: 100%;
+      margin: 0 auto;
+      text-align: center;
+    }
+    .email-ask {
+      text-align: center;
+      padding:0;
+      margin:0;
+    }
+
+  }
+
+}

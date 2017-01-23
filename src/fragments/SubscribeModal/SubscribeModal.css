@@ -1,0 +1,15 @@
+.title {
+  margin-top: 20px;
+}
+.newsletterWrapper {
+  max-width: 60%;
+}
+
+@media (max-width: 980px) {
+  .newsletterWrapper{
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+}

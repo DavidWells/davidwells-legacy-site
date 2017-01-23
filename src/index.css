@@ -1,0 +1,17 @@
+/** Localized Styles for app.js **/
+
+.content {
+  max-width: 96rem;
+  margin: auto;
+}
+
+.minHeight {
+  min-height: calc(100vh - $navHeight - $footerHeight);
+}
+.minHeight > div  {
+  min-height: 90vh;
+}
+.avenir {
+  font-family: 'Avenir Next W00', sans-serif;
+  font-weight: normal;
+}

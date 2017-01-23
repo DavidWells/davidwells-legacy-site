@@ -1,0 +1,32 @@
+.social {
+  background: #fff;
+  border: 1px solid #e9eff3;
+  border-left: none;
+  border-radius: 0 3px 3px 0;
+  box-shadow: 0 2px 4px 0 rgba(233,239,243,.9);
+  left: 0;
+  padding: 10px;
+  position: fixed;
+  text-align: center;
+  top: 50%;
+  transform: translateY(-100%);
+  z-index: 5;
+  a {
+    color: #0090ff;
+    display: block;
+    line-height: 1;
+    padding: 10px 5px 5px;
+    transition: .2s linear;
+    text-decoration: none;
+    border-bottom: none;
+    svg {
+      fill: #0090ff;
+      width: 20px;
+    }
+  }
+}
+@media (max-width: 1120px) {
+  .social {
+    display: none;
+  }
+}
