@@ -10,16 +10,16 @@ const removeDateFromFileName = require('./remove-date-from-filename')
 
 // set paths
 const projectRoot = path.join(__dirname, '..', '..')
-const blogContent = path.join(projectRoot, 'blog-content')
-const blogDestination = path.join(projectRoot, 'content/blog/')
+const content = path.join(projectRoot, 'content')
+const contentDestination = path.join(projectRoot, 'dist-content')
 
-console.log('blogContent', blogContent)
-console.log('blogDestination', blogDestination)
+console.log('content', content)
+console.log('contentDestination', contentDestination)
 
 asyncLib.waterfall([
   // Empty /content/blog
   function (next) {
-    fs.emptyDir(blogDestination, (error) => {
+    fs.emptyDir(contentDestination, (error) => {
       if (error) {
         console.log(`emptyDirectory fail! ${path}`)
         next(error)
@@ -28,7 +28,7 @@ asyncLib.waterfall([
     })
   },
   function (next) {
-    fs.copy(blogContent, blogDestination, (error) => {
+    fs.copy(content, contentDestination, (error) => {
       if (error) {
         next(error)
       }
@@ -44,9 +44,9 @@ asyncLib.waterfall([
   //   })
   // },
   function (next) {
-    removeDateFromFileName(blogDestination, (err, files) => {
+    removeDateFromFileName(contentDestination, (err, files) => {
       if (err) return next(err)
-      console.log('Renamed Blog files successfully')
+      console.log('Renamed content files successfully')
       next(null, 'done')
     })
   },
