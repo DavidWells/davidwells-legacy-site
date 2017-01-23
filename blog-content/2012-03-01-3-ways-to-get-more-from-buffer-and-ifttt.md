@@ -5,7 +5,6 @@ date: 2012-03-01 04:04:31
 layout: Post
 permalink: >
   http://davidwells.io/3-ways-to-get-more-from-buffer-and-ifttt/
-
 ---
 It is no secret, I'm a huge fan of the service <a href="http://bit.ly/zg74p6">Buffer</a>. I tweet about it constantly and I use it for most of the content I share through twitter.
 <div class="LessonContent">
