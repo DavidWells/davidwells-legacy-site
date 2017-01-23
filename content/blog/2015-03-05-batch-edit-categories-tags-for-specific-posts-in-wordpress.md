@@ -1,5 +1,5 @@
 ---
-title: 'Batch Edit Categories &#038; Tags for specific posts in WordPress'
+title: 'Batch Edit Categories & Tags for specific posts in WordPress'
 author: David Wells
 date: 2015-03-05 01:35:41
 layout: Post

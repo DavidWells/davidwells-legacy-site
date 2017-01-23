@@ -1,5 +1,5 @@
 ---
-title: 'Navigate Github project files &#038; dependencies faster with Octolinker'
+title: 'Navigate Github project files & dependencies faster with Octolinker'
 author: DavidWells
 date: 2016-04-25 06:45:04
 layout: Post

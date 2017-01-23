@@ -1,5 +1,5 @@
 ---
-title: 'Publishing flat npm packages for easier import paths &#038; smaller consumer bundle sizes'
+title: 'Publishing flat npm packages for easier import paths & smaller consumer bundle sizes'
 author: DavidWells
 date: 2016-04-16 20:56:53
 layout: Post
