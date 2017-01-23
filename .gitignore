@@ -1,0 +1,21 @@
+# node / npm
+node_modules
+*.log
+
+# third party external content
+content-external
+
+# phenomic build
+dist
+.env
+
+# Ignore generate content
+content/blog
+
+#IDE Stuff
+**/.idea
+.idea
+
+#OS STUFF
+.DS_Store
+.tmp
