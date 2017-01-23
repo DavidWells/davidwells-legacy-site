@@ -2,15 +2,12 @@
 node_modules
 *.log
 
-# third party external content
-content-external
-
 # phenomic build
 dist
 .env
 
 # Ignore generate content
-content/blog
+dist-content
 
 #IDE Stuff
 **/.idea

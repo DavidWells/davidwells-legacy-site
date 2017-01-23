@@ -6,6 +6,7 @@
   "repository": "https://github.com/DavidWells/davidwells.io.git",
   "phenomic": {
     "CNAME": true,
+    "source": "dist-content",
     "offline": false,
     "cache": false
   },

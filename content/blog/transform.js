@@ -3,7 +3,7 @@ const fs = require('fs-extra')
 const path = require('path')
 const matter = require('gray-matter')
 
-globby('*.md').then((files)=> {
+globby('*.md').then((files) => {
   let count = 0
   const news = []
   files.forEach((f) => {
