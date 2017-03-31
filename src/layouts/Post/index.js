@@ -29,9 +29,9 @@ class Post extends Component {
 
     if (!isLoading) {
       pageDate = head.date ? new Date(head.date) : null
-      const actualDate = new Date(pageDate.getTime() + Math.abs(pageDate.getTimezoneOffset() * 60000))
       let postDataContent
       if (pageDate) {
+        const actualDate = new Date(pageDate.getTime() + Math.abs(pageDate.getTimezoneOffset() * 60000))
         postDataContent = (
           <span className={styles.publishMeta}>
           Published on&nbsp;
