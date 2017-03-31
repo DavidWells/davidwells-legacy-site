@@ -3,7 +3,7 @@
 /**
  * Typography
  */
-@import url('//fast.fonts.net/cssapi/8910c467-c1de-4614-8be3-d7c21abde84e.css');
+
 
 /*
  * box model like it should be
@@ -55,7 +55,7 @@ body {
   font-size: $fontSize;
   line-height: 1.9;
   /* system font https://medium.com/designing-medium/system-shock-6b1dc6d6596f */
-  font-family: 'Avenir Next W00', sans-serif;
+  font-family: 'proxima-nova', 'Helvetica', sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
    margin-top: 0;
@@ -69,6 +69,20 @@ h5 { font-size: 1.6rem; line-height: 1.5;  letter-spacing: -.02rem; }
 h6 { font-size: 1.2rem; line-height: 1.6;  letter-spacing: 0; }
 p {  letter-spacing: 0; }
 
+article {
+  h1, h2, h3, h4, h5, h6, blockquote, p, ul, ol {
+    max-width: 660px;
+  }
+  a {
+    color: #212121;
+    text-decoration: none;
+    outline: 0;
+    &:hover, &:focus {
+      color: #06e;
+    }
+  }
+}
+
 img[align="left"] {
   margin-right: 20px;
 }
@@ -77,28 +91,15 @@ img[align="right"] {
 }
 
 blockquote {
-  display: block;
-  background: #fff;
-  padding: 15px 20px 15px 55px;
-  margin: 0 0 20px;
-  position: relative;
-  font-size: 1.8rem;
-  color: #666;
-  box-shadow: 2px 2px 15px #ccc;
-  border-left-style: solid;
-  border-left-width: 15px;
-  border-right-style: solid;
-  border-right-width: 2px;
-  &:before {
-   content: "\201C";
-   font-family: Georgia, serif;
-   font-size: 8.0rem;
-   font-weight: bold;
-   color: #999;
-   position: absolute;
-   left: 10px;
-   top: -2.6rem;
- }
+  display: inline-block;
+  padding-left: 18px;
+  padding-bottom: 0;
+  font-size: 15px;
+  line-height: 25px;
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  border-left: 10px solid #0685c4;
 }
 code {
   font-size: 95%;
@@ -229,21 +230,7 @@ tfoot td {
 }
 
 /* Animations */
-@keyframes fadeIn {
-  from { opacity:0; } to { opacity:1; }
-}
 
-.fadeInx {
-  opacity:0;
-  animation: fadeIn ease-in 1;
-  animation-fill-mode:forwards;
-}
-.fadeInLongx {
-  animation-duration:1s;
-}
-.fadeInShortx {
-  animation-duration:0.5s;
-}
 /* algolia search */
 .algolia-autocomplete .ds-dropdown-menu .ds-suggestion.ds-cursor .algolia-docsearch-suggestion.suggestion-layout-simple,.algolia-autocomplete .ds-dropdown-menu .ds-suggestion.ds-cursor .algolia-docsearch-suggestion:not(.suggestion-layout-simple) .algolia-docsearch-suggestion--content {
   background-color: rgba(69,142,225,.15) !important;
@@ -252,40 +239,18 @@ tfoot td {
   max-width: 650px !important;
   min-width: 650px !important;
 }
-@keyframes zoomIn {
-  from { transform: scale(0);opacity:0; } to { transform: scale(1);opacity:1; }
-}
-.zoomIn {
-  transform: scale(0);
-  opacity:0;
-  animation:zoomIn ease-out 1;
-  animation-fill-mode: forwards;
-}
-.zoomInLong {
-  animation-duration:0.7s;
-}
-.zoomInShort {
-  animation-duration:0.3s;
-}
-
-@keyframes zoomIn {
-  from { transform: scale(0);opacity:0; } to { transform: scale(1);opacity:1; }
-}
-.zoomIn {
-  transform: scale(0);
-  opacity:0;
-  animation:zoomIn ease-out 1;
-  animation-fill-mode: forwards;
-}
-.zoomInLong {
-  animation-duration:0.7s;
-}
-.zoomInShort {
-  animation-duration:0.3s;
-}
 
 /* code syntax highlighting */
-.hljs{display:block;background:white;padding:0.5em;color:#333333;overflow-x:auto;border: 1px solid #ddd}.hljs-comment,.hljs-meta{color:#969896}.hljs-string,.hljs-variable,.hljs-template-variable,.hljs-strong,.hljs-emphasis,.hljs-quote{color:#df5000}.hljs-keyword,.hljs-selector-tag,.hljs-type{color:#a71d5d}.hljs-literal,.hljs-symbol,.hljs-bullet,.hljs-attribute{color:#0086b3}.hljs-section,.hljs-name{color:#63a35c}.hljs-tag{color:#333333}.hljs-title,.hljs-attr,.hljs-selector-id,.hljs-selector-class,.hljs-selector-attr,.hljs-selector-pseudo{color:#795da3}.hljs-addition{color:#55a532;background-color:#eaffea}.hljs-deletion{color:#bd2c00;background-color:#ffecec}.hljs-link{text-decoration:underline}
+.hljs{
+  display:block;
+  background:white;
+  padding:0.5em;
+  color:#333333;
+  overflow-x:auto;
+  border: 1px solid #ddd;
+  border-left: none;
+  }
+  .hljs-comment,.hljs-meta{color:#969896}.hljs-string,.hljs-variable,.hljs-template-variable,.hljs-strong,.hljs-emphasis,.hljs-quote{color:#df5000}.hljs-keyword,.hljs-selector-tag,.hljs-type{color:#a71d5d}.hljs-literal,.hljs-symbol,.hljs-bullet,.hljs-attribute{color:#0086b3}.hljs-section,.hljs-name{color:#63a35c}.hljs-tag{color:#333333}.hljs-title,.hljs-attr,.hljs-selector-id,.hljs-selector-class,.hljs-selector-attr,.hljs-selector-pseudo{color:#795da3}.hljs-addition{color:#55a532;background-color:#eaffea}.hljs-deletion{color:#bd2c00;background-color:#ffecec}.hljs-link{text-decoration:underline}
 pre code.hljs {
   white-space: pre;
   padding: 1.6rem;
@@ -295,6 +260,7 @@ pre code.hljs {
   line-height: 1.5;
   letter-spacing: -.02rem;
   position: relative;
+  padding-left: $contentPadding;
 }
 .hljs:before {
   position: absolute;

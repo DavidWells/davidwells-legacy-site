@@ -1,0 +1,4 @@
+.content {
+  padding-left: $contentPadding;
+  max-width: 660px;
+}

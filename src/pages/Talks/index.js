@@ -2,14 +2,12 @@ import React, { Component, PropTypes } from 'react'
 import { Link } from 'react-router'
 import enhanceCollection from 'phenomic/lib/enhance-collection'
 import Page from '../../layouts/Page'
-import BlogPreview from './BlogPreview'
-// import Newsletter from '../../fragments/Newsletter/Newsletter'
-import styles from './Blog.css'
+import Preview from './Preview'
+import styles from './Talks.css'
 
-const numberOfLatestPosts = 25
-// const isClient = typeof window !== 'undefined'
+const numberOfLatestPosts = 100
 
-export default class BlogPage extends Component {
+export default class Talks extends Component {
   static hasLoadingState = true
   static propTypes = {
     isLoading: PropTypes.bool
@@ -24,7 +22,7 @@ export default class BlogPage extends Component {
     const pagination = numberOfLatestPosts * pageNumber
     const offset = pagination + numberOfLatestPosts
     const latestPosts = enhanceCollection(this.context.collection, {
-      filter: { layout: 'Post' },
+      filter: { layout: 'Talk' },
       sort: 'date',
       reverse: true,
     })
@@ -39,7 +37,7 @@ export default class BlogPage extends Component {
     let renderContent = (
       <div className={styles.postList}>
         {latestPosts.map((page, i) => (
-          <BlogPreview key={i} page={page} />
+          <Preview key={i} page={page} />
         ))}
         <div className={styles.pageination}>
           {previousLink}
@@ -51,15 +49,15 @@ export default class BlogPage extends Component {
       const text = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae mauris arcu, eu pretium nisi. Praesent fringilla ornare ullamcorper. Pellentesque diam orci, sodales in blandit ut, placerat quis felis.'
       renderContent = (
         <div className={styles.postList}>
-          <BlogPreview page={{ title: 'loading...', description: text }} isLoading />
-          <BlogPreview page={{ title: 'loading....', description: text }} isLoading />
-          <BlogPreview page={{ title: 'loading...', description: text }} isLoading />
+          <Preview page={{ title: 'loading...', description: text }} isLoading />
+          <Preview page={{ title: 'loading....', description: text }} isLoading />
+          <Preview page={{ title: 'loading...', description: text }} isLoading />
         </div>
       )
     }
     return (
       <Page {...this.props}>
-        <h2 className={styles.pageTitle}>David Wells Blog</h2>
+        <h2 className={styles.pageTitle}>Talks and Workshops</h2>
         <div className={styles.wrapper}>
           {renderContent}
         </div>

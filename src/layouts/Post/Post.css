@@ -1,15 +1,22 @@
-$sidebarWidth: 250px;
+$contentWidth: 650px;
 .postPage {
   margin-top: 30px;
 }
 .postWrapper {
   display: flex;
+  width: 100%;
 }
 .contentWrapper {
-  width: 650px;
-  max-width: 650px;
-  min-width: 650px;
-  padding-right: 50px;
+  margin-top: 50px;
+  width: 100%;
+  h1, h2, h3, h4, h5, h6, p, blockquote, iframe {
+    padding-left: $contentPadding;
+  }
+  h1, h2, h3, h4, h5, h6, p, blockquote {
+    width: $contentWidth;
+    max-width: $contentWidth;
+    min-width: $contentWidth;
+  }
   img, iframe {
     max-width: 100%;
   }
@@ -22,6 +29,10 @@ $sidebarWidth: 250px;
     align-items: center;
     justify-content: space-between;
     max-height: 22px;
+    width: $contentWidth;
+    max-width: $contentWidth;
+    min-width: $contentWidth;
+    padding-left: $contentPadding;
   }
   .postContent {
     margin-top: 25px;
@@ -68,19 +79,7 @@ $sidebarWidth: 250px;
 
 .comments {
   margin-bottom: 40px;
-}
-.sidebar {
-  flex-grow: 1;
-}
-.sidebarBlock {
-  padding: 20px;
-  margin-bottom: 20px;
-}
-.sidebarLinks {
-  margin-bottom: 5px;
-  a:hover {
-    border-bottom: 1px dashed black;
-  }
+  padding: 0px 30px;
 }
 
 @media (max-width: 960px) {
@@ -88,7 +87,7 @@ $sidebarWidth: 250px;
     flex-direction: column;
     padding: 10px;
   }
-  .contentWrapper, .sidebar {
+  .contentWrapper {
     width: 100%;
     min-width: 100%;
     padding: 0px;
@@ -98,9 +97,6 @@ $sidebarWidth: 250px;
 @media (max-width: 768px) {
   .postPage {
     font-size: 1.5rem;
-  }
-  .sidebar {
-    margin-bottom: 30px;
   }
   .postPage {
     margin-top: 20px;

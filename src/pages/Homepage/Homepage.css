@@ -3,7 +3,22 @@
   background: #fff;
   position: relative;
   display: flex;
-  flex-direction: column;
   padding-top: 0px;
   justify-content: flex-start;
+}
+.sidebar {
+  width: 26%;
+  min-width: 26%;
+}
+.content {
+  flex-grow: 1;
+}
+.nav {
+  display: flex;
+  flex-direction: column;
+  a {
+    border: 4px solid #E7E7E7;
+    border-radius: 20px;
+    padding: 7px 15px;
+  }
 }

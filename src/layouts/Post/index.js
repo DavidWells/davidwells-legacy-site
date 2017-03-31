@@ -1,17 +1,14 @@
 import React, { Component, PropTypes } from 'react'
 import Helmet from 'react-helmet'
 import { BodyContainer } from 'phenomic'
-import { Link } from 'react-router'
 import Svg from 'react-svg-inline'
-import Default from '../Default'
+import Page from '../Page'
 import authorData from '../../pages/Blog/authors.json'
 import ContentLoading from '../../components/ContentLoading/Paragraph'
 import FixedSocialButtons from '../../components/FixedSocialButtons'
-import NewsletterCTA from '../../fragments/NewsletterCTA'
 import gitHubSvg from '../../assets/icons/github.svg'
 import styles from './Post.css'
 import disqus from './disqus-script'
-
 
 class Post extends Component {
   static hasLoadingState = true
@@ -44,7 +41,7 @@ class Post extends Component {
           </span>
         )
       }
-      // &nbsp;by Jim
+
       githubURL = `https://github.com/serverless/blog/edit/master/posts${head.gitLink}`
       postMeta = (
         <header className={styles.postMeta}>
@@ -104,7 +101,7 @@ class Post extends Component {
     }
 
     return (
-      <Default {...props} className={styles.postPage} >
+      <Page {...props} className={styles.postPage} >
         <FixedSocialButtons
           url={`https://serverless.com${this.props.__url}`}
           title={title}
@@ -122,34 +119,10 @@ class Post extends Component {
               {authorBox}
             </div>
           </div>
-
-          <div className={styles.sidebar}>
-            <div className={styles.sidebarBlock}>
-              <h2>Quick Links</h2>
-              <div className={styles.sidebarLinks}>
-                <Link to='/framework/docs'>
-                  Serverless documentation
-                </Link>
-              </div>
-              <div className={styles.sidebarLinks}>
-                <a href='https://gitter.im/serverless/serverless' target='_blank' rel='noopener noreferrer'>
-                  Chat in Gitter
-                </a>
-              </div>
-              <div className={styles.sidebarLinks}>
-                <a href='http://forum.serverless.com' target='_blank' rel='noopener noreferrer'>
-                  Ask Questions on the Forum
-                </a>
-              </div>
-            </div>
-
-            <NewsletterCTA style={{ marginTop: '20px' }} />
-
-          </div>
         </div>
         <div className={styles.comments} id='disqus_thread' />
         <Helmet script={[{ type: 'text/javascript', innerHTML: disqus }]} />
-      </Default>
+      </Page>
     )
   }
 }

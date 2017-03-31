@@ -15,7 +15,7 @@
     "lint:js": "eslint --ignore-path .gitignore src",
     "lint:css": "stylelint \"src/**/*.css\"",
     "lint": "npm-run-all --parallel lint:*",
-    "prepareContent": "node scripts/blog",
+    "prepareContent": "node scripts/content",
     "dev": "npm run prepareContent && phenomic start",
     "start": "npm-run-all --parallel dev",
     "prebuild": "npm run prepareContent",

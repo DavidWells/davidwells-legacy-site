@@ -1,9 +1,9 @@
 import React, { PropTypes } from 'react'
 import AutoForm from 'react-auto-form'
 
-const Form = ({ onSubmit, onChange, children }) => {
+const Form = ({ onSubmit, onChange, children, className }) => {
   return (
-    <AutoForm onChange={onChange} onSubmit={onSubmit}>
+    <AutoForm className={className} onChange={onChange} onSubmit={onSubmit}>
       {children}
     </AutoForm>
   )
@@ -15,6 +15,7 @@ Form.propTypes = {
   onChange: PropTypes.func,
   // event, data
   onSubmit: PropTypes.func,
+  className: PropTypes.string,
   // onBlur: PropTypes.func,
   // onFocus: PropTypes.func,
   // onKeyPress: PropTypes.func,

@@ -122,7 +122,7 @@ export const makeConfig = (config = {}) => {
       defaultHead: {
         layout: 'Post',
         comments: true,
-      },
+      }
     },
 
     postcss: postcssPlugins,

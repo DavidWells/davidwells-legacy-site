@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import React, { Component, PropTypes } from 'react'
 import ga from 'react-google-analytics'
 const InjectGoogleAnalytics = ga.Initializer

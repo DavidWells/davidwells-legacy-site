@@ -6,8 +6,6 @@ import Helmet from 'react-helmet'
 import classnames from 'classnames'
 import { BodyContainer, joinUri } from 'phenomic'
 import { setItem } from '../../utils/storage'
-import getURLParams from '../../utils/urlHelpers'
-import Header from '../../fragments/Header'
 import Footer from '../../fragments/Footer'
 import styles from './Default.css'
 
@@ -21,16 +19,11 @@ const propTypes = {
   footer: PropTypes.element,
   /** if true, page will be full width */
   fullWidth: PropTypes.bool,
-  phenomicLoading: PropTypes.bool,
   className: PropTypes.string
 }
 
 class Default extends Component {
   componentDidMount() {
-    const urlParams = getURLParams(window.location.href)
-    if (urlParams) {
-      console.log('urlParams', urlParams)
-    }
     // Set last page viewed for 404 tracker
     setItem('sls_last_page', window.location.href)
   }
@@ -71,13 +64,6 @@ class Default extends Component {
         contentWrapperClass = (head.fullWidth) ? styles.fullWidth : styles.page
       }
     }
-    /* const linkTags = [
-      {
-        'rel': 'canonical',
-        'href': joinUri(process.env.PHENOMIC_USER_URL, __url)
-      },
-       link={linkTags}
-    ]*/
     // reset for loading state
     const bodyContent = body || ''
     /* Markdown content will display if it exists */
@@ -127,7 +113,6 @@ class Default extends Component {
     return (
       <div id='base' className={pageClass}>
         <Helmet title={metaTitle} meta={meta} />
-        <Header />
         <div className={classes}>
           {header}
           {children || markdown}
