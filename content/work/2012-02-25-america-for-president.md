@@ -1,0 +1,25 @@
+---
+title: America for President
+description: WordPress site build
+thumbnail: http://davidwells.io/wp-content/uploads/2015/03/1425428967_Homepage.jpg
+date: 2012-02-25
+layout: Portfolio
+---
+
+# America for President
+
+**Contributors:** David Wells
+
+**Client:** America for President
+
+**Date:** 2011
+
+**Demo Link:** [http://www.americaforpresident.com/](http://www.americaforpresident.com/)
+
+**Tags:** Site, PHP, WordPress
+
+WordPress Site Build
+
+### [America For President](id:anchor_1)
+
+![](http://davidwells.tv/data/portfolio/America_for_President/america_for_president.jpg "america_for_president.jpg")
