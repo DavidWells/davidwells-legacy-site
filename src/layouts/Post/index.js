@@ -75,10 +75,10 @@ class Post extends Component {
         }
       }
     }
-
+    const bodyContent = body || ''
     let markdownContent = (
       <BodyContainer>
-        {body}
+        {bodyContent}
       </BodyContainer>
     )
     let authorBox

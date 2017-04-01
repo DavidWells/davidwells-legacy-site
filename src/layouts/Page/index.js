@@ -2,12 +2,45 @@ import React, { Component, PropTypes } from 'react'
 import { BodyContainer } from 'phenomic'
 import classnames from 'classnames'
 import { Link } from 'react-router'
+import Svg from 'react-svg-inline'
+import { getCurrentUrl } from '../../utils/url'
+import twitterSVG from '../../assets/icons/twitter.svg'
+import githubSVG from '../../assets/icons/github.svg'
+import facebookSVG from '../../assets/icons/facebook.svg'
 import Default from '../Default'
 import ContentLoading from '../../components/ContentLoading/Paragraph'
 import styles from './Page.css'
 
 export default class Page extends Component {
   static hasLoadingState = true
+  renderLinks() { // eslint-disable-line
+    const { __url } = this.props
+    const url = getCurrentUrl(__url)
+    const links = [{
+      text: 'Work',
+      url: '/work'
+    }, {
+      text: 'Blog',
+      url: '/blog'
+    }, {
+      text: 'Talks',
+      url: '/talks'
+    }, {
+      text: 'Contact',
+      url: '/contact'
+    }]
+    return links.map((link) => {
+      let currentStyle
+      if (typeof window !== 'undefined' && url.match(link.url)) {
+        currentStyle = styles.currentURL
+      }
+      return (
+        <Link to={link.url} className={currentStyle}>
+          <span className={styles.pill}>{link.text}</span>
+        </Link>
+      )
+    })
+  }
   render() {
     const {
       head,
@@ -17,6 +50,7 @@ export default class Page extends Component {
       className,
       contentClassName
     } = this.props
+
     let title = (head) ? head.title : 'Default Loading Title' // eslint-disable-line
 
     if (loadingData && loadingData.title) {
@@ -45,18 +79,28 @@ export default class Page extends Component {
       <Default {...this.props} className={classes} fullWidth>
         <div className={styles.wrapper}>
           <div className={styles.sidebar}>
-            <figure className={styles.header}>
-              <a href='http://davidwells.io'>David Gregory Wells</a>
-              <h1>David Wells</h1>
-              <h2>Javascript Developer</h2>
-              <h3>San Francisco</h3>
-            </figure>
-            <nav className={styles.nav}>
-              <Link to='/work'><span className={styles.pill}>Work</span></Link>
-              <Link to='/blog'><span className={styles.pill}>Blog</span></Link>
-              <Link to='/talks'><span className={styles.pill}>Talks</span></Link>
-              <Link to='/contact'><span className={styles.pill}>Contact</span></Link>
-            </nav>
+            <div className={styles.sidebarFixed}>
+              <figure className={styles.header}>
+                <a href='http://davidwells.io'>David Gregory Wells</a>
+                <h1>David Wells</h1>
+                <h2>Javascript Developer</h2>
+                <h3>San Francisco</h3>
+              </figure>
+              <nav className={styles.nav}>
+                {this.renderLinks()}
+              </nav>
+              <div className={styles.social}>
+                <a href='http://twitter.com/davidwells' target='_blank' rel='noopener noreferrer'>
+                  <Svg svg={twitterSVG} cleanup />
+                </a>
+                <a href='http://twitter.com/davidwells' target='_blank' rel='noopener noreferrer'>
+                  <Svg svg={githubSVG} cleanup />
+                </a>
+                <a href='http://twitter.com/davidwells' target='_blank' rel='noopener noreferrer'>
+                  <Svg svg={facebookSVG} cleanup />
+                </a>
+              </div>
+            </div>
           </div>
           <div className={contentClasses}>
             {this.props.children || markdown}
@@ -68,7 +112,7 @@ export default class Page extends Component {
 }
 
 Page.propTypes = {
-  head: PropTypes.object.isRequired,
+  head: PropTypes.object,
   __url: PropTypes.string,
   phenomicLoading: PropTypes.bool,
   className: PropTypes.string,

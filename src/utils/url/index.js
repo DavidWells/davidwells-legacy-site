@@ -42,3 +42,12 @@ export function getParams(url) {
   }
   return urlParams
 }
+
+export function getCurrentUrl(url) {
+  if (url) return url
+  if (typeof window !== 'undefined') {
+    return window.location.pathname
+  }
+  // for SSR
+  return 'fakeURL'
+}

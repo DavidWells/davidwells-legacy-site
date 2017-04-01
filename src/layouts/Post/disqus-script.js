@@ -3,7 +3,7 @@
  */
 
 const disqusScript = `
-  var disqus_shortname = 'serverless-inc';
+  var disqus_shortname = '${process.env.DISQUS}';
   (function() {
       var id = 'disqus-script'
       if (!document.getElementById(id)) {

@@ -11,6 +11,27 @@
   min-width: 26%;
   border-right: 1px solid #e3e3e3;
 }
+.sidebarFixed {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.social {
+  padding-left: $contentPadding;
+  margin-bottom: 5px;
+  a {
+    border-bottom: none;
+    margin-right: 16px;
+  }
+  svg {
+    fill: #999;
+    &:hover {
+      fill: #0090ff;
+    }
+    width: 26px;
+  }
+}
 .header {
   h1, h2, h3 {
     margin-bottom: 0px;
@@ -37,7 +58,7 @@
     color: #585c60;
     -webkit-font-smoothing: antialiased;
     margin: 0;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     margin-top: 10px;
   }
 }
@@ -47,6 +68,7 @@
   min-width: 74%;
 }
 .nav {
+  flex-grow: 1;
   display: flex;
   flex-direction: column;
   padding-left: 40px;
@@ -61,6 +83,10 @@
         border-color: #000;
       }
     }
+  }
+  .currentURL span {
+    color: #686767;
+    border-color: #686767;
   }
   .pill {
     transition: all .14s ease 0s;

@@ -1,6 +1,6 @@
 $contentWidth: 650px;
 .postPage {
-  margin-top: 30px;
+
 }
 .postWrapper {
   display: flex;
@@ -9,10 +9,19 @@ $contentWidth: 650px;
 .contentWrapper {
   margin-top: 50px;
   width: 100%;
-  h1, h2, h3, h4, h5, h6, p, blockquote, iframe {
+  h1, h2, h3, h4, h5, h6, p, iframe {
     padding-left: $contentPadding;
   }
-  h1, h2, h3, h4, h5, h6, p, blockquote {
+  blockquote {
+    margin-left: $contentPadding;
+    p, li, ul, a {
+      padding-left: 0px;
+    }
+  }
+  ol, ul {
+    padding-left: 100px;
+  }
+  h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol {
     width: $contentWidth;
     max-width: $contentWidth;
     min-width: $contentWidth;

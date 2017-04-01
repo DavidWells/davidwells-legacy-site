@@ -1,7 +1,7 @@
 ---
 title: America for President
 description: WordPress site build
-thumbnail: http://davidwells.io/wp-content/uploads/2015/03/1425428967_Homepage.jpg
+thumbnail: http://davidwells.io/wp-content/uploads/2015/03/1425424248_america_for_president-450x347.jpg
 date: 2012-02-25
 layout: Portfolio
 ---

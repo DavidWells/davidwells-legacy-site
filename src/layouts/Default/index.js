@@ -6,7 +6,6 @@ import Helmet from 'react-helmet'
 import classnames from 'classnames'
 import { BodyContainer, joinUri } from 'phenomic'
 import { setItem } from '../../utils/storage'
-import Footer from '../../fragments/Footer'
 import styles from './Default.css'
 
 const propTypes = {
@@ -118,7 +117,6 @@ class Default extends Component {
           {children || markdown}
           {footer}
         </div>
-        <Footer />
         {customScript}
         {inlineScripts}
         {inlineCSS}
