@@ -7,8 +7,8 @@
   justify-content: flex-start;
 }
 .sidebar {
-  width: 26%;
-  min-width: 26%;
+  width: 23%;
+  min-width: 23%;
   border-right: 1px solid #e3e3e3;
 }
 .sidebarFixed {
@@ -64,8 +64,8 @@
 }
 .content {
   flex-grow: 1;
-  width: 74%;
-  min-width: 74%;
+  width: 77%;
+  min-width: 77%;
 }
 .nav {
   flex-grow: 1;
