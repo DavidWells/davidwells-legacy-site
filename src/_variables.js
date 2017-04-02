@@ -10,6 +10,7 @@ module.exports = () => {
     navHeight: '70px',
     footerHeight: '155px',
     contentPadding: '50px',
+    mobileContentPadding: '10px',
     // -- Colors
     yellow: '#ffd734',
     red: '#e55934',

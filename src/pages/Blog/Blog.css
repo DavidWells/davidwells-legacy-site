@@ -40,6 +40,9 @@
   .pageination, .pageSubTitle, .pageTitle {
     padding-left: 20px;
   }
+  .pageination {
+    padding-left: 10px;
+  }
   .pageSubTitle {
     font-size: 13px;
   }

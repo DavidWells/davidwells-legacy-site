@@ -195,9 +195,9 @@ class TextInput extends Component {
     if (onBlur) {
       onBlur(event, event.target.value, isValid)
     }
-    console.log('this.state.', this.state)
-    console.log('this.state.blurRanOnce', this.state.blurRanOnce)
-    console.log('event.target.value', event.target.value)
+    // console.log('this.state.', this.state)
+    // console.log('this.state.blurRanOnce', this.state.blurRanOnce)
+    // console.log('event.target.value', event.target.value)
     // Set blur state to show validations
     if (!this.state.blurRanOnce && event.target.value) {
       // capture focus if input wrong
