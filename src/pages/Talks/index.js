@@ -58,6 +58,9 @@ export default class Talks extends Component {
     return (
       <Page {...this.props}>
         <h2 className={styles.pageTitle}>Talks and Workshops</h2>
+        <span className={styles.pageSubTitle}>
+          David's public talks on development, UX, and beyond
+        </span>
         <div className={styles.wrapper}>
           {renderContent}
         </div>

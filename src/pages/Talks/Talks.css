@@ -3,6 +3,16 @@
 }
 .pageTitle {
   padding-left: $contentPadding;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+.pageSubTitle {
+  display: block;
+  padding-left: $contentPadding;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 300;
+  margin-bottom: 20px;
 }
 .postList {
   width: 100%;
@@ -26,5 +36,8 @@
   .postList, .sidebar {
     width: 100%;
     padding: 0px;
+  }
+  .pageination, .pageSubTitle, .pageTitle {
+    padding-left: 20px;
   }
 }

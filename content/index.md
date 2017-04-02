@@ -5,32 +5,22 @@ description: Learn more about David Gregory Wells, marketing consultant and full
 layout: Page
 ---
 
-# Heading 1 (in article) with <small>small text</small> and a [link](#)
+# About David Wells
 
-## Heading 2 (in article) with <small>small text</small> and a [link](#)
+> **TL;DR** – Marketer turned developer & entrepreneur.
 
-### Heading 3 (in article) with <small>small text</small> and a [link](#)
+I’m a full stack javascript developer in San Francisco currently working at [Serverless](http://serverless.com).
 
-#### Heading 4 (in article) with <small>small text</small> and a [link](#)
+Previously I was working at Mulesoft as the lead developer on UI/UX team. I founded [Inbound Now](http://www.inboundnow.com) (now advisor), where we make open source marketing software.
 
-##### Heading 5 (in article) with <small>small text</small> and a [link](#)
+Before that, I consulted with hundreds of companies helping them implement conversion optimization strategies to increase inbound web leads.
 
-###### Heading 6 (in article) with <small>small text</small> and a [link](#)
+You could call me a jack of all trades and a master of some.
 
-# Hello World
+**JavaScript, Node, HTML, CSS, Marketing, UI and UX.** Are my passions
 
-Lorem ipsum dolor sit amet, <a>consectetur</a> adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* See some of my [**projects**](/work)
+* Read the **[blog](/blog)**
+* And watch some [**talks**](/talks)
 
-> This is a blockquote
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-* * *
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-*   In voluptate velit esse cillum
-*   In voluptate velit esse cillum
-*   In voluptate velit esse cillum
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Need help on a project? [Lets talk](/contact)

@@ -46,7 +46,7 @@ export default class Work extends Component {
   static contextTypes = {
     collection: PropTypes.array.isRequired,
   }
-  static loadingState = true
+  static hasLoadingState = true
   constructor (props, context) {
     super(props, context)
     this.state = {
@@ -104,7 +104,7 @@ export default class Work extends Component {
             </div>
 
             {renderContent}
-            
+
           </div>
         </div>
       </Page>

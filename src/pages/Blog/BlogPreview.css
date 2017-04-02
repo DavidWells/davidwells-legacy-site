@@ -11,4 +11,13 @@
     font-weight: 600;
     margin: 0px;
   }
+  a:hover h3 {
+    color: $blue;
+  }
+}
+
+@media (max-width: 960px) {
+  .post {
+    padding-left: 10px;
+  }
 }

@@ -37,4 +37,7 @@
     width: 100%;
     padding: 0px;
   }
+  .pageination, .pageSubTitle, .pageTitle {
+    padding-left: 20px;
+  }
 }
