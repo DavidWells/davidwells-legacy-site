@@ -19,5 +19,8 @@
 @media (max-width: 960px) {
   .post {
     padding-left: 10px;
+    h3 {
+      font-size: 18px;
+    }
   }
 }
