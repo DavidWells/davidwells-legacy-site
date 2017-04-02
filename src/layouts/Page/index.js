@@ -81,8 +81,9 @@ export default class Page extends Component {
           <div className={styles.sidebar}>
             <div className={styles.sidebarFixed}>
               <figure className={styles.header}>
-                <a href='http://davidwells.io'>David Gregory Wells</a>
-                <h1>David Wells</h1>
+                <Link to='/'><h1>
+                  David Wells
+                </h1></Link>
                 <h2>Javascript Developer</h2>
                 <h3>San Francisco</h3>
               </figure>

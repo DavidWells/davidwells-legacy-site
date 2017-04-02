@@ -57,6 +57,7 @@
   display: flex;
   justify-content: flex-end;
   margin-right: 10px;
+  margin-top: 20px;
 }
 .switcher {
   a, a:hover {
@@ -217,6 +218,22 @@
 }
 
 @media (max-width: 650px) {
+  .grid {
+    .thumbnailWrapper {
+      min-width: 80%;
+      max-width: 80%;
+      text-align: center;
+      display: block;
+      margin: auto;
+    }
+    .thumbnail {
+      min-height: 150px;
+      max-height: 150px;
+    }
+    .description {
+      padding: 0 20px;
+    }
+  }
   .list {
     ul {
       padding-left: 0px;

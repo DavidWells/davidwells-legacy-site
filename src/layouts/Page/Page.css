@@ -106,9 +106,13 @@
   }
 }
 
-@media (max-width: 830px) {
+@media (max-width: 900px) {
   .wrapper {
     flex-direction: column;
+    figure {
+      text-align: center;
+      margin-bottom: 0px;
+    }
   }
   .social {
     display: none;
@@ -120,6 +124,9 @@
     flex-direction: row;
     justify-content: center;
     padding-left: 0px;
+    a {
+      margin-right: 5px;
+    }
   }
   .sidebarFixed {
     position: inherit;

@@ -3,6 +3,7 @@
 }
 .inputWrapper, .input {
   width: 100%;
+  border-radius: 0px;
 }
 .inputWrapper {
   margin-bottom: 20px;
