@@ -1,4 +1,25 @@
+.page {
+  padding: $contentPadding;
+}
 .form {
   display: flex;
   flex-direction: column;
+  textarea {
+    padding: 15px 10px;
+    border: 1px solid #949494;
+    min-height: 140px;
+    &:focus {
+      border: 1px solid #191919;
+      outline: none;
+    }
+  }
+  .button {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 830px) {
+  .page {
+    padding: 20px;
+  }
 }

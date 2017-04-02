@@ -29,13 +29,13 @@ export default class Page extends Component {
       text: 'Contact',
       url: '/contact'
     }]
-    return links.map((link) => {
+    return links.map((link, i) => {
       let currentStyle
       if (typeof window !== 'undefined' && url.match(link.url)) {
         currentStyle = styles.currentURL
       }
       return (
-        <Link to={link.url} className={currentStyle}>
+        <Link key={i} to={link.url} className={currentStyle}>
           <span className={styles.pill}>{link.text}</span>
         </Link>
       )

@@ -110,10 +110,19 @@
   .wrapper {
     flex-direction: column;
   }
+  .social {
+    display: none;
+  }
   .content, .sidebar {
     width: 100%;
   }
   .nav {
     flex-direction: row;
+    justify-content: center;
+    padding-left: 0px;
+  }
+  .sidebarFixed {
+    position: inherit;
+    height: auto;
   }
 }

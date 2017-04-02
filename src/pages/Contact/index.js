@@ -16,24 +16,31 @@ export default class Contact extends Component {
     const { phenomicLoading } = this.props
     return (
       <Page {...this.props} phenomicLoading={phenomicLoading}>
-        <Form className={styles.form}>
-          <TextInput name='name' />
-          <TextInput
-            ref={(c) => { this.url = c }}
-            name='url'
-            validation={formValidation.isEmail}
-            placeholder='Email'
-            errorMessageClassName={styles.errorMessage}
-            required
-          />
-          <textarea name='message' />
-          <div className={styles.button}>
-            <Button>
-              Submit Resource
-            </Button>
-          </div>
-        </Form>
-        <span className={styles.label}>test</span>
+        <div className={styles.page}>
+          <h1>Contact David</h1>
+          <Form className={styles.form}>
+            <TextInput
+              name='name'
+              validation={(v) => { return v && v.length }}
+              placeholder='Name'
+              required
+            />
+            <TextInput
+              ref={(c) => { this.url = c }}
+              name='email'
+              validation={formValidation.isEmail}
+              placeholder='Email'
+              errorMessageClassName={styles.errorMessage}
+              required
+            />
+            <textarea name='message' placeholder='What can I help you with?' />
+            <div className={styles.button}>
+              <Button>
+                Get in touch
+              </Button>
+            </div>
+          </Form>
+        </div>
       </Page>
     )
   }
