@@ -1,5 +1,5 @@
 ---
-title: Social Media for Social Good
+title: Social media for non-profits
 event: Podcamp Boston
 date: 2010-09-27
 layout: Talk

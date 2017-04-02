@@ -86,7 +86,6 @@ export default class Work extends Component {
     const gridActivce = (display === 'grid') ? ` ${styles.active}` : ''
     return (
       <Page {...this.props} phenomicLoading={phenomicLoading}>
-        portfolio
         <div className={styles.container}>
           <div className={styles.switcher + ' ' + viewType}>
             <div className={styles.options}>

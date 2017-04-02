@@ -1,4 +1,4 @@
-import { setItem, getItem } from '../storage'
+import { setItemSync, getItemSync } from '../storage'
 
 const XSRF_TOKEN = 'xsrf_token'
 
@@ -8,11 +8,11 @@ const generateXsrfToken = () => (
 
 const setXsrfToken = () => {
   const newXsrfToken = generateXsrfToken()
-  setItem(XSRF_TOKEN, newXsrfToken)
+  setItemSync(XSRF_TOKEN, newXsrfToken)
 }
 
 export const getXsrfToken = () => {
-  return getItem(XSRF_TOKEN)
+  return getItemSync(XSRF_TOKEN)
 }
 
 export const initializeXsrfToken = () => {

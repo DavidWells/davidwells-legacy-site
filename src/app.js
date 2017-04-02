@@ -5,6 +5,7 @@ import HeadTag from './fragments/HeadTag'
 import Scripts from './fragments/GlobalScripts'
 import { initializeVisitorID } from './utils/analytics/visitor'
 import initUAClasses from './utils/brower-detect'
+import initializeRouteListener from './utils/routerUtils'
 /* Import global CSS before other components and their styles */
 import './index.global.css'
 import styles from './index.css'
@@ -13,6 +14,8 @@ if (typeof window !== 'undefined') {
   // expose React for app scripts
   window.React = React
   window.ReactDOM = ReactDOM
+  // enable listerers on route changes without react-router-redux
+  initializeRouteListener()
 }
 
 const propTypes = {

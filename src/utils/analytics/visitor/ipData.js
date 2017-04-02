@@ -24,7 +24,7 @@ export default function getIPs() {
     // construct a new RTCPeerConnection
     const pc = new RTCPeerConnection(servers, mediaConstraints)
     // listen for candidate events
-    pc.onicecandidate = function (ice) {
+    pc.onicecandidate = (ice) => {
       // skip non-candidate events
       if (ice.candidate) {
         const ipAddress = ipRegex.exec(ice.candidate.candidate)[1]

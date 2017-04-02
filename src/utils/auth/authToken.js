@@ -1,9 +1,10 @@
 import decode from 'jwt-decode'
-import { setItem, getItem, removeItem } from '../storage'
+import { setItemSync, getItemSync, removeItemSync } from '../storage'
 
 const TOKEN_KEY = 'id_token'
 
 function getTokenExpirationDate(token) {
+  // console.log('token', token)
   const decoded = decode(token)
   if (!decoded.exp) {
     return null
@@ -24,15 +25,15 @@ export function isTokenExpired(token) {
 }
 
 export function setAuthToken(authToken) {
-  setItem(TOKEN_KEY, authToken)
+  setItemSync(TOKEN_KEY, authToken)
 }
 
 export function getAuthToken() {
-  return getItem(TOKEN_KEY)
+  return getItemSync(TOKEN_KEY)
 }
 
 export function clearAuthToken() {
-  removeItem(TOKEN_KEY)
+  removeItemSync(TOKEN_KEY)
 }
 
 export function isAuthenticated() {

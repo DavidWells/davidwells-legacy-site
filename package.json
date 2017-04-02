@@ -106,6 +106,7 @@
     "classnames": "^2.2.5",
     "clipboard": "^1.5.16",
     "jwt-decode": "^2.1.0",
+    "localforage": "^1.5.0",
     "lodash.debounce": "^4.0.8",
     "phenomic": "0.20.2",
     "react": "^15.0.0-rc.1",
