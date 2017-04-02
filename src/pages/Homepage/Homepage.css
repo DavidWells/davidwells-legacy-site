@@ -1,24 +1,23 @@
-.wrapper {
-  min-height: 100vh;
-  background: #fff;
-  position: relative;
-  display: flex;
-  padding-top: 0px;
-  justify-content: flex-start;
-}
-.sidebar {
-  width: 26%;
-  min-width: 26%;
-}
 .content {
-  flex-grow: 1;
+  padding: 50px;
+  width: 750px;
+  max-width: 750px;
+  min-width: 750px;
 }
-.nav {
-  display: flex;
-  flex-direction: column;
-  a {
-    border: 4px solid #E7E7E7;
-    border-radius: 20px;
-    padding: 7px 15px;
+@media (max-width: 950px) {
+  .content {
+    padding: 20px;
+    width: 600px;
+    max-width: 600px;
+    min-width: 600px;
+  }
+}
+
+@media (max-width: 830px) {
+  .content {
+    padding: 20px;
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
   }
 }

@@ -2,7 +2,7 @@
 # Homepage no content
 title: David Wells - Node + React JavaScript Developer in San Francisco
 description: Learn more about David Gregory Wells, marketing consultant and full stack developer
-layout: Page
+layout: Homepage
 ---
 
 # About David Wells
@@ -11,13 +11,11 @@ layout: Page
 
 I’m a full stack javascript developer in San Francisco currently working at [Serverless](http://serverless.com).
 
-Previously I was working at Mulesoft as the lead developer on UI/UX team. I founded [Inbound Now](http://www.inboundnow.com) (now advisor), where we make open source marketing software.
+Previously, I was working at Mulesoft as the lead developer on UI/UX team. Before that, I founded [Inbound Now](http://www.inboundnow.com), where we made open source inbound marketing software.
 
-Before that, I consulted with hundreds of companies helping them implement conversion optimization strategies to increase inbound web leads.
+Before becoming a developer, I was a marketing consultant working at HubSpot. I've helped hundreds of companies optimize site conversions and inbound lead generation.
 
-You could call me a jack of all trades and a master of some.
-
-**JavaScript, Node, HTML, CSS, Marketing, UI and UX.** Are my passions
+Today, I focus on **user experience**, **UI** and **product development**
 
 * See some of my [**projects**](/work)
 * Read the **[blog](/blog)**

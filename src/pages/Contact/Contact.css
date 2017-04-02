@@ -21,5 +21,6 @@
 @media (max-width: 830px) {
   .page {
     padding: 20px;
+    padding-bottom: 80px;
   }
 }

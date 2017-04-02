@@ -1,4 +1,4 @@
-import React, { PropTypes, Component } from 'react'
+import React, { PropTypes, Component } from 'react' // eslint-disable-line
 import Page from '../../layouts/Page'
 import Form from '../../components/Form'
 import TextInput from '../../components/TextInput' // eslint-disable-line
@@ -6,16 +6,12 @@ import formValidation from '../../utils/formValidation'
 import Button from '../../components/Button'
 import styles from './Contact.css'
 
-console.log(formValidation)
 export default class Contact extends Component {
-  static propTypes = {
-    phenomicLoading: PropTypes.bool
-  }
-  static loadingState = true
+  static hasLoadingState = true
   render() {
-    const { phenomicLoading } = this.props
+    // const { isLoading } = this.props
     return (
-      <Page {...this.props} phenomicLoading={phenomicLoading}>
+      <Page {...this.props} >
         <div className={styles.page}>
           <h1>Contact David</h1>
           <Form className={styles.form}>

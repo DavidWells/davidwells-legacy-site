@@ -1,6 +1,6 @@
 .loader {
   display: flex;
-  min-height: calc(100vh - $navHeight - $footerHeight);
+  min-height: 100vh;
   justify-content: center;
   align-items: center;
 }
