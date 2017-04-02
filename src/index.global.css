@@ -284,3 +284,21 @@ pre code.hljs {
 .hljs.language-javascript:before, .hljs.language-js:before {
   content: 'JavaScript';
 }
+@media (max-width: 768px) {
+  pre code.hljs {
+    padding-left: 10px;
+    font-size: 11px;
+  }
+  .right {
+    float: none;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+  .left {
+    float: none;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+}

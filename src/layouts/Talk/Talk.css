@@ -1,0 +1,10 @@
+.content {
+  padding: $contentPadding;
+  max-width: 660px;
+}
+@media (max-width: 830px) {
+  .content {
+    padding: 20px;
+    padding-bottom: 80px;
+  }
+}

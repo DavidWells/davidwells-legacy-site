@@ -101,9 +101,9 @@ class Post extends Component {
     }
 
     return (
-      <Page {...props} className={styles.postPage} >
+      <Page {...props} className={styles.postPage}>
         <FixedSocialButtons
-          url={`https://serverless.com${this.props.__url}`}
+          url={`https://davidwells.io${this.props.__url}`}
           title={title}
         />
         <div className={styles.postWrapper}>

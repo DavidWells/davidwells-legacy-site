@@ -9,7 +9,7 @@ $contentWidth: 650px;
 .contentWrapper {
   margin-top: 50px;
   width: 100%;
-  h1, h2, h3, h4, h5, h6, p, iframe {
+  h1, h2, h3, h4, h5, h6, p, iframe, .postMeta {
     padding-left: $contentPadding;
   }
   blockquote {
@@ -21,7 +21,7 @@ $contentWidth: 650px;
   ol, ul {
     padding-left: 100px;
   }
-  h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol {
+  h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, .postMeta {
     width: $contentWidth;
     max-width: $contentWidth;
     min-width: $contentWidth;
@@ -38,10 +38,6 @@ $contentWidth: 650px;
     align-items: center;
     justify-content: space-between;
     max-height: 22px;
-    width: $contentWidth;
-    max-width: $contentWidth;
-    min-width: $contentWidth;
-    padding-left: $contentPadding;
   }
   .postContent {
     margin-top: 25px;
@@ -55,6 +51,7 @@ $contentWidth: 650px;
 
 .editLink {
   display: flex;
+  display: none;
   justify-content: flex-start;
   align-items: center;
   background: white;
@@ -107,9 +104,6 @@ $contentWidth: 650px;
   .postPage {
     font-size: 1.5rem;
   }
-  .postPage {
-    margin-top: 20px;
-  }
   .postPage h1 {
     font-size: 2.2rem;
     font-size: 2rem;
@@ -128,5 +122,25 @@ $contentWidth: 650px;
   }
   .authorBox {
     flex-direction: column;
+  }
+  .contentWrapper {
+    margin-top: 20px;
+    h1, h2, h3, h4, h5, h6, p, iframe, .postMeta {
+      padding-left: 10px;
+    }
+    blockquote {
+      margin-left: 10px;
+      p, li, ul, a {
+        padding-left: 0px;
+      }
+    }
+    ol, ul {
+      padding-left: 20px;
+    }
+    h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, .postMeta {
+      width: 100%;
+      max-width: 100%;
+      min-width: 100%;
+    }
   }
 }

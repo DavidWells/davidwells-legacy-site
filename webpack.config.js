@@ -46,7 +46,7 @@ export const makeConfig = (config = {}) => {
       devtool: '#cheap-module-eval-source-map',
     },
     module: {
-      noParse: [/\.min\.js/, /autoit.js/],
+      noParse: [/\.min\.js/, /autoit.js/, /node_modules\/localforage\/dist\/localforage.js/],
       loaders: [
         {
           // phenomic requirement for loading markdown
