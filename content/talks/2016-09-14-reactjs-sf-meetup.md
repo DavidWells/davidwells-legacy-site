@@ -1,6 +1,6 @@
 ---
 title: Building static sites with React
-event: San Francisco ReactJS Meetup
+event: San Francisco ReactJS Meetup @ Mulesoft
 date: 2015-09-14
 layout: Talk
 ---

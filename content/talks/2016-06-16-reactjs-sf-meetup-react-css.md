@@ -1,6 +1,6 @@
 ---
 title: How to solve ALL your problems with CSS modules & React
-event: ReactJS San Francisco Meetup
+event: ReactJS San Francisco Meetup @ Optimizely
 video: https://www.youtube.com/watch?v=U86-MFPsarQ
 date: 2015-06-16
 layout: Talk

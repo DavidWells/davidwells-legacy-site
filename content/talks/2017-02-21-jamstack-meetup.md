@@ -1,6 +1,6 @@
 ---
 title: Advanced Markdown techniques
-event: JAMstack San Francisco Meetup
+event: JAMstack San Francisco Meetup @ Wikia
 video: https://www.youtube.com/watch?v=LcgPRe7rLT4
 date: 2017-02-21
 layout: Talk
