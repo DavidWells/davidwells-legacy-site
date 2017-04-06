@@ -1,0 +1,36 @@
+
+service: davidwells-contact-form
+
+provider:
+  name: aws
+  runtime: nodejs6.10
+  region: us-west-1
+  stage: prod
+  profile: davidwells
+  environment:
+    topicName: ${file(./config.json):topicName}
+  iamRoleStatements:
+  - Effect: Allow
+    Action:
+      - "sns:Publish"
+    Resource: "arn:aws:sns:*:*:${file(./config.json):topicName}"
+
+functions:
+  contact:
+    handler: handler.contactForm
+    events:
+      - http:
+          path: contact
+          method: post
+          cors: true
+
+resources:
+  Resources:
+    MailQueue:
+      Type: AWS::SNS::Topic
+      Properties:
+        DisplayName: "DavidWells.io Contact Form"
+        TopicName: ${file(./config.json):topicName}
+        Subscription:
+          - Endpoint: ${file(./config.json):mailTo}
+            Protocol: "email"

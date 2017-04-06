@@ -1,0 +1,14 @@
+{
+  "name": "contact-form",
+  "version": "1.0.0",
+  "description": "Contact form for davidwells.io",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Wells",
+  "license": "MIT",
+  "dependencies": {
+    "html-entities": "^1.2.0"
+  }
+}
