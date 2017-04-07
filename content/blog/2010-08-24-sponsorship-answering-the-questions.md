@@ -1,5 +1,5 @@
 ---
-title: 'Sponsorship &#8211; Answering the questions'
+title: 'Sponsorship - Answering the questions'
 author: David Wells
 date: 2010-08-24 10:30:13
 layout: Post

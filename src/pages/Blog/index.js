@@ -3,6 +3,7 @@ import { Link } from 'react-router'
 import enhanceCollection from 'phenomic/lib/enhance-collection'
 import Page from '../../layouts/Page'
 import BlogPreview from './BlogPreview'
+import externalPosts from '../../../content/blog/external-posts.json'
 // import Newsletter from '../../fragments/Newsletter/Newsletter'
 import styles from './Blog.css'
 
@@ -22,12 +23,22 @@ export default class BlogPage extends Component {
     const pageNumber = (params && params.page) ? parseInt(params.page, 10) : 0
     const pagination = numberOfLatestPosts * pageNumber
     const offset = pagination + numberOfLatestPosts
+
+
+    console.log('this.context.collection', this.context.collection)
     const latestPosts = enhanceCollection(this.context.collection, {
       filter: { layout: 'Post' },
       sort: 'date',
       reverse: true,
     })
-    .slice(pagination, offset)
+
+    const allPosts = latestPosts.concat(externalPosts)
+    const sorted = allPosts.sort((date1, date2) => {
+      if (date1.date > date2.date) return -1
+      if (date1.date < date2.date) return 1
+      return 0
+    }).slice(pagination, offset)
+    console.log(sorted)
     let nextLink = <Link to={'/blog/page/1'}>Next</Link>
     let previousLink
     if (params && params.page) {
@@ -37,7 +48,7 @@ export default class BlogPage extends Component {
     }
     let renderContent = (
       <div className={styles.postList}>
-        {latestPosts.map((page, i) => (
+        {sorted.map((page, i) => (
           <BlogPreview key={i} page={page} />
         ))}
         <div className={styles.pageination}>

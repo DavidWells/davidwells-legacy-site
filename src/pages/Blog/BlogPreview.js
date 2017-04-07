@@ -7,14 +7,24 @@ const propTypes = {
 }
 
 const BlogPreview = ({ page }) => {
-  if (page.draft) {
+  if (page.draft || !page.title) {
     return null
+  }
+  let link = (
+    <Link className={styles.title} to={page.__url}>
+      <h3>{page.title}</h3>
+    </Link>
+  )
+  if (page.url) {
+    link = (
+      <a className={styles.title} target='_blank' rel='noopener noreferrer' href={page.url}>
+        <h3>{page.title}</h3>
+      </a>
+    )
   }
   return (
     <div className={styles.post}>
-      <Link className={styles.title} to={page.__url}>
-        <h3>{page.title}</h3>
-      </Link>
+      {link}
     </div>
   )
 }
