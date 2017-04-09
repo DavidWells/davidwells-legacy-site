@@ -11,6 +11,7 @@
 .input {
   padding: 15px 10px;
   border: 1px solid #949494;
+  box-shadow: none;
   &:focus {
     border: 1px solid $black2;
     outline: none;

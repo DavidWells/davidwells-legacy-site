@@ -28,6 +28,7 @@
     border: 1px solid #949494;
     min-height: 140px;
     border-radius: 0px;
+    box-shadow: none;
     &:focus {
       border: 1px solid #191919;
       outline: none;
@@ -44,5 +45,8 @@
   .page {
     padding: 20px;
     padding-bottom: 80px;
+  }
+  .button button {
+    width: 100%;
   }
 }
