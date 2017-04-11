@@ -1,5 +1,5 @@
 ---
-title: TeachYourChildToSwim.com
+title: Teach your child to swim
 description: E-commerce site build
 thumbnail: http://davidwells.io/wp-content/uploads/2015/04/1428113712_media_1428113452441.jpg
 date: 2014-04-04

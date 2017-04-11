@@ -73,7 +73,7 @@ export default class BlogPage extends Component {
     return (
       <Page {...this.props}>
         <h2 className={styles.pageTitle}>David's Blog</h2>
-        <span className={styles.pageSubTitle}>Musings on code, product development and user experience</span>
+        <span className={styles.pageSubTitle}>Musings on code, product development & user experience</span>
         <div className={styles.wrapper}>
           {renderContent}
         </div>
