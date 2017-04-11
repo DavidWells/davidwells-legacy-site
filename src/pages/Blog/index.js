@@ -64,6 +64,9 @@ export default class BlogPage extends Component {
           <BlogPreview page={{ title: 'loading...', description: text }} isLoading />
           <BlogPreview page={{ title: 'loading....', description: text }} isLoading />
           <BlogPreview page={{ title: 'loading...', description: text }} isLoading />
+          <BlogPreview page={{ title: 'loading....', description: text }} isLoading />
+          <BlogPreview page={{ title: 'loading...', description: text }} isLoading />
+          <BlogPreview page={{ title: 'loading....', description: text }} isLoading />
         </div>
       )
     }

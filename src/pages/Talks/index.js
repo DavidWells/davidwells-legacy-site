@@ -52,6 +52,9 @@ export default class Talks extends Component {
           <Preview page={{ title: 'loading...', description: text }} isLoading />
           <Preview page={{ title: 'loading....', description: text }} isLoading />
           <Preview page={{ title: 'loading...', description: text }} isLoading />
+          <Preview page={{ title: 'loading....', description: text }} isLoading />
+          <Preview page={{ title: 'loading...', description: text }} isLoading />
+          <Preview page={{ title: 'loading....', description: text }} isLoading />
         </div>
       )
     }
