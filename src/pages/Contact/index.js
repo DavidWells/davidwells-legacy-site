@@ -12,7 +12,7 @@ export default class Contact extends Component {
   constructor(props, context) {
     super(props, context)
     this.state = {
-      loading: true,
+      loading: false,
       success: false
     }
   }
