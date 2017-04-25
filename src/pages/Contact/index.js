@@ -69,7 +69,10 @@ export default class Contact extends Component {
     const { success } = this.state
     if (success) {
       return (
-        <div>Thanks for reaching out!</div>
+        <div>
+          <p>Thanks for reaching out!</p>
+          <p>Ping me on Twitter <a href='https://twitter.com/davidwells' target='_blank' rel='noopener noreferrer'>@DavidWells</a></p>
+        </div>
       )
     }
     return (
