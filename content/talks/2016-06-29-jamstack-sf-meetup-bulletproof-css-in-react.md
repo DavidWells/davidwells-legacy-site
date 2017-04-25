@@ -12,5 +12,6 @@ David Wells focuses on how you can eliminate these common CSS issues FOREVER, an
 
 https://www.meetup.com/jamstack-sf/events/232066898/
 
-<iframe src="https://player.vimeo.com/video/173122870?color=ff9933&title=0&byline=0&portrait=0" width="640" height="205" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/173122870">David Wells: Bulletproof CSS in React</a> from <a href="https://vimeo.com/heavybit">Heavybit</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/173122870?color=ff9933&title=0&byline=0&portrait=0" width="640" height="205" frameborder="0" allowfullscreen="true"></iframe>
+
+<a href="https://vimeo.com/173122870">David Wells: Bulletproof CSS in React</a>
