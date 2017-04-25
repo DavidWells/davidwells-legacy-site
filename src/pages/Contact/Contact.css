@@ -24,6 +24,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  width: 70%;
   textarea {
     padding: 15px 10px;
     border: 1px solid #949494;
@@ -40,7 +41,11 @@
   }
 
 }
-
+@media (max-width: 900px) {
+  .form {
+    width: 100%;
+  }
+}
 
 @media (max-width: 830px) {
   .page {
