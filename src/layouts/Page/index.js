@@ -84,8 +84,8 @@ export default class Page extends Component {
                 <Link to='/'><h1>
                   David Wells
                 </h1></Link>
-                <h2>Javascript Developer</h2>
-                <h3>San Francisco</h3>
+                <h2>Full Stack Developer</h2>
+                <h3>Focused on UX/UI, Growth<br />& Product Development</h3>
               </figure>
               <nav className={styles.nav}>
                 {this.renderLinks()}
