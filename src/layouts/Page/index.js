@@ -94,10 +94,10 @@ export default class Page extends Component {
                 <a href='http://twitter.com/davidwells' target='_blank' rel='noopener noreferrer'>
                   <Svg svg={twitterSVG} cleanup />
                 </a>
-                <a href='http://twitter.com/davidwells' target='_blank' rel='noopener noreferrer'>
+                <a href='https://github.com/davidwells' target='_blank' rel='noopener noreferrer'>
                   <Svg svg={githubSVG} cleanup />
                 </a>
-                <a href='http://twitter.com/davidwells' target='_blank' rel='noopener noreferrer'>
+                <a href='https://www.facebook.com/davidgwells' target='_blank' rel='noopener noreferrer'>
                   <Svg svg={facebookSVG} cleanup />
                 </a>
               </div>
