@@ -9,3 +9,9 @@ layout: Portfolio
 # Scope
 
 Feature on https://github.com/showcases/tools-for-open-source
+
+Scope is a react app that is embeddable on any webpage.
+
+Built from the ground up for ultimate flexibility, scope can be used with any github repo and customized in a variety of ways.
+
+Screenshot
