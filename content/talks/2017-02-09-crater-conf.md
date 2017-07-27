@@ -10,3 +10,5 @@ I give a brief overview of what serverless architecture is with a focus on real 
 https://beta.crater.io/
 
 Slides: https://speakerdeck.com/davidwells/building-serverless-applications
+
+Video: https://www.youtube.com/watch?v=2JJMH-nwCQI&feature=youtu.be
