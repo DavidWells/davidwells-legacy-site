@@ -1,7 +1,7 @@
 ---
 title: Mulesoft Component Library
 description: React component library for Mulesoft product teams
-thumbnail: http://davidwells.io/wp-content/uploads/2016/05/easy-md.png
+thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/mulesoft-component-library-thumb.jpg
 date: 2016-09-01
 layout: Portfolio
 ---
@@ -12,8 +12,18 @@ layout: Portfolio
 
 Mulesoft needed to port over some legacy angular one applications into a more modern centralized stack.
 
-I came in and worked with the UX team to create a scalable component library for product teams to implement.
+I came in and worked with the UX team to create a scalable component library for product teams to use.
 
 This was an interesting project because the components we built need to work in new greenfield projects as well as inside legacy angular one applications.
 
 For more information, see [Best Practices on building a UI component library for your company ](https://www.youtube.com/watch?v=j8eBXGPl_5E)
+
+https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/mulesoft-component-library.jpg
+
+mulesoft-component-library-layout-view.jpg
+mulesoft-component-library-icons-view.jpg
+mulesoft-component-library-docs-view.jpg
+mulesoft-component-library-colors-view.jpg
+mulesoft-anypoint-login-2.jpg
+mulesoft-anypoint-login-1.jpg
+mulesoft-anypoint-dashboard.jpg
