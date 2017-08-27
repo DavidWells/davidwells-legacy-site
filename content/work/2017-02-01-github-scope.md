@@ -1,6 +1,6 @@
 ---
 title: Scope
-description: Tool for managing github projects
+description: Tool for managing large github projects
 thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/serverless-scope-logo.jpg
 date: 2017-02-01
 layout: Portfolio
