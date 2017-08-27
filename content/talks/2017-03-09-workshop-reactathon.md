@@ -9,4 +9,4 @@ We all know how AWS revolutionized the way we build and deploy software applicat
 
 In this workshop, you'll learn how to deploy your applications as independent functions, that respond to events, charge you only when they run, and scale automatically. The open source Serverless Framework helps to facilitate this and simplifies the deployment to Lambda -- all from the comfort of your command line.
 
-https://www.eventbrite.com/e/javascript-workshop-event-driven-serverless-apps-with-aws-lambda-react-tickets-31722711484#
+[Event Details](https://www.eventbrite.com/e/javascript-workshop-event-driven-serverless-apps-with-aws-lambda-react-tickets-31722711484)

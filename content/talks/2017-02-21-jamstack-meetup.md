@@ -15,3 +15,5 @@ Markdown is the language of choice for most static site generators and for docum
 David will walk through how their site build process pulls in a number of repositories, processes them, and how they come together to form Serverless.com
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LcgPRe7rLT4" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://www.youtube.com/watch?v=LcgPRe7rLT4)

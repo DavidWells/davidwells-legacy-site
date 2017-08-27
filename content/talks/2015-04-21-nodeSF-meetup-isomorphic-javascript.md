@@ -6,6 +6,8 @@ date: 2015-04-21
 layout: Talk
 ---
 
+# Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node
+
 In this talk, David Wells, founder of inboundnow.com will give a general overview of what React is, how to integrate it with your Node app and how it can make building UIs super easy.
 
 https://www.meetup.com/Node-js-Serverside-Javascripters-Club-SF/events/221063505/

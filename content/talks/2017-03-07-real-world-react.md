@@ -10,6 +10,6 @@ Learn how to build an infinitely scalable, secure, search engine friendly and bl
 
 This talk will walk you through how we rebuilt serverless.com 100% using Phenomic.io and React components and how we leverage the same code base for building products and our public facing marketing site, docs, and blog.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M-JQSUb71rQ" frameborder="0" allowfullscreen></iframe>
+[Video](https://youtu.be/M-JQSUb71rQ?t=1h41m18s)
 
-https://www.meetup.com/Real-World-React/events/236140965/
+[Event Details](https://www.meetup.com/Real-World-React/events/236140965/)

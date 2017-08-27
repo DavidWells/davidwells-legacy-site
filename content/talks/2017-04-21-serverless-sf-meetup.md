@@ -13,6 +13,6 @@ As serverless technology moves past the emerging technology phase there are more
 
 [Watch video](https://www.youtube.com/watch?v=ZD1bmvwyj-g)
 
-https://twitter.com/richardgong/status/855290487351066624/photo/1
+[Photos](https://twitter.com/richardgong/status/855290487351066624/photo/1)
 
-https://www.meetup.com/Serverless/events/238954469/
+[Event Details](https://www.meetup.com/Serverless/events/238954469/)

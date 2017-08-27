@@ -7,4 +7,4 @@ layout: Talk
 
 ## Learn the foundations of React and how to make production worthy applications
 
-See: https://www.eventbrite.com/e/react-js-foundation-hands-on-workshop-tickets-26089896583
+[Event details](https://www.eventbrite.com/e/react-js-foundation-hands-on-workshop-tickets-26089896583)

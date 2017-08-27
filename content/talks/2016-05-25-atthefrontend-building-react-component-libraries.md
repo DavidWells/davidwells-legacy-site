@@ -6,6 +6,8 @@ date: 2015-05-25
 layout: Talk
 ---
 
+# Building a React Component Library for your Organization
+
 Over the past 8 months, I have been overhauling the UI at MuleSoft, from angular/bootstrap stack over to React/Redux/ES6/PostCSS.
 
 During this process, I built out a reusable React component library seen here: http://ux.mulesoft.com/ for Mulesoft developers (about 110 devs) to consume.

@@ -7,4 +7,4 @@ layout: Talk
 
 Serverless Track: Building Event Driven Serverless Microservices
 
-http://globalbigdataconference.com/santa-clara/global-software-architecture-conference/schedule-86.html
+[Event details](http://globalbigdataconference.com/santa-clara/global-software-architecture-conference/schedule-86.html)

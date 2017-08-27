@@ -5,6 +5,8 @@ date: 2015-05-16
 layout: Talk
 ---
 
+# Building your first React App!
+
 An introduction on building react applications given at Mulesoft's HQ.
 
-https://www.meetup.com/ReactSF/events/230426458/
+[Event Details](https://www.meetup.com/ReactSF/events/230426458/)
