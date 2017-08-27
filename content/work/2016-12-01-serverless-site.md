@@ -1,7 +1,7 @@
 ---
 title: Serverless Website
 description: Static site powered by React
-thumbnail: http://davidwells.io/wp-content/uploads/2016/05/easy-md.png
+thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/serverless-site-thumb.jpg
 date: 2016-12-01
 layout: Portfolio
 ---
@@ -13,6 +13,8 @@ Rebuild serverless.com with react for a modern marketing site
 - PWA
 - Single page application
 - Offline first
+
+https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/serverless-site-homepage.jpg
 
 documentation
 
