@@ -319,4 +319,10 @@ pre code.hljs {
     margin: auto;
     margin-bottom: 10px;
   }
+  img[align="left"] {
+    margin-right: 0px;
+  }
+  img[align="right"] {
+    margin-left: 0px;
+  }
 }

@@ -10,4 +10,7 @@
     padding: 20px;
     padding-bottom: 80px;
   }
+  img, iframe {
+    max-width: 100%;
+  }
 }
