@@ -25,7 +25,7 @@ Why would you want to guest blog? Well it's one of the best ways to <a href="ht
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">Finding Guest Posting Opportunities with inpostauthor:"guest author" keyword</h3>
-<div class="StepImage">[sws_frames imageurl="http://www.davidwells.tv/wp-content/uploads/2012/03/Finding_guest_posts_with_inpostauthorguest_author_keyword_in_action.png" imageframe="sws_style1" borderradius="3" imagealign="sws_center" imagesize="585" imagemaxheight="" lightbox="1" album="album" video=""] [/sws_frames]</div>
+<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/03/Finding_guest_posts_with_inpostauthorguest_author_keyword_in_action.png"/></div>
 <div class="StepInstructions">
 
 Here is a quick example of me looking for sites to contribute content to that are focused on "Marketing".
@@ -38,7 +38,7 @@ You might need to use broader terms if there is no blogs focused on Pneumonoultr
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">Don't Waste the Moment - Optimize Your Links in Guest Posts</h3>
-<div class="StepImage">[sws_frames imageurl="http://www.davidwells.tv/wp-content/uploads/2012/03/Don_t_Waste_the_Moment.png" imageframe="sws_style1" borderradius="3" imagealign="sws_center" imagesize="585" imagemaxheight="" lightbox="1" album="album" video=""] [/sws_frames]</div>
+<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/03/Don_t_Waste_the_Moment.png"/></div>
 <div class="StepInstructions">
 
 When you are spending your valuable time contributing guest content to another site, DO NOT squander the opportunity to get a keyword specific anchor text link back into your site.

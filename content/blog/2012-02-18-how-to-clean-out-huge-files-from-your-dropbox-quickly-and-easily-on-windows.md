@@ -23,7 +23,7 @@ I will show you in 3 quick steps how to scan your drives, find the big ass files
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">1. Scan Your Drives</h3>
-<div class="StepImage">[sws_frames imageurl="http://www.davidwells.tv/wp-content/uploads/2012/02/scan-directories-for-size.png" imageframe="sws_style1" borderradius="3" imagealign="sws_center" imagesize="585" imagemaxheight="" lightbox="1" album="album" video=""] [/sws_frames]</div>
+<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/02/scan-directories-for-size.png"/></div>
 <div class="StepInstructions">
 
 Select which drives you want to scan.
@@ -32,7 +32,7 @@ Select which drives you want to scan.
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">2. Visualize the size of Folders &amp; Files</h3>
-<div class="StepImage">[sws_frames imageurl="http://www.davidwells.tv/wp-content/uploads/2012/02/Visualize-the-size-of-Folders-Files.png" imageframe="sws_style1" borderradius="3" imagealign="sws_center" imagesize="585" imagemaxheight="" lightbox="1" album="album" video=""] [/sws_frames]</div>
+<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/02/Visualize-the-size-of-Folders-Files.png"/></div>
 <div class="StepInstructions">
 
 The cool thing about WinDirStat is it will order the sub folders in your dropbox by size, so you can easily drill down into your different folders and get rid of those massive files or save them locally.
@@ -41,7 +41,7 @@ The cool thing about WinDirStat is it will order the sub folders in your dropbox
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">3. Delete</h3>
-<div class="StepImage">[sws_frames imageurl="http://www.davidwells.tv/wp-content/uploads/2012/02/delete-dropbox-files-quickly.png" imageframe="sws_style1" borderradius="3" imagealign="sws_center" imagesize="585" imagemaxheight="" lightbox="1" album="album" video=""] [/sws_frames]</div>
+<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/02/delete-dropbox-files-quickly.png"/></div>
 <div class="StepInstructions">
 
 This one video of my interview with Steve Garfield was taking up a precious 2.3 GB of my dropbox! We can't have that, can we?

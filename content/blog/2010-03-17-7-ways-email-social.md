@@ -13,7 +13,7 @@ Having a customized HTML signature is pretty easy to do nowadays. Having a fanci
 For people that have no HTML skills, use <a href="http://www.wisestamp.com/">WiseStamp</a>. It allows you to automatically embed a right HTML signature into your email signature.
 <!--more-->
 Here are <a href="http://wisestamp.com/goodies/category/signature-examples/">some examples</a> of what you can muster up with WiseStamp.
-<object width="400" height="224" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="guid=kDFWdi7a&amp;width=400&amp;height=224&amp;locksize=no&amp;qc_publisherId=p-18-mFEk4J448M" /><param name="src" value="http://v.wordpress.com/wp-content/plugins/video/flvplayer.swf?ver=1.18" /><param name="allowfullscreen" value="true" /><embed width="400" height="224" type="application/x-shockwave-flash" src="http://v.wordpress.com/wp-content/plugins/video/flvplayer.swf?ver=1.18" flashvars="guid=kDFWdi7a&amp;width=400&amp;height=224&amp;locksize=no&amp;qc_publisherId=p-18-mFEk4J448M" allowfullscreen="true" /></object>
+
 <h3>2. Adding a PayPal button to your email</h3>
 Hitting up people for their wallets at every turn might seem over intrusive, but you don't want to miss any opportunity to raise funds for your cause. Adding a heartfelt appeal for funding can go a long way and is a great way to increase donations! (Mmmmmm money!)
 <h3>3. Add RSS<img class="alignright" title="rss" src="http://www.davidwells.tv/wp-content/plugins/wp-thumbie/timthumb.php?src=/wp-content/uploads/2010/03/rss-150x150.png&amp;w=50&amp;h=50&amp;zc=1" alt="" width="50" height="50" /></h3>
