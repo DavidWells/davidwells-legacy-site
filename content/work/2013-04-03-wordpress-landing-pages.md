@@ -20,6 +20,6 @@ layout: Portfolio
 
 Create landing pages for your WordPress site. Monitor and improve conversion rates, run A/B split tests, customize your own templates and more.
 
-![](http://davidwells.tv/data/portfolio/WordPress_Landing_Pages/media_1428099093133.jpg "media_1428099093133.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/inbound-now-landing-pages-media_1428099093133.jpg "media_1428099093133.jpg")
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/flEd0sRTFUo?feature=oembed" frameborder="0" allowfullscreen=""></iframe>

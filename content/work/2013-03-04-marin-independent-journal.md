@@ -24,12 +24,12 @@ This project was a WordPress site build. One of the specifics of the project is 
 
 ### [Home Page](id:anchor_1)
 
-![](http://davidwells.tv/data/portfolio/Marin_Independent_Journal/Home_Page.jpg "Home_Page.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/marin-journal-Home_Page.jpg "Home_Page.jpg")
 
 ### [IJ Blog](id:anchor_2)
 
-![](http://davidwells.tv/data/portfolio/Marin_Independent_Journal/IJ_Blog.jpg "IJ_Blog.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/marin-journal-IJ_Blog.jpg "IJ_Blog.jpg")
 
 ### [Landing Page](id:anchor_3)
 
-![](http://davidwells.tv/data/portfolio/Marin_Independent_Journal/Landing_Page.jpg "Landing_Page.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/marin-journal-Landing_Page.jpg "Landing_Page.jpg")

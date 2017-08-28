@@ -25,8 +25,8 @@ Give Users the choice of what mobile experience they want. Adds Toggle for mobil
 
 ### [Responsible.js](id:anchor_1)
 
-![](http://davidwells.tv/data/portfolio/Responsible.js/media_1427246900777.jpg "media_1427246900777.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/responsible-media_1427246900777.jpg "media_1427246900777.jpg")
 
 ### [Mobile Toggle](id:anchor_2)
 
-![](http://davidwells.tv/data/portfolio/Responsible.js/media_1427246994189.jpg "media_1427246994189.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/responsible-media_1427246994189.jpg "media_1427246994189.jpg")

@@ -22,12 +22,12 @@ WordPress site build for FlatIron Dev School
 
 ### [Homepage](id:anchor_1)
 
-![](http://davidwells.tv/data/portfolio/Flatiron_School/Homepage.jpg "Homepage.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/flat-iron-Homepage.jpg "Homepage.jpg")
 
 ### [Homepage for Blog](id:anchor_2)
 
-![](http://davidwells.tv/data/portfolio/Flatiron_School/Homepage_for_Blog.jpg "Homepage_for_Blog.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/flat-iron-Homepage_for_Blog.jpg "Homepage_for_Blog.jpg")
 
 ### [Single Post](id:anchor_3)
 
-![](http://davidwells.tv/data/portfolio/Flatiron_School/Single_Post.jpg "Single_Post.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/flat-iron-Single_Post.jpg "Single_Post.jpg")

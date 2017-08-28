@@ -24,16 +24,16 @@ The project was a site build with a number of complex layouts and content specif
 
 ### [The Living Image](id:anchor_1)
 
-![](http://davidwells.tv/data/portfolio/Hamamatsu/The_Living_Image.jpg "The_Living_Image.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/hamamatsu-The_Living_Image.jpg "The_Living_Image.jpg")
 
 ### [Resource Library](id:anchor_2)
 
-![](http://davidwells.tv/data/portfolio/Hamamatsu/Resource_Library.jpg "Resource_Library.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/hamamatsu-Resource_Library.jpg "Resource_Library.jpg")
 
 ### [Research Case Studies](id:anchor_3)
 
-![](http://davidwells.tv/data/portfolio/Hamamatsu/Research_Case_Studies.jpg "Research_Case_Studies.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/hamamatsu-Research_Case_Studies.jpg "Research_Case_Studies.jpg")
 
 ### [Research Case Studies (full page)](id:anchor_4)
 
-![](http://davidwells.tv/data/portfolio/Hamamatsu/Research_Case_Studies__full_page_.jpg "Research_Case_Studies__full_page_.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/hamamatsu-Research_Case_Studies__full_page_.jpg "Research_Case_Studies__full_page_.jpg")

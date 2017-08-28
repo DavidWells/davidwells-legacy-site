@@ -22,16 +22,16 @@ We also had to incorporate multilanguage functionality into the site.
 
 I was in charge of speccing out the site build and managing the build process. The design was from SecondLife
 
-![](http://davidwells.tv/data/portfolio/SecondLife/media_1428006526917.jpg "media_1428006526917.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/second-life-media_1428006526917.jpg "media_1428006526917.jpg")
 
 ### [Modular Page Builds](id:anchor_1)
 
-![](http://davidwells.tv/data/portfolio/SecondLife/Modular_Page_Builds.jpg "Modular_Page_Builds.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/second-life-Modular_Page_Builds.jpg "Modular_Page_Builds.jpg")
 
 Advanced custom fields flexible content areas gave the ability to modularly build out the site and allow for drag and dropping of areas for the client
 
 ### [ACF Flexible Sections](id:anchor_2)
 
-![](http://davidwells.tv/data/portfolio/SecondLife/ACF_Flexible_Sections.jpg "ACF_Flexible_Sections.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/second-life-ACF_Flexible_Sections.jpg "ACF_Flexible_Sections.jpg")
 
 Each section can be clone, reordered, or filled with different content. This means a huge huge number of different page layouts with a single page template.

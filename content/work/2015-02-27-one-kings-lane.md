@@ -22,20 +22,20 @@ One kings lane needed a new intranet for employees to see benefits and events ha
 
 ### [Welcome Screen](id:anchor_1)
 
-![](http://davidwells.tv/data/portfolio/One_Kings_Lane_Intranet/media_1425005703730.jpg "media_1425005703730.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/okl-media_1425005703730.jpg "media_1425005703730.jpg")
 
 ### [HomePage](id:anchor_2)
 
-![](http://davidwells.tv/data/portfolio/One_Kings_Lane_Intranet/media_1425005907536.jpg "media_1425005907536.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/okl-media_1425005907536.jpg "media_1425005907536.jpg")
 
 ### [HR Page](id:anchor_3)
 
-![](http://davidwells.tv/data/portfolio/One_Kings_Lane_Intranet/media_1425006142700.jpg "media_1425006142700.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/okl-media_1425006142700.jpg "media_1425006142700.jpg")
 
 ### [Location Specific Pages](id:anchor_4)
 
-![](http://davidwells.tv/data/portfolio/One_Kings_Lane_Intranet/media_1425006207025.jpg "media_1425006207025.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/okl-media_1425006207025.jpg "media_1425006207025.jpg")
 
 ### [Custom JavaScript Content Sections](id:anchor_5)
 
-![](http://davidwells.tv/data/portfolio/One_Kings_Lane_Intranet/media_1425006278431.jpg "media_1425006278431.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/okl-media_1425006278431.jpg "media_1425006278431.jpg")

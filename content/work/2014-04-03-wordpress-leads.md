@@ -24,6 +24,6 @@ Gives people free access to powerful marketing data that would otherwise cost hu
 
 This was fun to build.
 
-![](http://davidwells.tv/data/portfolio/WordPress_Leads/media_1428098543598.jpg "media_1428098543598.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/inbound-now-leads.jpg "media_1428098543598.jpg")
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/POnsoIVo9XM?feature=oembed" frameborder="0" allowfullscreen=""></iframe>

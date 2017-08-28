@@ -22,4 +22,4 @@ WordPress site build
 
 ### [Homepage](id:anchor_1)
 
-![](http://davidwells.tv/data/portfolio/MedicalRecords.com/Homepage.jpg "Homepage.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/medical-records-Homepage.jpg "Homepage.jpg")

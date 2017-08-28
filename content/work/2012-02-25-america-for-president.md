@@ -22,4 +22,4 @@ WordPress Site Build
 
 ### [America For President](id:anchor_1)
 
-![](http://davidwells.tv/data/portfolio/America_for_President/america_for_president.jpg "america_for_president.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/america-for-president.jpg "america_for_president.jpg")

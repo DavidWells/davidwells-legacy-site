@@ -20,6 +20,6 @@ layout: Portfolio
 
 Create Calls to Action for your WordPress site. Monitor and improve conversion rates, run A/B split tests, customize your own CTA templates and more.
 
-![](http://davidwells.tv/data/portfolio/WordPress_Calls_to_Action/media_1428099452256.jpg "media_1428099452256.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/inbound-now-cta-media_1428099452256.jpg "media_1428099452256.jpg")
 
-[https://youtu.be/-qaYgwV7p-8](https://youtu.be/-qaYgwV7p-8)
+[Demo video](https://youtu.be/-qaYgwV7p-8)

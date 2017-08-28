@@ -18,7 +18,37 @@ This was an interesting project because the components we built need to work in 
 
 For more information, see [Best Practices on building a UI component library for your company ](https://www.youtube.com/watch?v=j8eBXGPl_5E)
 
-https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/mulesoft-component-library.jpg
+## Component Library
+
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/mulesoft-component-library.jpg)
+
+### UI layouts
+
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/mulesoft-component-library-layout-view.jpg)
+
+### UI Icons
+
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/mulesoft-component-library-icons-view.jpg)
+
+### Automatic documentation
+
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/mulesoft-component-library-docs-view.jpg)
+
+### UI Colors
+
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/mulesoft-component-library-colors-view.jpg)
+
+### Mulesoft Login
+
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/mulesoft-anypoint-login-1.jpg)
+
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/mulesoft-anypoint-login-2.jpg)
+
+### Anypoint Dashboard
+
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/mulesoft-anypoint-dashboard.jpg)
+
+
 
 mulesoft-component-library-layout-view.jpg
 mulesoft-component-library-icons-view.jpg

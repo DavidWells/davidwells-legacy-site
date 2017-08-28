@@ -24,6 +24,8 @@ The library is a part of the WordPress Landing Pages, Leads, and Calls to action
 
 ### [Inbound Analytics API Docs](id:anchor_1)
 
-![](http://davidwells.tv/data/portfolio/Inbound_Analytics/media_1428442899855.jpg "media_1428442899855.jpg")
+![](Link
+https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/inbound-analytics-media_1428442899855.jpg "media_1428442899855.jpg")
 
-![](http://davidwells.tv/data/portfolio/Inbound_Analytics/media_1428443146802.jpg "media_1428443146802.jpg")
+![](Link
+https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/inbound-analytics-media_1428443146802.jpg "media_1428443146802.jpg")

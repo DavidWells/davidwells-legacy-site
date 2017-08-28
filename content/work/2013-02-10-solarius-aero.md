@@ -27,12 +27,12 @@ Solarius Aviation needed a new WordPress site for their new corporate website.
 
 ### [WordPress Site Build](id:anchor_1)
 
-![](http://davidwells.tv/data/portfolio/Solarius_Aero/WordPress_Site_Build.jpg "WordPress_Site_Build.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/solarius-WordPress_Site_Build.jpg "WordPress_Site_Build.jpg")
 
 ### [Solarius Blog](id:anchor_2)
 
-![](http://davidwells.tv/data/portfolio/Solarius_Aero/Solarius_Blog.jpg "Solarius_Blog.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/solarius-Solarius_Blog.jpg "Solarius_Blog.jpg")
 
 ### [Integrating Third Party Private Jet System](id:anchor_3)
 
-![](http://davidwells.tv/data/portfolio/Solarius_Aero/Integrating_Third_Party_Private_Jet_System.jpg "Integrating_Third_Party_Private_Jet_System.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/solarius-Integrating_Third_Party_Private_Jet_System.jpg "Integrating_Third_Party_Private_Jet_System.jpg")
