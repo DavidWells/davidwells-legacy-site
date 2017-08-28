@@ -1,7 +1,7 @@
 ---
 title: Inbound Now Podcast
 description: Inbound Now TV - Social Media & Inbound Marketing Podcast
-thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/inboundnow-podcast-thumb.jpg
+thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/inboundnow-podcast-thumb.jpg
 author: David Wells
 date: 2014-09-01
 layout: Portfolio
