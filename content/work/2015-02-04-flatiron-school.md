@@ -20,14 +20,14 @@ layout: Portfolio
 
 WordPress site build for FlatIron Dev School
 
-### [Homepage](id:anchor_1)
+### Homepage
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/flat-iron-Homepage.jpg "Homepage.jpg")
 
-### [Homepage for Blog](id:anchor_2)
+### Homepage for Blog
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/flat-iron-Homepage_for_Blog.jpg "Homepage_for_Blog.jpg")
 
-### [Single Post](id:anchor_3)
+### Single Post
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/flat-iron-Single_Post.jpg "Single_Post.jpg")

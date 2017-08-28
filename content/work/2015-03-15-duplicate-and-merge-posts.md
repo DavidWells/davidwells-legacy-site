@@ -28,20 +28,20 @@ This was a fun project to work and and drastically increased the speed of creati
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/5ngkWcIcpsE?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
 
-### [Duplicate and edit the existing post](id:anchor_1)
+### Duplicate and edit the existing post
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/dam-Duplicate_and_edit_the_existing_post.jpg "Duplicate_and_edit_the_existing_post.jpg")
 
-### [Duplicate from the admin bar](id:anchor_2)
+### Duplicate from the admin bar
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/dam-Duplicate_from_the_admin_bar.jpg "Duplicate_from_the_admin_bar.jpg")
 
-### [Merge Options](id:anchor_3)
+### Merge Options
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/dam-Merge_Options.jpg "Merge_Options.jpg")
 
 Submit updated copy for review, Merge back to the original Post, View Side by side differences, or save as a new post altogether
 
-### [View Side by Side differences](id:anchor_4)
+### View Side by Side differences
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/dam-View_Side_by_Side_differences.jpg "View_Side_by_Side_differences.jpg")

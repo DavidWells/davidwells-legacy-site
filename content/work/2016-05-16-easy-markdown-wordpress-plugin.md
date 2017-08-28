@@ -31,4 +31,4 @@ They all fell short in one way or another.
 
 So like any good developer. I rolled my own.
 
-<iframe src="https://www.youtube.com/embed/dRMow19g0VU?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/dRMow19g0VU?ecver=2" width="480" height="360" frameborder="0" allowfullscreen></iframe>

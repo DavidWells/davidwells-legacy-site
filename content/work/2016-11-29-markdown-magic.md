@@ -28,6 +28,8 @@ This `README.md` is generated with `markdown-magic` [view the raw file](https://
 
 [Video demo](http://www.youtube.com/watch?v=4V2utrvxwJ8) • [Example Repo](https://github.com/DavidWells/repo-using-markdown-magic)
 
+## Install
+
 ```bash
 npm i markdown-magic
 ```

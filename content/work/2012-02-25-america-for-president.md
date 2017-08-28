@@ -20,6 +20,6 @@ layout: Portfolio
 
 WordPress Site Build
 
-### [America For President](id:anchor_1)
+### America For President
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/america-for-president.jpg "america_for_president.jpg")

@@ -13,7 +13,7 @@ I produced a number of inbound marketing focused podcasts back in the day.
 
 [Watch](https://www.youtube.com/watch?v=PkhyrKtLHP8&list=PLrOKfeQHBOIwi7WVeBR72B_E9nHqsoQUD&index=36)
 
-https://www.pinterest.com/davidwells/inbound-now-tv-social-media-inbound-marketing-podc/
+[All episodes](https://www.pinterest.com/davidwells/inbound-now-tv-social-media-inbound-marketing-podc/)
 
 Love:
 

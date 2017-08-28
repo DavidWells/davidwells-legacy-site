@@ -25,14 +25,14 @@ Solarius Aviation needed a new WordPress site for their new corporate website.
 *   WordPress Setup and Design
 *   HubSpot marketing integration
 
-### [WordPress Site Build](id:anchor_1)
+### WordPress Site Build
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/solarius-WordPress_Site_Build.jpg "WordPress_Site_Build.jpg")
 
-### [Solarius Blog](id:anchor_2)
+### Solarius Blog
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/solarius-Solarius_Blog.jpg "Solarius_Blog.jpg")
 
-### [Integrating Third Party Private Jet System](id:anchor_3)
+### Integrating Third Party Private Jet System
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/solarius-Integrating_Third_Party_Private_Jet_System.jpg "Integrating_Third_Party_Private_Jet_System.jpg")

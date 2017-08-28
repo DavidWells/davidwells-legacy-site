@@ -22,10 +22,8 @@ Vanilla JavaScript Analytics library with zero dependancies.
 
 The library is a part of the WordPress Landing Pages, Leads, and Calls to action plugin
 
-### [Inbound Analytics API Docs](id:anchor_1)
+### Inbound Analytics API Docs
 
-![](Link
-https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/inbound-analytics-media_1428442899855.jpg "media_1428442899855.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/inbound-analytics-media_1428442899855.jpg "media_1428442899855.jpg")
 
-![](Link
-https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/inbound-analytics-media_1428443146802.jpg "media_1428443146802.jpg")
+![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/inbound-analytics-media_1428443146802.jpg "media_1428443146802.jpg")

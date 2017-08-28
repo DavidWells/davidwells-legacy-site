@@ -20,22 +20,20 @@ layout: Portfolio
 
 One kings lane needed a new intranet for employees to see benefits and events happening in their location.
 
-### [Welcome Screen](id:anchor_1)
+### Welcome Screen
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/okl-media_1425005703730.jpg "media_1425005703730.jpg")
 
-### [HomePage](id:anchor_2)
+### HomePage
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/okl-media_1425005907536.jpg "media_1425005907536.jpg")
 
-### [HR Page](id:anchor_3)
+### HR Page
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/okl-media_1425006142700.jpg "media_1425006142700.jpg")
 
-### [Location Specific Pages](id:anchor_4)
+### Geolocation based pages
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/okl-media_1425006207025.jpg "media_1425006207025.jpg")
-
-### [Custom JavaScript Content Sections](id:anchor_5)
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/okl-media_1425006278431.jpg "media_1425006278431.jpg")

@@ -20,18 +20,18 @@ layout: Portfolio
 
 WordPress Site Build and inbound marketing implementation with landing pages, calls to actions, and lead tracking
 
-### [Topline Home Page](id:anchor_1)
+### Topline Home Page
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/topline-leadership-Topline_Home_Page.jpg "Topline_Home_Page.jpg")
 
-### [Resource Library](id:anchor_2)
+### Resource Library
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/topline-leadership-Resource_Library.jpg "Resource_Library.jpg")
 
-### [Blog](id:anchor_3)
+### Blog
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/topline-leadership-Blog.jpg "Blog.jpg")
 
-### [Landing Pages](id:anchor_4)
+### Landing Pages
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/topline-leadership-Landing_Pages.jpg "Landing_Pages.jpg")

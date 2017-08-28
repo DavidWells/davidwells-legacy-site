@@ -26,6 +26,6 @@ Design by cohere studio.
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/teach-your-child-to-swim-media_1428113452441.jpg "media_1428113452441.jpg")
 
-### [Ecommerce Piece](id:anchor_1)
+### Ecommerce Piece
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/teach-your-child-to-swim-Ecommerce_Piece.jpg "Ecommerce_Piece.jpg")

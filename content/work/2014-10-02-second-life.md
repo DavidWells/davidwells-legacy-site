@@ -14,23 +14,23 @@ layout: Portfolio
 
 **Tags:** Site, PHP, WordPress
 
-This was a wordpress site build for Exygy.
+This was a WordPress site build for Exygy.
 
 We used advanced custom fields in a pretty cool way to give the client 100%(ish) control over page layout.
 
-We also had to incorporate multilanguage functionality into the site.
+We also had to incorporate multi-language functionality into the site.
 
 I was in charge of speccing out the site build and managing the build process. The design was from SecondLife
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/second-life-media_1428006526917.jpg "media_1428006526917.jpg")
 
-### [Modular Page Builds](id:anchor_1)
+### Modular Page Builds
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/second-life-Modular_Page_Builds.jpg "Modular_Page_Builds.jpg")
 
 Advanced custom fields flexible content areas gave the ability to modularly build out the site and allow for drag and dropping of areas for the client
 
-### [ACF Flexible Sections](id:anchor_2)
+### ACF Flexible Sections
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/second-life-ACF_Flexible_Sections.jpg "ACF_Flexible_Sections.jpg")
 

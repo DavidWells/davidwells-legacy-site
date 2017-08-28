@@ -20,6 +20,6 @@ layout: Portfolio
 
 WordPress site build
 
-### [Homepage](id:anchor_1)
+### Homepage
 
 ![](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/medical-records-Homepage.jpg "Homepage.jpg")
