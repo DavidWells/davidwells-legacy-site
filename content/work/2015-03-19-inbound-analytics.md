@@ -1,7 +1,7 @@
 ---
 title: Inbound Analytics
 description: Vanilla JavaScript Analytics library with zero dependancies
-thumbnail: http://davidwells.io/wp-content/uploads/2015/04/1428443381_media_1428442899855.jpg
+thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2015/04/1428443381_media_1428442899855.jpg
 date: 2015-03-19
 layout: Portfolio
 ---

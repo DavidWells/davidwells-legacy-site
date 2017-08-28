@@ -1,7 +1,7 @@
 ---
 title: Solarius Aero
 description: Solarius Aviation needed a new WordPress site for their new corporate website
-thumbnail: http://davidwells.io/wp-content/uploads/2015/03/1425429108_WordPress_Site_Build.jpg
+thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2015/03/1425429108_WordPress_Site_Build.jpg
 date: 2013-02-10
 layout: Portfolio
 ---

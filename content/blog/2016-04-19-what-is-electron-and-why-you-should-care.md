@@ -16,7 +16,7 @@ Electron gives you access to everything you are used to in the browser AND grant
 
 #  Why it matters
 
-<img src="http://davidwells.io/wp-content/uploads/2016/04/IMG_2864-300x300.jpg" alt="electron desktop" width="300" height="300" class="right size-medium wp-image-5244" />Electron grants some serious power that the browser simply will not provide.
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2016/04/IMG_2864-300x300.jpg" alt="electron desktop" width="300" height="300" class="right size-medium wp-image-5244" />Electron grants some serious power that the browser simply will not provide.
 
 There are certain limitations a browser has due to security concerns. Imagine any website having read/write/delete access on your machine. That would be bad new bears.
 
@@ -59,7 +59,7 @@ Clone it down, `npm install`, and `npm start` to run it!
 
 If you'd like to build the actual application run `npm run build`
 
-<img src="http://davidwells.io/wp-content/uploads/2016/04/video-app.jpg" alt="video-app" width="625" height="400" class="aligncenter size-full wp-image-5243" />
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2016/04/video-app.jpg" alt="video-app" width="625" height="400" class="aligncenter size-full wp-image-5243" />
 
 ----
 

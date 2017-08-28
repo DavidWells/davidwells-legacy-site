@@ -1,7 +1,7 @@
 ---
 title: Drafts for friends
 description: Share WordPress drafts with no login required to view. Built with React
-thumbnail: http://davidwells.io/wp-content/uploads/2015/08/drafts-for-friends-2.png
+thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2015/08/drafts-for-friends-2.png
 date: 2015-03-18
 layout: Portfolio
 ---
@@ -26,6 +26,6 @@ This was a WordPress plugin built with React. The entire user interface is Java
 
 PHP runs in the background to fetch the required data from WordPress.
 
-![drafts-for-friends-2](http://davidwells.io/wp-content/uploads/2015/08/drafts-for-friends-2-1024x557.png)
+![drafts-for-friends-2](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2015/08/drafts-for-friends-2-1024x557.png)
 
-![drafts-for-friends](http://davidwells.io/wp-content/uploads/2015/03/drafts-for-friends-1024x593.png)
+![drafts-for-friends](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2015/03/drafts-for-friends-1024x593.png)

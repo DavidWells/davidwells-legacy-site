@@ -7,7 +7,7 @@ permalink: >
   http://davidwells.io/react-the-ui-library-renders-everywhere/
 ---
 
-<img src="http://davidwells.io/wp-content/uploads/2016/04/React-JS-150x150.png" alt="React-JS" width="150" height="150" class="right size-thumbnail wp-image-5265" />React is pretty amazing.
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2016/04/React-JS-150x150.png" alt="React-JS" width="150" height="150" class="right size-thumbnail wp-image-5265" />React is pretty amazing.
 
 It's a great way to create declarative easy to understand user interfaces.
 

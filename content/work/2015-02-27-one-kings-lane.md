@@ -1,7 +1,7 @@
 ---
 title: One Kings Lane Intranet
 description: Custom intranet for employees to see benefits and events happening in their location
-thumbnail: http://davidwells.io/wp-content/uploads/2015/02/1425023353_media_1425005703730.jpg
+thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2015/02/1425023353_media_1425005703730.jpg
 date: 2015-02-27
 layout: Portfolio
 ---

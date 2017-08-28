@@ -8,7 +8,7 @@ permalink: >
 ---
 <strong>Sponsorship – Answering the questions</strong>
 
-<a href="http://www.davidwells.tv/wp-content/uploads/2010/08/sponsership.png"><img class="alignright size-medium wp-image-2883" title="sponsership" src="http://www.davidwells.tv/wp-content/uploads/2010/08/sponsership-300x169.png" alt="" width="300" height="169" /></a>The way the economy has been for the last few years has seen many nonprofits miss out on sponsorship dollars; now is the time to look at how to work toward re-gaining sponsorship for your nonprofit.
+<a href="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2010/08/sponsership.png"><img class="alignright size-medium wp-image-2883" title="sponsership" src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2010/08/sponsership-300x169.png" alt="" width="300" height="169" /></a>The way the economy has been for the last few years has seen many nonprofits miss out on sponsorship dollars; now is the time to look at how to work toward re-gaining sponsorship for your nonprofit.
 
 As we know sponsors look for value for their sponsorship spend; as we know all sponsors are being more cautious, and are looking for ways to garner more return from their participation.
 

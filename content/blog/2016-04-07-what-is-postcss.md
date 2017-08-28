@@ -13,7 +13,7 @@ I bet you are probably wondering what the heck is this PostCSS thing all about.
 
 ### In a nutshell, PostCSS does the exact same thing as LESS/SASS/SCSS...
 
-<img src="http://davidwells.io/wp-content/uploads/2016/04/postcss-logo.png" alt="postcss-logo" width="149" height="146" class="right size-full wp-image-5227" />But more. Much much more.
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2016/04/postcss-logo.png" alt="postcss-logo" width="149" height="146" class="right size-full wp-image-5227" />But more. Much much more.
 
 PostCSS is much like Babel for JavaScript.
 

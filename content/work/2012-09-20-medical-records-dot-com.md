@@ -1,7 +1,7 @@
 ---
 title: MedicalRecords.com
 description: WordPress site build
-thumbnail: http://davidwells.io/wp-content/uploads/2015/03/1425428967_Homepage.jpg
+thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2015/03/1425428967_Homepage.jpg
 date: 2012-09-20
 layout: Portfolio
 ---

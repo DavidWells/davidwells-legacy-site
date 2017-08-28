@@ -11,7 +11,7 @@ permalink: >
 
 One of my favorite Alfred workflows is opening up my current finder window in my terminal with the [alfred-terminalfinder](https://github.com/LeEnno/alfred-terminalfinder).
 
-<img src="http://davidwells.io/wp-content/uploads/2016/05/alfred-terminal.jpg" alt="alfred-terminal" width="606" height="131" class="aligncenter size-full wp-image-5268" />
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2016/05/alfred-terminal.jpg" alt="alfred-terminal" width="606" height="131" class="aligncenter size-full wp-image-5268" />
 
 See it in action here:
 

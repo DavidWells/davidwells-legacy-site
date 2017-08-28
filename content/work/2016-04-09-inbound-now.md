@@ -1,7 +1,7 @@
 ---
 title: Inbound Now
 description: Inbound Marketing Tools for WordPress
-thumbnail: http://davidwells.io/wp-content/uploads/2016/04/inbound-site.jpg
+thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2016/04/inbound-site.jpg
 author: David Wells
 date: 2016-04-09
 layout: Portfolio
@@ -21,7 +21,7 @@ layout: Portfolio
 
 I founded Inbound Now in 2013\.
 
-![inbound-logo](http://davidwells.io/wp-content/uploads/2016/04/inbound-logo-1-300x37.png)
+![inbound-logo](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2016/04/inbound-logo-1-300x37.png)
 
 The goal of the project was to help small businesses grow their inbound lead flow. Along the way, We built:
 

@@ -46,7 +46,7 @@ Think of these pieces as micro micro services.
 
 Each one is a just single function (or lambda). They do one thing and do that one thing very well.
 
-<img src="http://davidwells.io/wp-content/uploads/2016/04/aws-lambda-150x150.png" alt="aws-lambda" width="150" height="150" class="right size-thumbnail wp-image-5263" />These tinier functions are run individually via a distributed compute-on-demand service, like [AWS Lambda](https://aws.amazon.com/lambda/).
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2016/04/aws-lambda-150x150.png" alt="aws-lambda" width="150" height="150" class="right size-thumbnail wp-image-5263" />These tinier functions are run individually via a distributed compute-on-demand service, like [AWS Lambda](https://aws.amazon.com/lambda/).
 
 Now you are asking:
 

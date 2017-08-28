@@ -8,7 +8,7 @@ permalink: >
 ---
 Having a Blog is essential to any social media strategy. Your Blog is your home base, A place to call home. It is the the place you can tell your story, garner support, and grow your following and contact lists. It gives you the ability to showcase all of your stuff on the web in one place and gives you credibility.
 
-<img class="alignright" style="display: inline; margin-left: 0px; margin-right: 0px;" title="wordpress icon_full" src="http://www.davidwells.tv/wp-content/uploads/2010/02/wordpress-icon_full.png" alt="wordpress icon full Wordpress Themes" width="252" height="225" align="right" />But which blogging platform is right for you? Blogger, tumblr, Vox, Posterous, Wordpress.com? Nay! It’s having a <strong>self hosted Wordpress site</strong>.
+<img class="alignright" style="display: inline; margin-left: 0px; margin-right: 0px;" title="wordpress icon_full" src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2010/02/wordpress-icon_full.png" alt="wordpress icon full Wordpress Themes" width="252" height="225" align="right" />But which blogging platform is right for you? Blogger, tumblr, Vox, Posterous, Wordpress.com? Nay! It’s having a <strong>self hosted Wordpress site</strong>.
 
 The self hosted Wordpress site trumps them all. Guess what this site is? Self Hosted Wordpress!, Good guess =)
 <!--more-->

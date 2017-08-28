@@ -121,7 +121,7 @@ This is a no brainer. Automatic doc generation FTW.
 
 When creating configurable components, a natural gut reaction is to expose all the things!
 
-<img src="http://davidwells.io/wp-content/uploads/2016/05/props.jpg" alt="props" width="400" height="300" class="aligncenter size-full wp-image-5272" />
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2016/05/props.jpg" alt="props" width="400" height="300" class="aligncenter size-full wp-image-5272" />
 
 However, **I must warn you:**
 

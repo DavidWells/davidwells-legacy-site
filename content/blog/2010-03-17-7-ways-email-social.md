@@ -6,7 +6,7 @@ layout: Post
 permalink: >
   http://davidwells.io/7-ways-email-social/
 ---
-<a href="http://www.davidwells.tv/wp-content/uploads/2010/04/emailIcon.png"><img class="size-thumbnail wp-image-1483 alignleft" style="margin-left: 4px; margin-right: 4px;" title="emailIcon" src="http://www.davidwells.tv/wp-content/uploads/2010/03/emailIcon-150x150.png" alt="" width="105" height="105" /></a>Social media and e-mail marketing do not have to be on opposite sides of the tracks when it comes to marketing your cause. If your Non-Profit is currently running email campaigns it is quite easy and <strong>FREE</strong> to add in social aspects to email.
+<a href="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2010/04/emailIcon.png"><img class="size-thumbnail wp-image-1483 alignleft" style="margin-left: 4px; margin-right: 4px;" title="emailIcon" src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2010/03/emailIcon-150x150.png" alt="" width="105" height="105" /></a>Social media and e-mail marketing do not have to be on opposite sides of the tracks when it comes to marketing your cause. If your Non-Profit is currently running email campaigns it is quite easy and <strong>FREE</strong> to add in social aspects to email.
 <h3>1. Add in social media profiles</h3>
 Having a customized HTML signature is pretty easy to do nowadays. Having a fancier email signature will enable you to grab people's attention and point them in the direction of your social media outlets.
 
@@ -30,7 +30,7 @@ Adding in social media profiles is the first step. The next is adding in viral R
 This will allow you to add messaging to a link so when people click it they are taken to twitter. When they log in, your message is automatically in the status update box for them to easily share.
 
 Here is an example made from the Link maker.<strong> <a href="http://tinyurl.com/yhkdaxe">"Tell your Tweeps about us!"</a></strong>
-<p style="text-align: center;"><a href="http://www.davidwells.tv/wp-content/uploads/2010/03/zeek.png"><img class="aligncenter size-full wp-image-912" title="zeek" src="http://www.davidwells.tv/wp-content/uploads/2010/03/zeek.png" alt="" width="520" height="395" /></a></p>
+<p style="text-align: center;"><a href="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2010/03/zeek.png"><img class="aligncenter size-full wp-image-912" title="zeek" src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2010/03/zeek.png" alt="" width="520" height="395" /></a></p>
 
 <h3>7. Addding events in the right syntax</h3>
 Many email service providers also serve as calendars to their users (Gmail for instance). By adding your events in the text in the correct way Gmail will automatically detect this event and add a button for the recipient to quickly add it to their calender. This just makes it easier for people to add your events to their calendar and actually remember things!

@@ -1,7 +1,7 @@
 ---
 title: Marin Independent Journal
 description: Wordpress site build for Marin Independent Journal
-thumbnail: http://davidwells.io/wp-content/uploads/2015/03/1425429573_Home_Page.jpg
+thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2015/03/1425429573_Home_Page.jpg
 date: 2013-03-04
 layout: Portfolio
 ---

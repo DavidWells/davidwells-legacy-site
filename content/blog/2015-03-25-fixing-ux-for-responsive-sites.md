@@ -27,7 +27,7 @@ Not all responsive sites are created equally, some are great and do a fantastic 
 
 ## Introducing Responsible.js
 
-The plague of shitty responsive sites has been nagging at me for a while now. I decided to take a stab at fixing the issue by creating [responsible.js](https://github.com/DavidWells/responsible). https://www.youtube.com/watch?v=VtSvk8xnmBE [![responsible](http://www.davidwells.tv/wp-content/uploads/2015/03/responsible.gif)](http://davidwells.tv/code/responsible) [Responsible.js](https://github.com/DavidWells/responsible) is a pretty simple trick turned into a lightweight javascript module.
+The plague of shitty responsive sites has been nagging at me for a while now. I decided to take a stab at fixing the issue by creating [responsible.js](https://github.com/DavidWells/responsible). https://www.youtube.com/watch?v=VtSvk8xnmBE [![responsible](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2015/03/responsible.gif)](http://davidwells.tv/code/responsible) [Responsible.js](https://github.com/DavidWells/responsible) is a pretty simple trick turned into a lightweight javascript module.
 
 ### How does it work?
 

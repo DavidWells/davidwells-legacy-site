@@ -1,7 +1,7 @@
 ---
 title: WordPress Leads
 description: Track visitor activity, capture & manage incoming web leads
-thumbnail: http://davidwells.io/wp-content/uploads/2015/04/1428098871_media_1428098543598.jpg
+thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2015/04/1428098871_media_1428098543598.jpg
 date: 2014-04-03
 layout: Portfolio
 ---

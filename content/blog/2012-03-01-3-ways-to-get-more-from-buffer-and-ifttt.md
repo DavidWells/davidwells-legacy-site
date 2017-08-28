@@ -23,7 +23,7 @@ Below are the top 3 Recipes I've found to make Ifttt and <a href="http://bit.ly/
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">Ifttt Puts the internet and Buffer to work for you</h3>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/03/Ifttt_Puts_the_internet_and_Buffer_to_work_for_you1.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/03/Ifttt_Puts_the_internet_and_Buffer_to_work_for_you1.png"/></div>
 <div class="StepInstructions">
 
 Ifttt, short for "if this then that", is a magical web services that allows you to tie together a myriad of web services that you use on a daily basis and puts them to work for you.
@@ -38,7 +38,7 @@ There is a growing number of <a href="http://bit.ly/zg74p6">buffer</a> recipes o
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">Buffer Recipe # 1 - Every tweet I favorite gets added to my buffer</h3>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/03/Buffer_Recipe___1_-_Every_tweet_I_favorite_gets_added_to_my_buffer1.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/03/Buffer_Recipe___1_-_Every_tweet_I_favorite_gets_added_to_my_buffer1.png"/></div>
 <div class="StepInstructions">
 
 This recipe is super handy for quickly and easily adding tweets to my buffer while on the go.
@@ -51,7 +51,7 @@ Enabling this recipe means that anytime you favorite a tweet, be it on the web o
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">Buffer Recipe # 2 - Feed an RSS through Buffer and Spam less</h3>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/03/Buffer_Recipe___2_-_Feed_an_RSS_through_Buffer_and_Spam_less1.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/03/Buffer_Recipe___2_-_Feed_an_RSS_through_Buffer_and_Spam_less1.png"/></div>
 <div class="StepInstructions">
 
 This ifttt recipe will allow you to feed an rss feed through to your <a href="http://bit.ly/zg74p6">buffer</a> account to stagger out the posts to peak times.
@@ -64,7 +64,7 @@ I've set this up for blog rss feeds and for a custom yahoo pipe that aggregates 
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">Buffer Recipe # 3 - Feed an RSS through Buffer and Spam less</h3>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/03/Buffer_Recipe___3_-_Feed_an_RSS_through_Buffer_and_Spam_less1.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/03/Buffer_Recipe___3_-_Feed_an_RSS_through_Buffer_and_Spam_less1.png"/></div>
 <div class="StepInstructions">
 
 This recipe I made myself (*pat on back*). With it, any tweet that I send out with the hastag #RT will get added to my buffer to be sent out in a couple of days.

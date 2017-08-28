@@ -11,7 +11,7 @@ That is <a href="http://www.somethingtogive.org/mission.html">Something to Give.
 
 Donors can donate their time or supply access to a unique opportunity in exchange for another within the network. They then earn credits to be applied to something they then want in return. It's a <strong>very</strong> cool concept and the Socialize Your Cause team would like to see it prosper and grow!
 
-<strong><a href="http://www.somethingtogive.org/"><img class="alignright size-full wp-image-1874" title="somethingtogivelogo" src="http://www.davidwells.tv/wp-content/uploads/2010/05/somethingtogivelogo1.png" alt="" width="140" height="139" /></a>Something to Give's Goals are to</strong>
+<strong><a href="http://www.somethingtogive.org/"><img class="alignright size-full wp-image-1874" title="somethingtogivelogo" src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2010/05/somethingtogivelogo1.png" alt="" width="140" height="139" /></a>Something to Give's Goals are to</strong>
 <ul>
 	<li>To increase community involvment by <strong>REWARDING</strong> it with life dreams</li>
 	<li>To create a social <strong>ACTION</strong> network connecting the online and real world</li>

@@ -6,7 +6,7 @@ layout: Post
 permalink: >
   http://davidwells.io/how-to-clean-out-huge-files-from-your-dropbox-quickly-and-easily-on-windows/
 ---
-<img class="alignright size-thumbnail wp-image-4066" title="dropbox" src="http://www.davidwells.tv/wp-content/uploads/2012/02/dropbox-150x150.png" alt="" width="150" height="150" />If you are like me, you are a huge fan of <a href="http://db.tt/YG20S45">Dropbox</a> for syncing multiple files across computers. You may have even upgraded to the pro version of dropbox (I'm sitting pretty on a 50GB account)
+<img class="alignright size-thumbnail wp-image-4066" title="dropbox" src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/02/dropbox-150x150.png" alt="" width="150" height="150" />If you are like me, you are a huge fan of <a href="http://db.tt/YG20S45">Dropbox</a> for syncing multiple files across computers. You may have even upgraded to the pro version of dropbox (I'm sitting pretty on a 50GB account)
 <div class="LessonContent">
 <div class="LessonSummary">
 
@@ -23,7 +23,7 @@ I will show you in 3 quick steps how to scan your drives, find the big ass files
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">1. Scan Your Drives</h3>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/02/scan-directories-for-size.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/02/scan-directories-for-size.png"/></div>
 <div class="StepInstructions">
 
 Select which drives you want to scan.
@@ -32,7 +32,7 @@ Select which drives you want to scan.
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">2. Visualize the size of Folders &amp; Files</h3>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/02/Visualize-the-size-of-Folders-Files.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/02/Visualize-the-size-of-Folders-Files.png"/></div>
 <div class="StepInstructions">
 
 The cool thing about WinDirStat is it will order the sub folders in your dropbox by size, so you can easily drill down into your different folders and get rid of those massive files or save them locally.
@@ -41,7 +41,7 @@ The cool thing about WinDirStat is it will order the sub folders in your dropbox
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">3. Delete</h3>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/02/delete-dropbox-files-quickly.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/02/delete-dropbox-files-quickly.png"/></div>
 <div class="StepInstructions">
 
 This one video of my interview with Steve Garfield was taking up a precious 2.3 GB of my dropbox! We can't have that, can we?

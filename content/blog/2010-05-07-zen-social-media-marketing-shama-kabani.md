@@ -20,7 +20,7 @@ She was nice enough to offer up a free copy of the book to the Socialize Your Ca
 
 <strong>Enter to Win a Copy of </strong><strong><span style="text-decoration: underline;">The Zen of Social Media Marketing</span></strong>
 
-<a href="http://www.davidwells.tv/wp-content/uploads/2010/05/the-zen-of-social-media-marketing1.jpg"><img class="alignright size-full wp-image-1831" title="the-zen-of-social-media-marketing" src="http://www.davidwells.tv/wp-content/uploads/2010/05/the-zen-of-social-media-marketing1.jpg" alt="" width="160" height="240" /></a>Ways to enter. the more ways you enter the better chance you will have at snagging the book! The contest ends next Friday 5/14/2010! We will contact the winner via email.
+<a href="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2010/05/the-zen-of-social-media-marketing1.jpg"><img class="alignright size-full wp-image-1831" title="the-zen-of-social-media-marketing" src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2010/05/the-zen-of-social-media-marketing1.jpg" alt="" width="160" height="240" /></a>Ways to enter. the more ways you enter the better chance you will have at snagging the book! The contest ends next Friday 5/14/2010! We will contact the winner via email.
 <ol>
 	<li><strong>Enter a comment in the comments section below telling us why you would like the book ( 1 entry)</strong></li>
 	<li><strong>Tweet this interview out on twitter! (1 entry per RT!) </strong><strong><a href="http://tinyurl.com/2a6h58x">Click this link to RT!</a></strong></li>

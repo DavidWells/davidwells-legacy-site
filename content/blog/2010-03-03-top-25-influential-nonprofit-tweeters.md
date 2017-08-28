@@ -15,7 +15,7 @@ Not only is this list a great place to start but it's also a chalk full of infl
 
 You can automatically follow this list of the Top 25 Most influential Non-profit Tweeters by clicking on the blue button below or you can follow the twitter list.  Happy Tweeting =)
 
-<a title="Follow Top 25 Most influential Non-profit Tweeters on Twitter" href="http://tweepml.org/Top-25-Most-influential-Non-profit-Tweeters/"><img src="http://www.davidwells.tv/wp-content/uploads/2010/02/tweepml_bitabutton.png" border="0" alt="" /></a> or <a href="http://twitter.com/#/list/YouCanHelp/top-25-non-profit-tweeps">Follow the Twitter List</a>
+<a title="Follow Top 25 Most influential Non-profit Tweeters on Twitter" href="http://tweepml.org/Top-25-Most-influential-Non-profit-Tweeters/"><img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2010/02/tweepml_bitabutton.png" border="0" alt="" /></a> or <a href="http://twitter.com/#/list/YouCanHelp/top-25-non-profit-tweeps">Follow the Twitter List</a>
 <table id="ttl_0" cellpadding="4"><col width="25"></col> <col width="48"></col>
 <tbody>
 <tr>
@@ -196,6 +196,6 @@ You can automatically follow this list of the Top 25 Most influential Non-profit
 </tbody>
 </table>
 <h4>Who do you consider as an influential Non-profit Tweeter? Let us know in the Comments Below.</h4>
-Enjoy this Post? Make sure to S<a href="http://feeds.feedburner.com/SocializeYourCause">ubscribe to the blog</a>!<a href="http://feeds.feedburner.com/SocializeYourCause"><img class="size-full wp-image-840 alignright" title="rss-150x150" src="http://www.davidwells.tv/wp-content/uploads/2010/03/rss-150x1501.png" alt="" width="105" height="105" /></a>
+Enjoy this Post? Make sure to S<a href="http://feeds.feedburner.com/SocializeYourCause">ubscribe to the blog</a>!<a href="http://feeds.feedburner.com/SocializeYourCause"><img class="size-full wp-image-840 alignright" title="rss-150x150" src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2010/03/rss-150x1501.png" alt="" width="105" height="105" /></a>
 
 Click the RSS Button -----&gt;

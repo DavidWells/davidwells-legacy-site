@@ -6,7 +6,7 @@ layout: Post
 permalink: >
   http://davidwells.io/how-to-seed-build-facebook-fans-for-facebook-business-pages/
 ---
-<a href="http://www.davidwells.tv/wp-content/uploads/2012/04/facebookgrow.png"><img class="size-full wp-image-4268 alignright" title="facebookgrow" src="http://www.davidwells.tv/wp-content/uploads/2012/04/facebookgrow.png" alt="" width="310" height="224" /></a>Growing a Facebook community can be tough. It's a long grueling process that takes time, effort, and elbow grease.
+<a href="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/04/facebookgrow.png"><img class="size-full wp-image-4268 alignright" title="facebookgrow" src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/04/facebookgrow.png" alt="" width="310" height="224" /></a>Growing a Facebook community can be tough. It's a long grueling process that takes time, effort, and elbow grease.
 <div class="LessonContent">
 <div class="LessonSummary">
 
@@ -26,7 +26,7 @@ To quickly seed fan page growth you will need the following:
 </div>
 <div class="LessonStep top">
 <h2 class="StepTitle">Step 1 - Install Greasemonkey for Firefox</h2>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/04/Step_1_-_Install_Greasemonkey_for_Firefox.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/04/Step_1_-_Install_Greasemonkey_for_Firefox.png"/></div>
 <div class="StepInstructions">
 
 Install the firefox extension greasemonkey. https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
@@ -41,7 +41,7 @@ The Facebook: InviteThemAll script works like a charm, I've tested and used it h
 </div>
 <div class="LessonStep top">
 <h2 class="StepTitle">Step 2 - Install Facebook Invite Them All</h2>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/04/Step_2_-_Install_Facebook_Invite_Them_All.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/04/Step_2_-_Install_Facebook_Invite_Them_All.png"/></div>
 <div class="StepInstructions">
 
 The greasemonkey script we will be using is called <a href="http://userscripts.org/scripts/show/89653">Facebook: InviteThemAll</a> and it does exactly what it says. Helps you invite all of your friends to like your fan page quickly and easily.
@@ -54,7 +54,7 @@ This is helpful for sanity's sake and to <strong>actually get your coworkers to 
 </div>
 <div class="LessonStep top">
 <h2 class="StepTitle">Step 3 - Invite Your Companies Collective Network</h2>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/04/Step_3_-_Invite_Your_Companies_Collective_Network.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/04/Step_3_-_Invite_Your_Companies_Collective_Network.png"/></div>
 <div class="StepInstructions">
 
 After you have installed greasemonkey and the Facebook Invite them all script in Firefox, Navigate to your facebook fan page and click on Invite Friends.
@@ -63,7 +63,7 @@ After you have installed greasemonkey and the Facebook Invite them all script in
 </div>
 <div class="LessonStep top">
 <h2 class="StepTitle">a. Select Your Entire Network</h2>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/04/a._Select_Your_Entire_Network.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/04/a._Select_Your_Entire_Network.png"/></div>
 <div class="StepInstructions">
 
 Hit the recent interactions dropdown menu and select "search all friends"
@@ -74,7 +74,7 @@ This will allow you to see your entire network
 </div>
 <div class="LessonStep top">
 <h2 class="StepTitle">b. Use the added greasemonkey functionality to select all friends with one click</h2>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/04/b._Use_the_added_greasemonkey_functionality_to_select_all_friends_with_one_click.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/04/b._Use_the_added_greasemonkey_functionality_to_select_all_friends_with_one_click.png"/></div>
 <div class="StepInstructions">
 
 You will also notice the new select from friends option underneath the search box, this is what greasemonkey and the script has dynamically added into the page.
@@ -85,7 +85,7 @@ Click select on the new select all bar, wait for it to do it's magic. It might t
 </div>
 <div class="LessonStep top">
 <h2 class="StepTitle">c. If asked, continue the script.</h2>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/04/c._If_asked__continue_the_script..png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/04/c._If_asked__continue_the_script..png"/></div>
 <div class="StepInstructions">
 
 Click continue and let the script finish
@@ -94,7 +94,7 @@ Click continue and let the script finish
 </div>
 <div class="LessonStep top">
 <h2 class="StepTitle">d. Click Submit and Invite your Network to join the conversation on your fan page</h2>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/04/d._Click_Submit_and_Invite_your_Network_to_join_the_conversation_on_your_fan_page.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/04/d._Click_Submit_and_Invite_your_Network_to_join_the_conversation_on_your_fan_page.png"/></div>
 <div class="StepInstructions">
 
 Submit and invite your network to like your Facebook Fan Page. <strong>Boom. Done.</strong>

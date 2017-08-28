@@ -17,7 +17,7 @@ Not to panic though, you can fix this issue quickly and easily in a couple of st
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">Step 1 - Log into your FTP client and delete the plugin file or folder from your wp-content/plugins folder.</h3>
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/03/Step_1_-_Log_into_your_FTP_client_and_delete_the_plugin_file_or_folder_from_your_wp-contentplugins_folder..png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/03/Step_1_-_Log_into_your_FTP_client_and_delete_the_plugin_file_or_folder_from_your_wp-contentplugins_folder..png"/></div>
 <div class="StepInstructions">
 
 I use <a href="http://filezilla-project.org/" target="_blank">Filezilla</a> as my FTP client to connect to my server. Here is a <a href="http://www.youtube.com/watch?v=80rc8Ky__bs" target="_blank">quick video showing you how to connected to your server to manage your wordpress files </a>
@@ -31,7 +31,7 @@ You can see all the old versions of a wordpress plugin in the <a href="http://wo
 </div>
 </div>
 <div class="LessonStep top">
-<div class="StepImage"> <img src="http://www.davidwells.tv/wp-content/uploads/2012/03/media_1332715123808.png"/></div>
+<div class="StepImage"> <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2012/03/media_1332715123808.png"/></div>
 </div>
 <div class="LessonStep top">
 <h3 class="StepTitle">Step 2 - Download the older version of the plugin and upload it to your wp-content/plugins folder, then activate it</h3>
