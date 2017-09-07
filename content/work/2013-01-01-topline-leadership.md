@@ -1,5 +1,5 @@
 ---
-title: Marin Independent Journal
+title: Topline Leadership
 description: WordPress site build with inbound marketing implementation. Landing pages, calls to actions, & lead tracking
 thumbnail: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/legacy/2015/03/1425429456_Topline_Home_Page.jpg
 date: 2013-01-01

@@ -1,5 +1,9 @@
 # Simple redirects from one path to another
-/testing /lolz/ 301
+/speaking /talks/ 301
+/portfolio/hamamatsu /work/hamamatsu 301
+/portfolio/america-for-president /work/america-for-president/ 301
+/portfolio/medical-records-dot-com /work/medical-records-dot-com/ 301
+/portfolio/topline-leadership /work/topline-leadership/ 301
 /6-reasons-why-non-profits-need-a-blog/ /blog/6-reasons-why-non-profits-need-a-blog/ 301
 /6-reasons-static-html-bad-nonprofit/ /blog/6-reasons-static-html-bad-nonprofit/ 301
 /rss-important/ /blog/rss-important/ 301
