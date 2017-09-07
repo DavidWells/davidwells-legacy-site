@@ -97,7 +97,11 @@ class Post extends Component {
     }
 
     if (isLoading) {
-      markdownContent = <ContentLoading numberOfLines={30} />
+      markdownContent = (
+        <div className={styles.loadingWrapper}>
+          <ContentLoading numberOfLines={30} />
+        </div>
+      )
     }
 
     return (

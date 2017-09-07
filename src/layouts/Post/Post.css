@@ -10,7 +10,7 @@ $contentWidth: 650px;
 .contentWrapper {
   margin-top: 50px;
   width: 100%;
-  h1, h2, h3, h4, h5, h6, p, iframe, .postMeta {
+  h1, h2, h3, h4, h5, h6, p, iframe, .postMeta, .loadingWrapper {
     padding-left: $contentPadding;
   }
   blockquote {
@@ -22,7 +22,7 @@ $contentWidth: 650px;
   ol, ul {
     padding-left: 100px;
   }
-  h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, .postMeta {
+  h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, .postMeta, .loadingWrapper {
     width: $contentWidth;
     max-width: $contentWidth;
     min-width: $contentWidth;
@@ -123,7 +123,7 @@ $contentWidth: 650px;
   }
   .contentWrapper {
     margin-top: 10px;
-    h1, h2, h3, h4, h5, h6, p, iframe, .postMeta {
+    h1, h2, h3, h4, h5, h6, p, iframe, .postMeta, .loadingWrapper {
       padding-left: 5px;
     }
     blockquote {
@@ -135,7 +135,7 @@ $contentWidth: 650px;
     ol, ul {
       padding-left: 15px;
     }
-    h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, .postMeta {
+    h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, .postMeta, .loadingWrapper {
       width: 100%;
       max-width: 100%;
       min-width: 100%;
