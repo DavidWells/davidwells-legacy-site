@@ -154,7 +154,7 @@
     width: 30%;
     margin: 10px 0px;
     margin-right: 3%;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   .thumbnailWrapper {
     min-width: 100%;
@@ -164,8 +164,8 @@
   }
   .thumbnail {
     max-width: 100%;
-    min-height: 215px;
-    max-height: 215px;
+    min-height: 180px;
+    max-height: 180px;
   }
   .description {
     text-align: center;
