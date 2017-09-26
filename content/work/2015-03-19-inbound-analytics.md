@@ -14,9 +14,9 @@ layout: Portfolio
 
 **Date:** 2014
 
-**Demo Link:** [http://davidwells.io/wp-content/plugins/leads/shared/docs/](http://davidwells.io/wp-content/plugins/leads/shared/docs/)
-
 **Tags:** JavaScript
+
+Read the [docs](http://inbound-analytic-docs.surge.sh/)
 
 Vanilla JavaScript Analytics library with zero dependancies.
 
