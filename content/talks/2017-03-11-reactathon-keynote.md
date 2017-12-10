@@ -6,7 +6,7 @@ date: 2017-03-12
 layout: Talk
 ---
 
-# Building Serverless Applications with AWS Lambda & React
+My talk on serverless architectures at github headquarters in SF.
 
 Talk starts at 14 minute mark.
 
