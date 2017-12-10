@@ -1,6 +1,6 @@
 ---
-title: Building Event Driven Serverless Microservices
-event: Navigating the Serverless Ecosystem @ Heavybit
+title: Navigating the Serverless Ecosystem
+event: Serverless Meetup @ Heavybit
 date: 2017-07-28
 layout: Talk
 ---

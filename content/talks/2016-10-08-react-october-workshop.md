@@ -1,5 +1,5 @@
 ---
-title: Workshop: React Fundamentals
+title: "Workshop: React Fundamentals"
 event: React Class Workshop @ Educents
 date: 2016-10-08
 layout: Talk

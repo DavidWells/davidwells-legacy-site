@@ -1,5 +1,5 @@
 ---
-title: Workshop: Learn React JS in a Weekend
+title: "Workshop: Learn React JS in a Weekend"
 event: React Class Workshop @ Educents
 date: 2016-07-23
 layout: Talk

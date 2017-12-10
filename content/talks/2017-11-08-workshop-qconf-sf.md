@@ -1,6 +1,6 @@
 ---
-title: Workshop: Buidling Serverless Applications
-event: qConf SF 2017
+title: "Workshop: Building Serverless Applications"
+event: qconf SF 2017
 date: 2017-11-08
 layout: Talk
 ---

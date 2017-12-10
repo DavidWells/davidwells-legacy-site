@@ -1,5 +1,5 @@
 ---
-title: Workshop: Event-driven Serverless Apps with AWS Lambda & React
+title: "Workshop: Event-driven Serverless Apps with AWS Lambda & React"
 event: Reactathon Workshop @ Pinterest
 date: 2017-03-09
 layout: Talk

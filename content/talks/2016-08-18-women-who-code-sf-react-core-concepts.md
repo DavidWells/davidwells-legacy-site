@@ -1,5 +1,5 @@
 ---
-title: Beyond the Basics: Introduction to React.js
+title: "Beyond the Basics: Introduction to React.js"
 event: Women Who Code SF
 date: 2015-08-18
 layout: Talk

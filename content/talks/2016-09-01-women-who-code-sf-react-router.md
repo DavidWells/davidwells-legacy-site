@@ -1,5 +1,5 @@
 ---
-title: Beyond the Basics: Using React Router
+title: "Beyond the Basics: Using React Router"
 event: Women Who Code SF
 date: 2015-09-01
 layout: Talk

@@ -1,5 +1,5 @@
 ---
-title: Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node
+title: "Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node"
 event: Node.js SF Meetup
 video: https://www.youtube.com/watch?v=_zgMMGddbWA
 date: 2015-04-21

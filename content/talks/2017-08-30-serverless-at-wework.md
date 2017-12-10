@@ -1,5 +1,5 @@
 ---
-title: Serverless in the Wild: Real World Use Cases v2
+title: "Serverless in the Wild: Real World Use Cases v2"
 event: SpotInst Serverless Meetup @ WeWork
 date: 2017-08-30
 layout: Talk
