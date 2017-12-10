@@ -9,6 +9,8 @@ layout: Talk
 
 In this workshop are going to use a number of AWS Services and the serverless framework to build event driven microservices with Lambda, API Gateway, DynamoDB, S3, and Kinesis. You'll learn how to deploy your applications as independent functions, that respond to events, charge you only when they run, and scale automatically. The open source Serverless Framework helps to facilitate this and simplifies the deployment to Lambda -- all from the comfort of your command line.
 
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/images/qconf-sf-2017.jpg" width="600" />
+
 ### Technologies used for this workshop:
 
 * AWS Lambda
