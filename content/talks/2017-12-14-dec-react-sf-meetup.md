@@ -9,11 +9,7 @@ Come learn how to build a robust multi-stage React application backed by a Serve
 
 David will walk you through using React, AWS Lambda, custom authorizers, and Auth0 JWTs to create an infinitely scalable, pay per execution full stack app.
 
-[Event Details](https://www.meetup.com/Real-World-React/events/245095649/)
-
-[Slides](http://bit.ly/sls-auth-slides)
-
-[Github Repo](https://github.com/serverless/forms-service)
+[Event Details](https://www.meetup.com/Real-World-React/events/245095649/) | [Slides](http://bit.ly/sls-auth-slides) | [Github Repo](https://github.com/serverless/forms-service)
 
 ## Backend Architecture
 
