@@ -27,12 +27,12 @@ export default class Talks extends Component {
       reverse: true,
     })
     .slice(pagination, offset)
-    let nextLink = <Link to={'/blog/page/1'}>Next</Link>
+    let nextLink = <Link to={'/talks/page/1'}>Next</Link>
     let previousLink
     if (params && params.page) {
       const prevNum = ((pageNumber - 1) === 0) ? '' : `page/${pageNumber - 1}`
-      nextLink = <Link to={`/blog/page/${pageNumber + 1}`}>Next</Link>
-      previousLink = <Link to={`/blog/${prevNum}`}>Previous</Link>
+      nextLink = <Link to={`/talks/page/${pageNumber + 1}`}>Next</Link>
+      previousLink = <Link to={`/talks/${prevNum}`}>Previous</Link>
     }
     let renderContent = (
       <div className={styles.postList}>
