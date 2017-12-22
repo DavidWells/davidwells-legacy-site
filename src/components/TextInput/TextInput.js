@@ -208,7 +208,8 @@ class TextInput extends Component {
   }
   captureFocusWhenInvalid() {
     if (!this.state.isValid) {
-      this.focus()
+      // causes back form behavoir
+      // this.focus()
     }
   }
   showValidation() {

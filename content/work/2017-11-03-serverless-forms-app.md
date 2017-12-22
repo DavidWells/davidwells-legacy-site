@@ -31,6 +31,12 @@ Collect and manage form data using serverless technology.
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/serverless-form-service-backend.png" />
 
+## Auth flow for protected API endpoints
+
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/serverless-forms-service-custom-auth-flow.jpg" />
+
+## UI
+
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/serverless-forms-service-dashboard.jpg" />
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/serverless-forms-service-form-view.jpg" />
