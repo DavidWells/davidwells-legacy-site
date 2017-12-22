@@ -24,8 +24,6 @@ export default class BlogPage extends Component {
     const pagination = numberOfLatestPosts * pageNumber
     const offset = pagination + numberOfLatestPosts
 
-
-    console.log('this.context.collection', this.context.collection)
     const latestPosts = enhanceCollection(this.context.collection, {
       filter: { layout: 'Post' },
       sort: 'date',
@@ -38,7 +36,7 @@ export default class BlogPage extends Component {
       if (date1.date < date2.date) return 1
       return 0
     }).slice(pagination, offset)
-    console.log(sorted)
+
     let nextLink = <Link to={'/blog/page/1'}>Next</Link>
     let previousLink
     if (params && params.page) {
@@ -61,6 +59,10 @@ export default class BlogPage extends Component {
       const text = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae mauris arcu, eu pretium nisi. Praesent fringilla ornare ullamcorper. Pellentesque diam orci, sodales in blandit ut, placerat quis felis.'
       renderContent = (
         <div className={styles.postList}>
+          <BlogPreview page={{ title: 'loading...', description: text }} isLoading />
+          <BlogPreview page={{ title: 'loading....', description: text }} isLoading />
+          <BlogPreview page={{ title: 'loading...', description: text }} isLoading />
+          <BlogPreview page={{ title: 'loading....', description: text }} isLoading />
           <BlogPreview page={{ title: 'loading...', description: text }} isLoading />
           <BlogPreview page={{ title: 'loading....', description: text }} isLoading />
           <BlogPreview page={{ title: 'loading...', description: text }} isLoading />
