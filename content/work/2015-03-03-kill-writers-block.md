@@ -14,7 +14,7 @@ layout: Portfolio
 
 **Date:** 2015
 
-**Demo Link:** [http://davidwells.io/demo/kill-writers-block/](http://davidwells.io/demo/kill-writers-block/)
+**Demo Link:** [Demo](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/demos/kill-writers-block/index.html)
 
 **Tags:** JavaScript, ReactJS
 
