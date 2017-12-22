@@ -16,11 +16,19 @@ export default class Contact extends Component {
       success: false
     }
   }
+
   handleSubmit = (event, data) => {
     event.preventDefault()
+
+    if (!data || !data.name || !data.email || !data.message) {
+      alert('Please enter name, email and message') // eslint-disable-line
+      return false
+    }
+
     this.setState({
       loading: true
     })
+
     console.log(data) // eslint-disable-line
     // handle data
     axios({
