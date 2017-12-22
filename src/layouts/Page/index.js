@@ -18,16 +18,16 @@ export default class Page extends Component {
     const url = getCurrentUrl(__url)
     const links = [{
       text: 'Work',
-      url: '/work'
+      url: '/work/'
     }, {
       text: 'Blog',
-      url: '/blog'
+      url: '/blog/'
     }, {
       text: 'Talks',
-      url: '/talks'
+      url: '/talks/'
     }, {
       text: 'Contact',
-      url: '/contact'
+      url: '/contact/'
     }]
     return links.map((link, i) => {
       let currentStyle

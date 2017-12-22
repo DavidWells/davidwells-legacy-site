@@ -20,7 +20,9 @@ const Preview = ({ page }) => {
     <li className={styles.item}>
       <Link to={page.__url}>
         <span className={styles.thumbnailWrapper}>
-          <img className={styles.thumbnail} src={page.thumbnail} />
+          <span className={styles.thumbnailInner}>
+            <img className={styles.thumbnail} src={page.thumbnail} />
+          </span>
         </span>
         <div className={styles.details}>
           <h3>
@@ -30,9 +32,6 @@ const Preview = ({ page }) => {
             {page.description}
           </span>
         </div>
-        <Button className={styles.button}>
-          View Project
-        </Button>
       </Link>
     </li>
   )

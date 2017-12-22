@@ -24,7 +24,7 @@ const propTypes = {
 class Default extends Component {
   componentDidMount() {
     // Set last page viewed for 404 tracker
-    setItem('sls_last_page', window.location.href)
+    setItem('last_page_viewed', window.location.href)
   }
   render() {
     const {
