@@ -45,7 +45,6 @@ export default class Contact extends Component {
           })
         }, 500)
       } else {
-        console.log('failed creation')
         this.setState({
           loading: false,
           error: true
@@ -79,7 +78,7 @@ export default class Contact extends Component {
       return (
         <div>
           <p>Thanks for reaching out!</p>
-          <p>Ping me on Twitter <a href='https://twitter.com/davidwells' target='_blank' rel='noopener noreferrer'>@DavidWells</a></p>
+          <p>You can also ping me on Twitter <a href='https://twitter.com/davidwells' target='_blank' rel='noopener noreferrer'>@DavidWells</a></p>
         </div>
       )
     }
