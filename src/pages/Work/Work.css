@@ -105,7 +105,9 @@
   }
   .thumbnailWrapper {
     width: 19%;
-    min-height: 120px;
+    min-height: 110px;
+    display: flex;
+    align-items: center;
   }
   .thumbnailInner {
     display: flex;
