@@ -9,6 +9,7 @@ dist
 
 # Ignore generate content
 dist-content
+resume/README.md
 
 #IDE Stuff
 **/.idea
