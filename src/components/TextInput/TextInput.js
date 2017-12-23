@@ -261,7 +261,6 @@ class TextInput extends Component {
       value,
       className: cx(className, styles.input),
     }
-    console.log('props', props)
     return (
       <div className={styles.inputWrapper}>
         {this.showValidation()}
