@@ -121,6 +121,17 @@ p {
 	word-spacing: 1px;
 }
 
+time {
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+}
+
+.p-job-title:before {
+	content: '-';
+	display: inline-block;
+}
+
 @media print {
 	p, li {
 	}
@@ -296,6 +307,21 @@ a {
 	}
 	.p-contact-col-1, .p-contact-col-2, .p-contact-col-3 {
 		padding: 0.25rem 0;
+	}
+	.h-card {
+		font-size: 13px;
+	}
+	.h-event .p-name {
+		display: block;
+		font-size: 18px;
+		box-shadow: none;
+	}
+	.p-job-timeline {
+		display: block;
+		font-size: 10px;
+	}
+	.p-job-title:before {
+		display: none;
 	}
 	h1 {
 		margin-top: 0px;
