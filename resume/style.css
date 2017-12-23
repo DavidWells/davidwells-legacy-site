@@ -29,18 +29,6 @@ body {
   background: linear-gradient(#57c5fa,#0a81fe);
   position: relative;
 }
-/* body:after{
-  content:'';
-  height: 100%;
-  width: 100%;
-  display: block;
-  background-image:linear-gradient(90deg, rgba(255,255,255,.25) 1px, rgba(0,0,0,0) 1px), linear-gradient(0deg, rgba(255,255,255,.25) 1px, rgba(0,0,0,0) 1px);
-  background-position:0px 1px;
-  background-repeat:repeat;
-  background-size:20px 20px;
-}
- */
-/*optional*/
 .background {
   background: url(https://s3-us-west-2.amazonaws.com/assets.davidwells.io/images/resume-background.png);
   background-image:linear-gradient(90deg, rgba(255,255,255,.25) 1px, rgba(0,0,0,0) 1px), linear-gradient(0deg, rgba(255,255,255,.25) 1px, rgba(0,0,0,0) 1px);
@@ -130,6 +118,10 @@ time {
 .p-job-title:before {
 	content: '-';
 	display: inline-block;
+}
+
+.p-description ul {
+	margin-top: 10px;
 }
 
 @media print {
@@ -279,27 +271,12 @@ a {
 .h-event .p-description p {
 	margin-top: 0.5rem;
 }
-.h-event .p-description ul {
-	list-style-type: square;
-	list-style-position: inside;
-}
-.h-event .p-description li {
-	display: inline-block;
-	position: relative;
-	vertical-align: top;
-}
+
 .h-event .p-description li {
 	margin-top: 0.25em;
-	padding: 0 0.5em 0 1em;
 	text-align: left;
 	width: 90%;
 }
-.h-event .p-description li::before {
-	content: '■ ';
-	position: absolute;
-	left: 0;
-}
-
 
 @media (max-width: 650px) {
 	.u-photo {
