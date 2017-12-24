@@ -6,7 +6,8 @@ import Svg from 'react-svg-inline'
 import { getCurrentUrl } from '../../utils/url'
 import twitterSVG from '../../assets/icons/twitter.svg'
 import githubSVG from '../../assets/icons/github.svg'
-import facebookSVG from '../../assets/icons/facebook.svg'
+// import facebookSVG from '../../assets/icons/facebook.svg'
+import linkedInSVG from '../../assets/icons/linkedin.svg'
 import Default from '../Default'
 import ContentLoading from '../../components/ContentLoading/Paragraph'
 import styles from './Page.css'
@@ -94,14 +95,14 @@ export default class Page extends Component {
                 {this.renderLinks()}
               </nav>
               <div className={styles.social}>
-                <a href='http://twitter.com/davidwells' target='_blank' rel='noopener noreferrer'>
-                  <Svg svg={twitterSVG} cleanup />
-                </a>
                 <a href='https://github.com/davidwells' target='_blank' rel='noopener noreferrer'>
                   <Svg svg={githubSVG} cleanup />
                 </a>
-                <a href='https://www.facebook.com/davidgwells' target='_blank' rel='noopener noreferrer'>
-                  <Svg svg={facebookSVG} cleanup />
+                <a href='http://twitter.com/davidwells' target='_blank' rel='noopener noreferrer'>
+                  <Svg className={styles.twitter} svg={twitterSVG} cleanup />
+                </a>
+                <a href='https://www.linkedin.com/in/davidgwells/' target='_blank' rel='noopener noreferrer'>
+                  <Svg svg={linkedInSVG} cleanup />
                 </a>
               </div>
             </div>

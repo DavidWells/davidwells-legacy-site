@@ -20,12 +20,20 @@
 .social {
   padding-left: $contentPadding;
   padding-top: 15px;
-  padding-bottom: 5px;
+  padding-bottom: 15px;
   background: #fff;
   width: 85%;
+  display: flex;
+  align-items: center;
   a {
     border-bottom: none;
-    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+    span {
+      display: flex;
+      align-items: center;
+    }
   }
   svg {
     fill: #999;
@@ -33,6 +41,12 @@
       fill: #0090ff;
     }
     width: 26px;
+  }
+}
+.twitter {
+  svg {
+    width: 28px !important;
+    margin-top: 4px;
   }
 }
 .header {
