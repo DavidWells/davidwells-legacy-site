@@ -30,7 +30,7 @@
     "no-underscore-dangle": 0,
     "no-plusplus": 0,
     "no-console": [1, {"allow": ["warn", "error"]}],
-    "no-unused-vars": [2, { "vars": "all", "args": "none" }],
+    "no-unused-vars": [1, { "vars": "all", "args": "none" }],
     "no-use-before-define": 0,
     "import/newline-after-import": 0,
     "import/extensions": 0,
