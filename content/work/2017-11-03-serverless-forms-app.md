@@ -10,9 +10,9 @@ layout: Portfolio
 
 Collect and manage form data using serverless technology.
 
-[Repo](https://github.com/serverless/forms-service)
+[Demo](https://serverless-forms.netlify.com) | [Repo](https://github.com/serverless/forms-service)
 
-[Demo](https://serverless-forms.netlify.com)
+
 
 ## Frontend
 
