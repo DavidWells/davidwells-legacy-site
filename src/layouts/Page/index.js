@@ -20,11 +20,11 @@ export default class Page extends Component {
       text: 'Work',
       url: '/work/'
     }, {
-      text: 'Blog',
-      url: '/blog/'
-    }, {
       text: 'Talks',
       url: '/talks/'
+    }, {
+      text: 'Blog',
+      url: '/blog/'
     }, {
       text: 'Contact',
       url: '/contact/'
@@ -85,7 +85,7 @@ export default class Page extends Component {
                   David Wells
                 </h1></Link>
                 <h2>Full Stack Developer</h2>
-                <h3>Focused on UX/UI, Growth<br />& Product Development</h3>
+                <h3>Serverless Architectures<br />User Experience & Product</h3>
               </figure>
               <nav className={styles.nav}>
                 {this.renderLinks()}

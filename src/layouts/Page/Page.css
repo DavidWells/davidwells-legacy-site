@@ -47,7 +47,7 @@
   }
   h2 {
     margin-top: 10px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-size: 12px;
     line-height: 16px;
     text-transform: uppercase;
@@ -57,7 +57,7 @@
   }
   h3 {
     font-weight: 300;
-    font-size: 14px;
+    font-size: 13px;
     line-height: 20px;
     color: #585c60;
     -webkit-font-smoothing: antialiased;

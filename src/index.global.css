@@ -77,6 +77,9 @@ article {
     color: #212121;
     text-decoration: none;
     outline: 0;
+    strong {
+      cursor: pointer;
+    }
     &:hover, &:focus {
       color: #06e;
     }
