@@ -66,6 +66,9 @@
     margin-top: 5px;
   }
 }
+.mobileTag {
+  display: none;
+}
 .content {
   flex-grow: 1;
   width: 77%;
@@ -138,10 +141,19 @@
   }
 }
 @media (max-width: 720px) {
+  .mobileTag {
+    display: block;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 20px;
+    color: #585c60;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 10px;
+  }
   .header {
     h1 {
       margin-top: 5px;
-      margin-bottom: 15px;
+      margin-bottom: 5px;
       margin-left: 0px;
     }
     h2 {

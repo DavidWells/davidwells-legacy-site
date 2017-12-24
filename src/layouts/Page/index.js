@@ -86,6 +86,9 @@ export default class Page extends Component {
                 </h1></Link>
                 <h2>Full Stack Developer</h2>
                 <h3>Serverless Architectures<br />User Experience & Product</h3>
+                <span className={styles.mobileTag}>
+                  Serverless, User Experience & Product
+                </span>
               </figure>
               <nav className={styles.nav}>
                 {this.renderLinks()}

@@ -5,8 +5,6 @@ description: Learn more about David Gregory Wells full stack serverless develope
 layout: Homepage
 ---
 
-# About David Wells
-
 > **TL;DR** – Marketing nerd turned full stack developer & entrepreneur.
 
 I’m a full stack developer at [Serverless Inc](http://serverless.com) in San Francisco.
