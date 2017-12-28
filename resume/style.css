@@ -41,8 +41,12 @@ body {
   left: 0;
 }
 .container {
+	background-color: #ffffff;
 	position: relative;
 	z-index: 3;
+}
+.print-url {
+	display: none;
 }
 
 @media screen {
@@ -67,6 +71,15 @@ body {
 @media print {
 	.container {
 		padding: 0 0.5in;
+		padding-top: 0.5in;
+	}
+	.print-url {
+		display: block;
+		position: absolute;
+		width: 100%;
+		text-align: center;
+		left: 0;
+		top: 10px;
 	}
 }
 
