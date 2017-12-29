@@ -10,7 +10,7 @@ layout: Portfolio
 
 The serverless desktop is a cross platform GUI that wraps the serverless CLI with a GUI.
 
-<img src="https://s3-us-west-2.amazonaws.com/assets.dashboard/gifs/DashGif.gif">
+<img width="350" src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/serverless-desktop-gif.gif">
 
 [Repo](https://github.com/serverless/dashboard)
 
