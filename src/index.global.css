@@ -57,9 +57,29 @@ body {
   /* system font https://medium.com/designing-medium/system-shock-6b1dc6d6596f */
   font-family: 'proxima-nova', 'Helvetica', sans-serif;
 }
+
+.page-typography .phenomic-BodyContainer {
+  padding-top: 50px;
+  > * {
+    padding-left: 50px;
+  }
+  > ul, > ol {
+    margin-left: 50px;
+    > li p {
+      margin: 0px;
+    }
+  }
+  blockquote {
+    margin-left: 50px;
+    padding-left: 25px;
+  }
+  pre {
+    padding-left: 0;
+  }
+}
 h1, h2, h3, h4, h5, h6 {
-   margin-top: 0;
-   margin-bottom: 2rem;
+   margin-top: 2rem;
+   margin-bottom: 1.5rem;
 }
 h1 { font-size: 3.0rem; line-height: 1.2; letter-spacing: -.05rem;}
 h2 { font-size: 2.5rem; line-height: 1.25; letter-spacing: -.03rem; }

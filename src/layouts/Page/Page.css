@@ -87,6 +87,9 @@
   flex-grow: 1;
   width: 77%;
   min-width: 77%;
+  h1:first-of-type {
+    margin-top: 0px;
+  }
 }
 .nav {
   flex-grow: 1;

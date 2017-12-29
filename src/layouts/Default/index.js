@@ -43,6 +43,7 @@ class Default extends Component {
     let meta
 
     let contentWrapperClass = (fullWidth) ? styles.fullWidth : styles.page
+    let slugClass
     if (!isLoading && head) {
       metaTitle = head.metaTitle || head.title
       meta = [
@@ -59,6 +60,7 @@ class Default extends Component {
       { name: 'twitter:description', content: head.description },
       { name: 'description', content: head.description },
       ]
+      slugClass = `page${__url.replace(/\//g, '-').replace(/-$/g, '')}`
       if (head.fullWidth) {
         contentWrapperClass = (head.fullWidth) ? styles.fullWidth : styles.page
       }
@@ -108,7 +110,7 @@ class Default extends Component {
       )
     }
     const pageClass = (head) ? `layout-${head.layout.toLowerCase()}` : ''
-    const classes = classnames(contentWrapperClass, className)
+    const classes = classnames(contentWrapperClass, slugClass, className)
     return (
       <div id='base' className={pageClass}>
         <Helmet title={metaTitle} meta={meta} />
