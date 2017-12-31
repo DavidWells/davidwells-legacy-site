@@ -19,6 +19,7 @@ module.exports = function prepopulateTalks() {
       const data = {
         title: item.title,
         date: item.date,
+        event: item.event,
         url: `https://davidwells.io/${slug}`
       }
       if (item.date) {

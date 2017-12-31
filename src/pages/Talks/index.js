@@ -3,6 +3,7 @@ import { Link } from 'react-router'
 import enhanceCollection from 'phenomic/lib/enhance-collection'
 import Page from '../../layouts/Page'
 import Preview from './Preview'
+import prepopulatedTalks from './prepopulated.json'
 import styles from './Talks.css'
 
 const numberOfLatestPosts = 100
@@ -15,7 +16,49 @@ export default class Talks extends Component {
   static contextTypes = {
     collection: PropTypes.array.isRequired,
   }
+  renderLoadingState() {
+    // If loading pageinated posts
+    if (this.props.params && this.props.params.page) {
+      const dummy = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+      const loadingPosts = dummy.map(() => {
+        return <Preview page={{ title: 'Loading...' }} isLoading />
+      })
+      return (
+        <div className={styles.postList}>
+          {loadingPosts}
+        </div>
+      )
+    }
 
+    // First page load prepopulated data
+    const preloadedPosts = prepopulatedTalks.map((post) => {
+      let data = {
+        title: post.title,
+        date: post.date,
+        event: post.event
+      }
+      if (post.url && post.url.match(/davidwells\.io/)) {
+        // internal url use react router link
+        data = {
+          ...data, ...{ __url: post.url }
+        }
+      } else {
+        // external URL target blank link
+        data = {
+          ...data, ...{ url: post.url }
+        }
+      }
+      return (
+        <Preview page={data} isLoading />
+      )
+    })
+    // render prepopulated content
+    return (
+      <div className={styles.postList}>
+        {preloadedPosts}
+      </div>
+    )
+  }
   render() {
     const { isLoading, params } = this.props
     const pageNumber = (params && params.page) ? parseInt(params.page, 10) : 0
@@ -46,17 +89,7 @@ export default class Talks extends Component {
       </div>
     )
     if (isLoading) {
-      const text = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae mauris arcu, eu pretium nisi. Praesent fringilla ornare ullamcorper. Pellentesque diam orci, sodales in blandit ut, placerat quis felis.'
-      renderContent = (
-        <div className={styles.postList}>
-          <Preview page={{ title: 'loading...', description: text }} isLoading />
-          <Preview page={{ title: 'loading....', description: text }} isLoading />
-          <Preview page={{ title: 'loading...', description: text }} isLoading />
-          <Preview page={{ title: 'loading....', description: text }} isLoading />
-          <Preview page={{ title: 'loading...', description: text }} isLoading />
-          <Preview page={{ title: 'loading....', description: text }} isLoading />
-        </div>
-      )
+      renderContent = this.renderLoadingState()
     }
     return (
       <Page {...this.props}>
