@@ -10,7 +10,7 @@ Anyone can learn how to code.
 
 It's not rocket science. Watch this:
 
-<iframe src="http://www.youtube.com/embed/nKIu9yen5nc" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKIu9yen5nc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Convinced yet?
 
