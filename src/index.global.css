@@ -77,6 +77,32 @@ body {
     padding-left: 0;
   }
 }
+
+@media (max-width: 768px) {
+  .page-typography .phenomic-BodyContainer {
+    padding-top: 25px;
+    > * {
+      padding-left: 25px;
+    }
+    > ul, > ol {
+      margin-left: 25px;
+      > li p {
+        margin: 0px;
+      }
+    }
+    iframe {
+      max-width: 95%
+    }
+    blockquote {
+      margin-left: 25px;
+      padding-left: 14px;
+    }
+    pre {
+      padding-left: 0;
+    }
+  }
+}
+
 h1, h2, h3, h4, h5, h6 {
    margin-top: 2rem;
    margin-bottom: 1.5rem;
