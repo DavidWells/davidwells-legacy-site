@@ -22,6 +22,8 @@ html {
   box-sizing: inherit;
 }
 
+::selection { background: yellow; }
+
 /*
  * kill document defaults margin & padding. We all do that all the time, right ?
  */
