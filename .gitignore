@@ -18,3 +18,5 @@ resume/README.md
 #OS STUFF
 .DS_Store
 .tmp
+
+/src/pages/Blog/prepopulate.json
