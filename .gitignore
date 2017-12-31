@@ -20,3 +20,5 @@ resume/README.md
 .tmp
 
 /src/pages/Blog/prepopulate.json
+
+/src/pages/Talks/prepopulated.json

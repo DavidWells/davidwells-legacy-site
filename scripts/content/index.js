@@ -5,7 +5,8 @@ const fs = require('fs-extra') // eslint-disable-line
 const path = require('path')
 const asyncLib = require('async') // eslint-disable-line
 const removeDateFromFileName = require('./remove-date-from-filename')
-const prepopulateBlog = require('./prepopulate')
+const prepopulateBlog = require('./prepopulateBlog')
+const prepopulateTalks = require('./prepopulateTalks')
 // const updateBlogFileContents = require('./update-blog-yaml')
 // const generateAuthorData = require('./generate-author-data')
 
@@ -56,6 +57,7 @@ asyncLib.waterfall([
     console.log('err', err)
   }
   prepopulateBlog()
+  prepopulateTalks()
   // generateAuthorData()
   // userNotice()
   console.log('Finished processing Blog posts')
