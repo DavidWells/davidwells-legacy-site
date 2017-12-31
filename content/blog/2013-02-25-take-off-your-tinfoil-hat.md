@@ -1,10 +1,8 @@
 ---
 title: Take Off Your Tinfoil Hat
 author: David Wells
-date: 2013-02-25 17:00:49
+date: 2013-02-25
 layout: Post
-permalink: >
-  http://davidwells.io/take-off-your-tinfoil-hat/
 ---
 
 "I don't want to use gmail or chrome or android because I don't want Google to have anymore information on me"
