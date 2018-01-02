@@ -7,6 +7,8 @@ layout: Homepage
 
 > **TL;DR** – Marketing nerd turned full stack developer & entrepreneur.
 
+⊂◉‿◉つ
+
 I’m a full stack developer at [Serverless Inc](http://serverless.com) in San Francisco.
 
 Previously, I was working at [Mulesoft](http://www.mulesoft.com) as the lead developer on UI/UX team. Before that, I founded [Inbound Now](http://www.inboundnow.com), where we made open source inbound marketing software.
