@@ -101,10 +101,18 @@
     border-bottom: none;
     font-weight: 600;
     transition: all .14s ease 0s;
+    &:active {
+      outline: none;
+    }
     &:hover {
       .pill {
         color: #000;
         border-color: #000;
+      }
+    }
+    .pill {
+      &:active {
+        outline: none;
       }
     }
   }
