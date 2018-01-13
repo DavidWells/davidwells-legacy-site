@@ -1,6 +1,6 @@
 ---
 title: "Using Auth0 & AWS custom authorizers for Serverless APIs"
-event: Portland meetup SF @ New Relix
+event: Portland React meetup @ New Relic
 date: 2018-01-11
 layout: Talk
 ---
