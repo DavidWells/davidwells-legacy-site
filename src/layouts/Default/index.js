@@ -8,6 +8,17 @@ import { BodyContainer, joinUri } from 'phenomic'
 import { setItem } from '../../utils/storage'
 import styles from './Default.css'
 
+
+const imgBase = 'https://s3-us-west-2.amazonaws.com/assets.davidwells.io'
+
+const prefetches = [
+  `${imgBase}/work/serverless-forms-service-logo.jpg`,
+  `${imgBase}/work/serverless-onboarding-v2-thumb.jpg`,
+  `${imgBase}/work/serverless-post-scheduler.jpg`,
+  `${imgBase}/work/serverless-site-v2-thumbnail.jpg`,
+  `${imgBase}/work/serverless-scope-logo.jpg`,
+]
+
 const propTypes = {
   children: PropTypes.oneOfType([PropTypes.array, PropTypes.object]),
   __filename: PropTypes.string,
@@ -41,7 +52,7 @@ class Default extends Component {
     } = this.props
     let metaTitle
     let meta
-
+    const link = []
     let contentWrapperClass = (fullWidth) ? styles.fullWidth : styles.page
     let slugClass
     if (!isLoading && head) {
@@ -109,11 +120,18 @@ class Default extends Component {
         />
       )
     }
+
+    if (prefetches && prefetches instanceof Array) {
+      prefetches.forEach(prefetchLink => {
+        link.push({ rel: 'prefetch', href: prefetchLink })
+      })
+    }
+
     const pageClass = (head) ? `layout-${head.layout.toLowerCase()}` : ''
     const classes = classnames(contentWrapperClass, slugClass, className)
     return (
       <div id='base' className={pageClass}>
-        <Helmet title={metaTitle} meta={meta} />
+        <Helmet title={metaTitle} meta={meta} link={link} />
         <div className={classes}>
           {header}
           {children || markdown}
