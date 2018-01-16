@@ -12,7 +12,7 @@ Much like helping a drunk friend brush their teeth, assume that your user is non
 
 Guide them through tasks making it (next to) impossible for them to get tripped up.
 
-https://www.youtube.com/watch?v=r2CbbBLVaPk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r2CbbBLVaPk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # You are clear and sober
 
@@ -22,7 +22,7 @@ Kudos! **You should be doing this.**
 
 This, however, comes with a cost:
 
-**You become too familiar with your interface.**  
+**You become too familiar with your interface.**
 
 What might be obvious to you might escape the drunk user.
 
