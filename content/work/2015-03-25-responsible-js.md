@@ -15,7 +15,7 @@ layout: Portfolio
 
 **Date:** 2015
 
-**Demo Link:** [http://davidwells.tv/code/responsible/](http://davidwells.tv/code/responsible/)
+**Demo Link:** [Demo](https://s3-us-west-2.amazonaws.com/assets.davidwells.io/demos/responsible/index.html)
 
 **Tags:** JavaScript
 
