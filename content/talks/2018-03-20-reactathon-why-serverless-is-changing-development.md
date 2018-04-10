@@ -1,7 +1,7 @@
 ---
 title: "Why Serverless Architecture is Changing Software Development"
 event: Reactathon 2018
-date: 2018-02-15
+date: 2018-03-20
 layout: Talk
 ---
 
