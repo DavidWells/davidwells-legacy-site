@@ -9,4 +9,4 @@ In this talk David will take you on a journey through the Serverless ecosystem t
 
 [Event Details](https://www.meetup.com/Serverless/)
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/pej8jUYTVXE?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pej8jUYTVXE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
