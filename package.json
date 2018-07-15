@@ -19,15 +19,12 @@
     "dev": "npm run prepareContent && phenomic start",
     "start": "npm-run-all --parallel dev",
     "prebuild": "npm run prepareContent",
-    "build": "phenomic build && npm run manifest",
+    "build": "phenomic build",
     "postbuild": "node scripts/redirects.js && cp -R resume dist",
     "static": "cd dist && http-server",
-    "pretest": "npm run lint",
-    "manifest": "manifest generate --root ./dist --manifest serverpush.json",
-    "postmanifest": "manifest translate --manifest serverpush.json --format netlify-headers --output _headers && cp _headers dist"
+    "pretest": "npm run lint"
   },
   "devDependencies": {
-    "@commonshost/manifest": "^2.4.2",
     "async": "^2.0.1",
     "babel-cli": "^6.3.17",
     "babel-core": "^6.3.26",
