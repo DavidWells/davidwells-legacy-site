@@ -6,11 +6,11 @@ layout: Homepage
 
 > **TL;DR** – Marketing nerd turned full stack developer & entrepreneur.
 
-I’m a Developer Experience Engineer at [Netlify](http://netlify.com) in San Francisco.
+I'm currently working with [Netlify](http://netlify.com) as the lead developer experience engineer.
 
-Previously, I was working as a full stack developer + dev advocate at [Serverless](http://serverless.com). Before that, I was lead developer on UI/UX team building design systems at [Mulesoft](http://www.mulesoft.com).
+Previously, I was working as a full stack developer & dev advocate at [Serverless](http://serverless.com). Before that, I was lead developer on the UI/UX team at [Mulesoft](http://www.mulesoft.com) building their design system.
 
-Way back when, I founded [Inbound Now](http://www.inboundnow.com), where we made open source inbound marketing software.
+Prior to that, I founded [Inbound Now](http://www.inboundnow.com), where we built a varitey of open source marketing tools.
 
 Before learning to code, I was a marketing consultant working at [HubSpot](http://www.hubspot.com). I've helped hundreds of companies with their content strategy, conversion rate optimization and inbound lead generation.
 
@@ -20,4 +20,4 @@ Today, I focus on **serverless cloud architecture**, **user experience**, and **
 * Watch some [**tech talks**](/talks)
 * Read the [**blog**](/blog)
 
-Need help on a project? **[Lets talk](/contact)**
+Have a question or need help on a project? **[Lets talk](/contact)**
