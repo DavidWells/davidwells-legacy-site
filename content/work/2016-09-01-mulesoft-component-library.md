@@ -10,7 +10,7 @@ layout: Portfolio
 
 **Demo Link:** <a href="http://anypoint-platform-ui.surge.sh/">http://anypoint-platform-ui.surge.sh/</a>
 
-**Live URL:** <a href="http://ux.mulesoft/">http://ux.mulesoft.com/</a>
+**Live URL:** <a href="http://ux.mulesoft.com/">http://ux.mulesoft.com/</a>
 
 Mulesoft needed to port over some legacy angular one applications into a more modern centralized stack.
 
