@@ -693,5 +693,10 @@
     "title": "How to gain more visiblity into your Github Projects using Scope",
     "url": "https://serverless.com/blog/scope-the-open-source-serverless-status-board/",
     "date": "2017-02-08"
+  },
+  {
+    "title": "Building Serverless CRUD apps with Netlify Functions & FaunaDB",
+    "url": "https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions--faunadb/",
+    "date": "2018-07-09"
   }
 ]
