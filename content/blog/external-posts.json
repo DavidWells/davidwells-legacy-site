@@ -663,5 +663,35 @@
     "title": "React + React Router + Static HTML + Service Workers = Fast Sites",
     "url": "https://serverless.com/blog/how-to-create-a-fast-secure-and-scalable-open-source-blog-with-react-markdown/",
     "date": "2016-02-18"
+  },
+  {
+    "title": "How To Schedule Posts for Static Site Generators (Jekyll, Hugo, Phenomic etc.)",
+    "url": "https://serverless.com/blog/static-site-post-scheduler/",
+    "date": "2017-03-07"
+  },
+  {
+    "title": "Serverless Air #2 - The Serverless ecosystem now & where it's going with Jared Short",
+    "url": "https://serverless.com/blog/serverless-air-episode-two/",
+    "date": "2017-05-01"
+  },
+  {
+    "title": "How to build a static Serverless site with Netlify",
+    "url": "https://serverless.com/blog/how-built-static-serverless-website-netlify/",
+    "date": "2017-12-18"
+  },
+  {
+    "title": "Use These 5 AWS Learning Resources to Master the Cloud",
+    "url": "https://serverless.com/blog/aws-resources-to-master-cloud/",
+    "date": "2017-08-14"
+  },
+  {
+    "title": "3 Steps To Faster Serverless Development",
+    "url": "https://serverless.com/blog/quick-tips-for-faster-serverless-development/",
+    "date": "2017-06-29"
+  },
+  {
+    "title": "How to gain more visiblity into your Github Projects using Scope",
+    "url": "https://serverless.com/blog/scope-the-open-source-serverless-status-board/",
+    "date": "2017-02-08"
   }
 ]
