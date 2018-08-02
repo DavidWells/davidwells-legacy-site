@@ -698,5 +698,10 @@
     "title": "Building Serverless CRUD apps with Netlify Functions & FaunaDB",
     "url": "https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions--faunadb/",
     "date": "2018-07-09"
+  },
+  {
+    "title": "How to setup serverless OAuth Flows with serverless functions & Intercom",
+    "url": "https://www.netlify.com/blog/2018/07/30/how-to-setup-serverless-oauth-flows-with-netlify-functions--intercom/",
+    "date": "2018-07-30"
   }
 ]
