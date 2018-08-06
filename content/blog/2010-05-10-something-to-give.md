@@ -77,6 +77,6 @@ ServiceNation is a national campaign to increase service opportunities, solve ch
 
 Participating organizations include AARP, the NAACP, the Boys &amp; Girls Club of America, United Way of America, Habitat for Humanity International, and the Special Olympics, among many others. A full list of the ServiceNation coalition, with contact information, can be found at <a href="http://www.servicenation.org/pages/The-Coalition" target="_blank"><span style="text-decoration: underline;">www.servicenation.org/pages/The-Coalition</span></a>.
 <h3>Follow Something To Give Online</h3>
-<a href="http://twitter.com/SomethingToGive"><img src="http://www.somethingtogive.org/img/twitter.png" alt="Twitter" width="50" height="50" /></a> <a href="http://www.facebook.com/pages/SomethingToGiveorg/114559389388"><img src="http://www.somethingtogive.org/img/facebook.png" alt="Facebook" width="50" height="50" /></a>
+<a href="http://twitter.com/SomethingToGive">Twitter</a> <a href="http://www.facebook.com/pages/SomethingToGiveorg/114559389388">Facebook</a>
 <h5><a href="http://www.somethingtogive.org/rewards.php"><span style="color: #3366ff;">Donate Experiences</span></a></h5>
 <h5><a href="http://www.somethingtogive.org/contact.html"><span style="color: #3366ff;">Donate Funds</span></a></h5>

@@ -16,7 +16,7 @@ Here are <a href="http://wisestamp.com/goodies/category/signature-examples/">som
 
 <h3>2. Adding a PayPal button to your email</h3>
 Hitting up people for their wallets at every turn might seem over intrusive, but you don't want to miss any opportunity to raise funds for your cause. Adding a heartfelt appeal for funding can go a long way and is a great way to increase donations! (Mmmmmm money!)
-<h3>3. Add RSS<img class="alignright" title="rss" src="http://www.davidwells.tv/wp-content/plugins/wp-thumbie/timthumb.php?src=/wp-content/uploads/2010/03/rss-150x150.png&amp;w=50&amp;h=50&amp;zc=1" alt="" width="50" height="50" /></h3>
+<h3>3. Add RSS</h3>
 Adding your Feed to your email will display your site's latest blog post in your signature. This is a no-brainer; adding this to your signature is easy and will drive traffic to your newest content. This is also done with WiseStamp.
 
 <a href="http://www.wisestamp.com/">http://www.wisestamp.com/</a>

@@ -12,7 +12,7 @@ This past Wednesday, I was lucky enough to attend the 140 character conference i
 In this session John Haydon, of <a href="http://inboundzombie.com/">inbound zombie</a>, talks briefly about how nonprofits can leverage social media in a sustainable way that will help spread their cause far and wide.
 <strong> With most nonprofits, resources are a scarce thing, which means thinking about sustainability is a critical piece for success.</strong>
 
-<iframe src="http://player.vimeo.com/video/15030246?portrait=0" width="540" height="304" frameborder="0"></iframe><p><a href="http://vimeo.com/15030246">How nonprofits can develop sustainable social media marketing campaigns w/ John Haydon</a> from <a href="http://vimeo.com/socializedcause">Socialize Your Cause</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/15030246?portrait=0" width="540" height="304" frameborder="0"></iframe><p><a href="http://vimeo.com/15030246">How nonprofits can develop sustainable social media marketing campaigns w/ John Haydon</a> from <a href="http://vimeo.com/socializedcause">Socialize Your Cause</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
 <h3>Reduce</h3>
 
