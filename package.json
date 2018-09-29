@@ -19,7 +19,8 @@
     "dev": "npm run prepareContent && phenomic start",
     "start": "npm-run-all --parallel dev",
     "prebuild": "npm run prepareContent",
-    "build": "phenomic build",
+    "build": "phenomic build && npm run shrink",
+    "shrink": "node scripts/minify.js",
     "postbuild": "node scripts/redirects.js && cp -R resume dist",
     "static": "cd dist && http-server",
     "pretest": "npm run lint"
@@ -30,6 +31,7 @@
     "babel-core": "^6.3.26",
     "babel-eslint": "^7.0.0",
     "babel-loader": "^6.2.0",
+    "babel-minify": "^0.5.0",
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",
     "babel-preset-react-hmre": "^1.0.1",
