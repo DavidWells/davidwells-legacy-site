@@ -88,7 +88,7 @@
 
 .list {
   ul {
-    padding-left: 15px;
+    padding-left: 30px;
     margin-top: 15px;
   }
   li {
@@ -164,7 +164,7 @@
   .item {
     width: 27%;
     margin-right: 3%;
-    margin-left: 3%;
+    margin-left: 2%;
     margin-bottom: 45px;
   }
   .thumbnailWrapper {
