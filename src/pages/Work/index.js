@@ -71,7 +71,7 @@ export default class Work extends Component {
       reverse: true,
     })
     .slice(pagination, offset)
-    console.log('latestPosts', latestPosts)
+    // console.log('latestPosts', latestPosts)
 
     let renderContent = (
       <ul className={styles.postList}>
