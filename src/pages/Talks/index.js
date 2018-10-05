@@ -20,8 +20,8 @@ export default class Talks extends Component {
     // If loading pageinated posts
     if (this.props.params && this.props.params.page) {
       const dummy = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-      const loadingPosts = dummy.map(() => {
-        return <Preview page={{ title: 'Loading...' }} isLoading />
+      const loadingPosts = dummy.map((item, i) => {
+        return <Preview key={i} page={{ title: 'Loading...' }} isLoading />
       })
       return (
         <div className={styles.postList}>
@@ -31,7 +31,7 @@ export default class Talks extends Component {
     }
 
     // First page load prepopulated data
-    const preloadedPosts = prepopulatedTalks.map((post) => {
+    const preloadedPosts = prepopulatedTalks.map((post, i) => {
       let data = {
         title: post.title,
         date: post.date,
@@ -49,7 +49,7 @@ export default class Talks extends Component {
         }
       }
       return (
-        <Preview page={data} isLoading />
+        <Preview key={i} page={data} isLoading />
       )
     })
     // render prepopulated content

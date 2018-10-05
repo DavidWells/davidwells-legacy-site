@@ -53,7 +53,7 @@ export default class BlogPage extends Component {
     }
 
     // First page load prepopulated data
-    const preloadedPosts = prepopulatedPosts.map((post) => {
+    const preloadedPosts = prepopulatedPosts.map((post, i) => {
       let data = {
         title: post.title
       }
@@ -69,7 +69,7 @@ export default class BlogPage extends Component {
         }
       }
       return (
-        <BlogPreview page={data} isLoading />
+        <BlogPreview key={i} page={data} isLoading />
       )
     })
     // render prepopulated content

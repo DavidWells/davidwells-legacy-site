@@ -5,13 +5,11 @@ import configureStore from '../src/store'
 import { initialAuthState } from '../src/redux/user'
 
 const windowState = (typeof window !== 'undefined') ? window.__INITIAL_STATE__ : {}
-const authState = {
-  auth: initialAuthState
-}
+
 const initialState = {
-  ...windowState,
-  ...authState // hydrate auth state
+  ...windowState
 }
+
 const store = configureStore(initialState)
 
 // dispatch to attach auth0 middleware handler

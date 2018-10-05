@@ -11,7 +11,6 @@ export default function configureStore(preloadedState) {
   return createStore(
     combineReducers({
       ...phenomicReducers,
-      // auth: userReducer,
     }),
     preloadedState,
     extraMiddlewares,
