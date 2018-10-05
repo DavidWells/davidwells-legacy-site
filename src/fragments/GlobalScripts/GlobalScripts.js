@@ -1,12 +1,10 @@
 import React, { PropTypes } from 'react'
-import GoogleAnalytics from './GoogleAnalytics'
-import SegmentIO from './SegmentIO'
+import Analytics from './Analytics'
 
 export default function GlobalScripts(props) {
   return (
     <div>
-      <GoogleAnalytics {...props} />
-      <div dangerouslySetInnerHTML={{ __html: SegmentIO }} />
+      <Analytics {...props} />
     </div>
   )
 }
