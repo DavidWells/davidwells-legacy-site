@@ -159,9 +159,9 @@ export const makeConfig = (config = {}) => {
       new ExtractTextPlugin('[name].[hash].css', { disable: config.dev }),
       ...config.production && [
         new webpack.optimize.DedupePlugin(),
-        // new webpack.optimize.UglifyJsPlugin(
-        //   { compress: { warnings: false } }
-        // ),
+        new webpack.optimize.UglifyJsPlugin(
+          { compress: { warnings: false } }
+        ),
       ],
       new webpack.DefinePlugin({
         // set 'process.env.[vars]'
