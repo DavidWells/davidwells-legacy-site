@@ -29,9 +29,7 @@ export default class Analytics extends React.Component {
   componentWillMount() {
     if (isClient) {
       if (isProduction) {
-        // ga('create', googleAnalyticsUA, 'auto')
-        analytics.page() // eslint-disable-line
-        console.info('New pageview', window.location.href)
+        console.log('analytics component loaded')
       }
 
       if (analytics) {
