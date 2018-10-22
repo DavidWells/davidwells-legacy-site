@@ -13,7 +13,7 @@ const HeadTag = (_props) => {
           { name: 'twitter:site', content: `@${process.env.TWITTER}` },
           {
             name: 'google-site-verification',
-            content: '1HdFnJaYYEiONgCRl3fj7lQobYY4uXPe5L2-sTgNzKQ'
+            content: '5ohUcFDPk-EV2nauCPowxZCdSwhq31Hcg5grBdv1ZT0'
           },
           { name: 'viewport', content: 'width=device-width, initial-scale=1' }
         ]}
