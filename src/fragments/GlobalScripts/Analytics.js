@@ -1,28 +1,8 @@
 /* eslint-disable no-console */
 import React from 'react'
-import analyticsLib from 'analytics'
-import googleAnalytics from 'analytics-plugin-ga'
-import logger from './logger'
+import analytics from '../../utils/analytics'
 const isProduction = process.env.NODE_ENV === 'production'
 const isClient = typeof window !== 'undefined'
-const googleAnalyticsUA = process.env.GOOGLE_ANALYTICS_UA
-
-// start analytics
-let analytics
-if (isClient) {
-  analytics = analyticsLib({
-    app: 'davidwells',
-    version: 1,
-    plugins: [
-      logger,
-      googleAnalytics({
-        trackingId: googleAnalyticsUA,
-        autoTrack: true,
-      }),
-    ]
-  })
-  window.analytics = analytics
-}
 
 export default class Analytics extends React.Component {
 

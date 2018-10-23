@@ -7,6 +7,8 @@ import formValidation from '../../utils/formValidation'
 import Button from '../../components/Button'
 import styles from './Contact.css'
 
+import analytics from '../../utils/analytics'
+
 export default class Contact extends Component {
   static hasLoadingState = true
   constructor(props, context) {
@@ -38,6 +40,10 @@ export default class Contact extends Component {
     }).then((response) => {
       if (response.data && response.data.data && response.data.data.MessageId) {
         console.log('creation succeed', response.data.MessageId)
+        // onClick="ga('send', 'event', { eventCategory: 'form', eventAction: 'submit', eventLabel: 'contact'});"
+
+        analytics.track('formSubmitted', { label: 'contact david' })
+
         setTimeout(() => {
           this.setState({
             loading: false,
