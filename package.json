@@ -104,7 +104,7 @@
   },
   "dependencies": {
     "analytics": "0.0.7",
-    "analytics-plugin-ga": "0.0.2",
+    "analytics-plugin-ga": "0.0.6",
     "auth0-lock": "10.2.1",
     "axios": "^0.13.1",
     "classnames": "^2.2.5",
