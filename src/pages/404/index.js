@@ -47,8 +47,9 @@ export default class PageError extends Component {
           <a href='/' title='Go to the homepage'>
             Visit homepage
           </a>
-          <br/>
-          <a href="https://first-source-site-one.netlify.com/">Testing link</a>
+          <br />
+          <a href='https://first-source-site-one.netlify.com/'>Testing link</a>
+          <a href='https://get-referral-data.netlify.com/'>Testing two</a>
         </div>
       </div>
     )
