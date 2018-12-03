@@ -19,7 +19,7 @@
     "dev": "npm run prepareContent && phenomic start",
     "start": "npm-run-all --parallel dev",
     "prebuild": "npm run prepareContent",
-    "build": "phenomic build",
+    "build": "phenomic build && npm run shrink",
     "shrink": "node scripts/minify.js",
     "postbuild": "node scripts/redirects.js && cp -R resume dist",
     "static": "cd dist && http-server",
