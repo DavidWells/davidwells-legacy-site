@@ -50,6 +50,7 @@ export default class PageError extends Component {
           <br />
           <a href='https://first-source-site-one.netlify.com/'>Testing link</a>
           <a href='https://get-referral-data.netlify.com/'>Testing two</a>
+          <a href='https://analytics-demo.netlify.com/'>analytics demo</a>
         </div>
       </div>
     )
