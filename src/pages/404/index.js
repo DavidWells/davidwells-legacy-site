@@ -51,9 +51,16 @@ export default class PageError extends Component {
           <a href='https://first-source-site-one.netlify.com/'>Testing link</a>
           <a href='https://get-referral-data.netlify.com/'>Testing two</a>
           <a href='https://analytics-demo.netlify.com/'>analytics demo</a>
+          <br/><br/>
           <a href='https://analytics-demo.netlify.com/' rel='noreferrer'>No refferrer link</a>
-          <a href='https://analytics-demo.netlify.com/?utm_medium=email&utm_source=signature&utm_campaign=email_signature& utm_content=Employee_Name'>Email link</a>
-          <a href='https://analytics-demo.netlify.com/?utm_source=the_source&utm_medium=camp%20med&utm_term=Bought%20keyword&utm_content=Funny%20Text&utm_campaign=400kpromos'>Utm link</a>
+          <a href='https://analytics-demo.netlify.com/?utm_medium=display&utm_source=amazon.com&utm_campaign=Autumn+Collection&utm_term=Shoes' rel='noreferrer'>No refferrer link with params</a>
+          <br/><br/>
+          <a href='https://analytics-demo.netlify.com/?utm_medium=email&utm_source=signature&utm_campaign=email_signature&utm_content=Employee_Name'>Email params</a>
+          <a href='https://analytics-demo.netlify.com/?utm_medium=social&utm_source=facebook&utm_campaign=Autumn+Collection&utm_term=Shoes&utm_content=darkpost'>Social params</a>
+          <a href='https://analytics-demo.netlify.com/?utm_medium=qr&utm_source=Vogue&utm_campaign=Autumn+Collection&utm_term=Shoes&utm_content=full+size'>OR code params</a>
+          <a href='https://analytics-demo.netlify.com/?utm_medium=offline&utm_source=Vogue&utm_campaign=Autumn+Collection&utm_term=Shoes'>Offline params</a>
+          <a href='https://analytics-demo.netlify.com/?utm_source=the_source&utm_medium=camp%20med&utm_term=Bought%20keyword&utm_content=Funny%20Text&utm_campaign=400kpromos'>Random Utm link</a>
+          <a href='https://analytics-demo.netlify.com/?utm_source=facebook&utm_medium=cpc&utm_campaign=whitepaper+download+remarketing&utm_content=get+a+free+trial'>PPC params</a>
         </div>
       </div>
     )
