@@ -51,6 +51,7 @@ export default class PageError extends Component {
           <a href='https://first-source-site-one.netlify.com/'>Testing link</a>
           <a href='https://get-referral-data.netlify.com/'>Testing two</a>
           <a href='https://analytics-demo.netlify.com/'>analytics demo</a>
+          <a href='https://analytics-demo.netlify.com/' rel='noreferrer'>No refferrer link</a>
           <a href='https://analytics-demo.netlify.com/?utm_medium=email&utm_source=signature&utm_campaign=email_signature& utm_content=Employee_Name'>Email link</a>
           <a href='https://analytics-demo.netlify.com/?utm_source=the_source&utm_medium=camp%20med&utm_term=Bought%20keyword&utm_content=Funny%20Text&utm_campaign=400kpromos'>Utm link</a>
         </div>
