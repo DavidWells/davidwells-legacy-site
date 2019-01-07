@@ -70,6 +70,7 @@ export default class PageError extends Component {
 <a href='https://www.netlify.com/?utm_medium=offline&utm_source=Vogue&utm_campaign=Autumn+Collection&utm_term=Shoes'>NF Offline params</a>
 <a href='https://www.netlify.com/?utm_source=the_source&utm_medium=camp%20med&utm_term=Bought%20keyword&utm_content=Funny%20Text&utm_campaign=400kpromos'>NF Random Utm link</a>
 <a href='https://www.netlify.com/?utm_source=facebook&utm_medium=cpc&utm_campaign=whitepaper+download+remarketing&utm_content=get+a+free+trial'>NF PPC params</a>
+<a href='https://www.netlify.com/blog/2018/11/29/deploying-netlify-sites-with-aws-cloudformation/'>CF post no params</a>
         </div>
       </div>
     )
