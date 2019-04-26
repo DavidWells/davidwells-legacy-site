@@ -5,6 +5,18 @@ import constants from '../constants'
 const FIRST_CAMPAIGN_SOURCE = constants.FIRST_CAMPAIGN_SOURCE
 const LAST_CAMPAIGN_SOURCE = constants.LAST_CAMPAIGN_SOURCE
 
+function getParamsByName(param, url) {
+  if (!url) {
+    url = window.location.href;
+  }
+  param = param.replace(/[\[\]]/g, "\\$&")
+  var regex = new RegExp("[?&]" + param + "(=([^&#]*)|&|#|$)")
+  var results = regex.exec(url)
+  if (!results) return null
+  if (!results[2]) return '';
+  return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
 export function getParams(url) {
   const urlParams = {}
   const pattern = /([^&=]+)=?([^&]*)/g
