@@ -1,5 +1,5 @@
 ---
-title: "Building a Serverless App with Netlify Functions"
+title: "Workshop: Building a Serverless App with Netlify Functions"
 event: Jamstack Conf NY @ City Winery, NY
 date: 2019-04-10
 layout: Talk
