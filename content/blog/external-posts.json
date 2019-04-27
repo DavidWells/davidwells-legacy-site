@@ -708,5 +708,15 @@
     "title": "5 key benefits of going serverless",
     "url": "https://www.netlify.com/blog/2018/08/06/five-key-benefits-of-going-serverless/",
     "date": "2018-08-06"
+  },
+  {
+    "title": "How to deploy Netlify Sites with AWS CloudFormation Custom Resources",
+    "url": "https://www.netlify.com/blog/2018/11/29/deploying-netlify-sites-with-aws-cloudformation/",
+    "date": "2018-11-29"
+  },
+  {
+    "title": "Netlify + CodeSandbox ❤️ Deployments",
+    "url": "https://www.netlify.com/blog/2019/03/26/deploy-codesandbox-to-netlify/",
+    "date": "2019-03-26"
   }
 ]
