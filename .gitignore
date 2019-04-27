@@ -1,6 +1,7 @@
 # node / npm
 node_modules
 .serverless
+.netlify
 *.log
 
 # phenomic build
