@@ -8,7 +8,7 @@ import externalPosts from '../../../content/blog/external-posts.json'
 // import Newsletter from '../../fragments/Newsletter/Newsletter'
 import styles from './Blog.css'
 
-const numberOfLatestPosts = 25
+const numberOfLatestPosts = 45
 // const isClient = typeof window !== 'undefined'
 
 export default class BlogPage extends Component {
