@@ -9,6 +9,8 @@ const blogContentPath = path.join(content, 'blog')
 const snippetsContentPath = path.join(content, 'snippets')
 const externalContentPath = path.join(content, 'blog', 'external-posts.json')
 
+const numberOfPosts = 20
+
 module.exports = function prepopulateBlog() {
   console.log('prepopulate blog content')
   const externalContent = fs.readFileSync(externalContentPath, 'utf-8')
@@ -36,7 +38,7 @@ module.exports = function prepopulateBlog() {
       const one = new Date(a.date)
       const two = new Date(b.date)
       return one > two ? -1 : one < two ? 1 : 0 // eslint-disable-line
-    }).slice(0, 10)
+    }).slice(0, numberOfPosts)
     const prepopulatedPosts = JSON.stringify(lastTen, null, 2)
     fs.writeFileSync(
       path.join(projectRoot, 'src', 'pages', 'Blog', 'prepopulate.json'),
