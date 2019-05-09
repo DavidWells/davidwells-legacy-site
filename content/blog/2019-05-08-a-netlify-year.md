@@ -31,6 +31,8 @@ If I had to describe my job it would look like this:
 
 And [add partner integrations](#integrating-with-partners--netlify-add-ons) to the above diagram 😁
 
+On a daily basis, I find myself at the intersection of devOps, devRel, frontend, product, & marketing. It's awesome to combine all the skills I've acquired over the years into one role!
+
 ## What the heck is DX?
 
 Developer Experience! Silly.
@@ -54,8 +56,8 @@ This led to a number of interesting projects:
 - [How to use Netlify OAuth Applications](https://github.com/netlify-labs/oauth-example)
 - [Integrating Intercom login flows with OAuth & functions](https://github.com/netlify-labs/intercom-netlify-oauth)
 - [Running headless chrome in serverless functions](https://github.com/netlify-labs/netlify-functions-headless-chrome)
-- [Using Apollo GraphQL with serverless functions](https://github.com/netlify-labs/functions-and-graphql)
-- [Building progressive serverless forms](https://github.com/DavidWells/progressive-enhancement-form-functions)
+- [Building GraphQL APIs with serverless functions](https://github.com/netlify-labs/functions-and-graphql)
+- [Progressive Form enhancement with serverless functions](https://github.com/DavidWells/progressive-enhancement-form-functions)
 
 and then some...
 
@@ -67,9 +69,10 @@ A green field project is always fun & crafting CLI experiences is a hobby of min
 
 The wonderful [Bret Comnes](https://twitter.com/bcomnes) and myself hacked away at building a new CLI experience that we thought people would love.
 
-[TODO image here]
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/netlify-cli-deploy.svg" />
 
 ```
+# Install the netlify CLI
 npm install netlify-cli -g
 ```
 
@@ -79,7 +82,16 @@ The CLI is extendable via plugins and there is much more in store for it in the 
 
 ### functions.netlify.com
 
-[Image]
+Everything you ever wanted to know about Netlify Functions ⚡️
+
+- [Site](https://functions.netlify.com)
+- [Repo](https://github.com/netlify-labs/functions-site)
+
+This was a gatbsy site build to showcase all the awesome stuff you can do with serverless functions.
+
+Make sure to checkout the site for all the awesome [examples](https://functions.netlify.com/examples/) & [tutorials](https://functions.netlify.com/tutorials)
+
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/netlify-functions-site-examples.jpg" />
 
 ### CodeSandbox + Netlify deploy
 
@@ -122,19 +134,23 @@ The backend works like so:
 
 You can install the `faunadb` add-on with the Netlify CLI via:
 
-```
+```bash
+# Add a faunaDB to your netlify site
 netlify addons:create fauna
 ```
 
+<img src="https://user-images.githubusercontent.com/532272/42069927-28e1c436-7b09-11e8-96e9-272987fc9e15.gif" />
+
+
 ## Integrating with partners & Netlify Add-ons
 
-I've had a whirl wind of a time keeping up with the various integration partners & companies that want to build on top of the Netlify ecosystem & platform.
+I've had a heck of a time keeping up with the various integration partners & companies that want to build on top of the Netlify ecosystem & platform.
 
 Still in it's alpha phase, I've been working tirelessly with companies to help them integrate and build [Netlify add-on extensions](https://github.com/netlify/addons).
 
 - [Building Reference implementations](https://github.com/netlify/addons/tree/master/examples)
 - [Writing the docs](https://github.com/netlify/addons#building-add-on-integrations-with-netlify)
-- Working with truly awesome partners like FaunaDB & [TakeShape](https://www.takeshape.io/)
+- Working with truly awesome partners like [FaunaDB](https://fauna.com/) & [TakeShape](https://www.takeshape.io/)
 - and building wonderful ASCII art
 
 <img src="https://user-images.githubusercontent.com/532272/45775428-93c74000-bc04-11e8-9a27-084170353563.png" />
@@ -143,11 +159,9 @@ If you are curious about [Netlify add-ons checkout this deck](https://docs.googl
 
 ### Super secret upcoming integrations
 
-More to come! Stay tuned.
+More to come! Stay tuned...
 
 ## Marketing
-
-On a daily basis, I find myself at the intersection of devOps, devRel, product, & marketing.
 
 On the marketing front, I've been in charge of instrumenting the various Netlify products from [app.netlify.com](https://app.netlify.com/), [our site](http://netlify.com), and pretty much everywhere. This data is a crucial part of the product feedback loop and helps us make data driven decisions on where we head to next.
 
@@ -155,9 +169,9 @@ On the marketing Ops front, I've built a variety of serverless services to help 
 
 User Retention + Activation is also a large component of what I have been working on for the past year. You might have seen an email or two for me. I apologize for that!
 
-I built the email preference center for users to manage what kinds of emails they want, or they can opt out completely!
+I built the [email preference center](https://messages.netlify.com/) for users to manage what kinds of emails they want, or they can opt out completely!
 
-[image of subscription center]
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/triangle-of-destiny.jpg" />
 
 That about sums up the top of the pyramid here.
 
@@ -173,13 +187,15 @@ If you can write javascript, you can build a badass serverless stack.
 
 - I gave a [workshop on serverless functions](https://github.com/DavidWells/netlify-functions-workshop)
 - [Building Serverless CRUD apps with Netlify Functions & FaunaDB](https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions--faunadb/)
-- [How to setup serverless OAuth Flows with Netlify Functions & Intercom](https://www.netlify.com/blog/2018/07/30/how-to-setup-serverless-oauth-flows-with-netlify-functions--intercom/)
+- [How to setup serverless OAuth Flows with Netlify Functions & Intercom](https://www.netlify.com/blog/2018/07/30/how-to-setup-serverless-oauth-flows-with-netlify-functions--intercom/) [Video](https://www.youtube.com/watch?v=zErvY08uNM0)
 - [5 Key Benefits of "Going Serverless"](https://www.netlify.com/blog/2018/08/06/five-key-benefits-of-going-serverless/)
 - [Netlify CLI 2.0 now in Beta 🎉 ](https://www.netlify.com/blog/2018/09/10/netlify-cli-2.0-now-in-beta-/)
 - [Deploying Netlify Sites with AWS CloudFormation](https://www.netlify.com/blog/2018/11/29/deploying-netlify-sites-with-aws-cloudformation/)
 - [Deploy CodeSandbox to Netlify](https://www.netlify.com/blog/2019/03/26/deploy-codesandbox-to-netlify/)
+- [Building an app with Netlify OAuth (Video)](https://www.youtube.com/watch?v=LN8cL2yPR3c)
 - [What the heck is serverless webinar series](https://github.com/netlify-labs/what-the-heck-is-serverless)
-- [What the heck is serverless? (Video)](https://www.youtube.com/watch?v=2N_sUmpjzZk)
+- [What the heck is serverless? (Video)](https://www.youtube.com/watch?v=AEBWLm1L-qI)
+- [CSS Tricks: Serverless 101 (Video)](https://www.youtube.com/watch?v=2N_sUmpjzZk)
 - [First Steps with Serverless (Video)](https://www.youtube.com/watch?v=h5R_SxV-cFY)
 - [Building Your Backend With Serverless Functions](https://www.youtube.com/watch?v=iZrzuUwm-9Y)
 - [Netlify Add-ons (deck)](https://docs.google.com/presentation/d/1x-pE1-_-eN1kvyITTAHIuIWReUxQulQHoiEBBmB3dsE/edit?usp=sharing)
