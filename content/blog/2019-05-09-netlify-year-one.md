@@ -30,7 +30,7 @@ But what do you do David? I'm GLAD YOU ASKED!
 
 Here's the mind map of my world...
 
-<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/netlify-mind-map.jpg" />
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/netlify-mind-map.jpg" width="400" />
 
 Let's unpack this 👆...
 
