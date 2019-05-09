@@ -9,7 +9,7 @@ How time flies 🚀!
 
 It feels like only yesterday... I was building [serverless.com](https://serverless.com) & falling in love with Netlify's truly magical workflow.
 
-Jump cut to a year ago, I found myself joining the Netlify team in the dog patch of San Francisco as a Growth + DX Engineer as employee #26!
+Jump cut to a year ago, I found myself joining the Netlify team in the Dogpatch of San Francisco as a Growth + DX Engineer as employee #26!
 
 **My mission was simple:** Help the company grow, make developer lives better & educate the JAMstack world on all things serverless.
 
@@ -19,11 +19,9 @@ What happened next, no one could have predicted...
 
 I've experienced the most prolific year of my professional life.
 
-Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), helped close deals, integrate with partners, give [talks & workshops](https://davidwells.io/talks/), learned something new everyday, & [built a whole lot of awesome](#building-the-awesome)!
+Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), helped close deals, integrated with partners, gave some [talks & workshops](https://davidwells.io/talks/), learned something new everyday, & [built a whole lot of awesome](#building-the-awesome)!
 
-I also had the opportunity to work with a wide variety of awesome people in the JAMstack/SaaS world and of course the **world class Netlify team** 🎉!  
-
-P.S. [we are hiring](https://boards.greenhouse.io/netlify)
+I also had the opportunity to work with a wide variety of top notch people in the JAMstack/SaaS world and of course the **world class Netlify team** 🎉!
 
 Working at Netlify has been a phenomenal catalyst for my personal growth over the past year.
 
@@ -39,7 +37,7 @@ If I had to describe my job in a simple Venn diagram it would look a little some
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/DX-ven-diagram.jpg" />
 
-On a daily basis, I find myself at the intersection of product, frontend, devOps (serverless of course), devRel, & marketing. Add in working with [partners](#integrating-with-partners--netlify-add-ons) and that almost covers it.
+On a daily basis, I find myself at the intersection of product, frontend, devOps (serverless of course), devRel, & marketing. Sprinkle in working with various [partners](#integrating-with-partners--netlify-add-ons) and that almost covers the gamut of my world.
 
 It's been great to combine the skills I've acquired over the years into one role!
 
@@ -48,6 +46,8 @@ It's been great to combine the skills I've acquired over the years into one role
 Let's dive deeper. Shall we?!?!
 
 ---
+
+<br />
 
 ## Building the Awesome
 
@@ -93,7 +93,7 @@ The CLI is extendable via plugins and there is much more in store for it in the 
 
 In an effort to educate the world of whats possible with serverless tech, I built out the [functions.netlify.com](https://functions.netlify.com) site.
 
-It's everything you ever wanted to know about [Netlify Functions](https://www.netlify.com/docs/functions/)
+It's the one stop shop for all things [Netlify Functions](https://www.netlify.com/docs/functions/)
 
 - [Functions Examples](https://functions.netlify.com/examples)
 - [Functions Tutorials](https://functions.netlify.com/tutorials)
@@ -127,7 +127,7 @@ In preparation for AWS re:invent, I built a CloudFormation Custom resource to al
 
 This custom resource works with the [serverless framework](https://serverless.com), [SAM](https://aws.amazon.com/serverless/sam/) and vanilla AWS CloudFormation.
 
-The main goal, other than to scratch my own itch, was to allow your Netlify site to become part of your infrastructure as code.
+The main goal, other than to scratch my own itch, is to allow your Netlify site & build pipeline to become part of your infrastructure as code. 💪
 
 You can read more about it in the [blog post](https://www.netlify.com/blog/2018/11/29/deploying-netlify-sites-with-aws-cloudformation/) and deploy a [ready made example](https://github.com/DavidWells/netlify-site-as-aws-custom-resource-example)
 
@@ -141,7 +141,7 @@ What started out as building a quick example application quickly turned into the
 
 The humble beginnings of this [application](https://faunadb-example.netlify.com/) is using React for the frontend, Netlify Functions for API calls, and FaunaDB as the backing database.
 
-You can read more about the project in the [README](https://github.com/netlify/netlify-faunadb-example/blob/master/README.md) or in the [blog post](https://github.com/netlify/netlify-faunadb-example)
+You can read more about the project in the [README](https://github.com/netlify/netlify-faunadb-example/blob/master/README.md) or in the [blog post](https://github.com/netlify/netlify-faunadb-example).
 
 We ended up turning the project & add-on into a [one click Fauna Stack](https://github.com/netlify/fauna-one-click). Seriously, it's one click for a working FullStack NoSQL backed React application.
 
@@ -179,9 +179,13 @@ If you are curious about [Netlify add-ons checkout this deck](https://docs.googl
 
 We have some additional integrations cooking! Stay tuned...
 
+<br />
+
 ---
 
-## Marketing
+<br />
+
+## Marketing & Growth Ops
 
 On the marketing front, I've been in charge of instrumenting analytics on the various Netlify products from [app.netlify.com](https://app.netlify.com/), [our site](http://netlify.com), API, and wide variety of micro sites.
 
@@ -197,9 +201,13 @@ Recently, I built out the [email preference center](https://messages.netlify.com
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/netlify-email-preferences-form.jpg" />
 
-Working close to the numbers & leveraging them for informed decisions its critical for any company. If you're unfamiliar with web analytics / telemetry [holler at me](https://davidwells.io/contact/) and I can point you in the right direction.
+Working close to the numbers & leveraging them for informed decisions is critical for any company. If you're unfamiliar with web analytics / telemetry [holler at me](https://davidwells.io/contact/) and I will point you in the right direction.
+
+<br />
 
 ---
+
+<br />
 
 ## Teaching people
 
@@ -207,10 +215,10 @@ I'm **insanely passionate** about teaching people the raw super powers that come
 
 Scaling, Operating, and Maintaining an application at massive scale is now well within the grasp of the frontend devs. If you can write javascript, you can build a badass serverless stack.
 
-To that end, most of my content is focus around that.
+To that end, most of my content is focused around that.
 
 - [Workshop on serverless functions](https://github.com/DavidWells/netlify-functions-workshop)
-- [Building Serverless CRUD apps with Netlify Functions & FaunaDB](https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions--faunadb/)
+- [Building serverless CRUD apps with Netlify Functions & FaunaDB](https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions--faunadb/)
 - [How to setup serverless OAuth Flows with Netlify Functions & Intercom](https://www.netlify.com/blog/2018/07/30/how-to-setup-serverless-oauth-flows-with-netlify-functions--intercom/) [Video](https://www.youtube.com/watch?v=zErvY08uNM0)
 - [5 Key Benefits of "Going Serverless"](https://www.netlify.com/blog/2018/08/06/five-key-benefits-of-going-serverless/)
 - [Netlify CLI 2.0 now in Beta 🎉 ](https://www.netlify.com/blog/2018/09/10/netlify-cli-2.0-now-in-beta-/)
@@ -226,7 +234,11 @@ To that end, most of my content is focus around that.
 
 If you're curious about other serverless stuff, I highly recommend checking out [this](https://www.manning.com/livevideo/production-ready-serverless) and [this](https://github.com/DavidWells/serverless-workshop) & subscribing to [this](https://www.jeremydaly.com/newsletter/). Also feel free to drop me a line.
 
+<br />
+
 ---
+
+<br />
 
 ## How did this happen?
 
