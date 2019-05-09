@@ -62,9 +62,9 @@ One of my favorite projects was re-building the [Netlify CLI](https://github.com
 
 A green field project is always fun & crafting CLI experiences is a hobby of mine. (Weird hobbies I know)
 
-The wonderful [Bret Comnes](https://twitter.com/bcomnes) and myself hacked away at building a new CLI experience that we thought people would love.
+The wonderful [Bret Comnes](https://twitter.com/bcomnes), [Swyx](https://twitter.com/swyx) and myself hacked away at building a new CLI experience that we thought people would love.
 
-<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/netlify-cli-deploy.svg" />
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/netlify-cli-docs-site.jpg" />
 
 ```
 # Install the netlify CLI
@@ -106,18 +106,19 @@ It was a true pleasure working closely with [Sara Vieira](https://twitter.com/ni
 
 ## 🚀 AWS CloudFormation
 
-Deploy Netlify sites as part of [serverless](https://serverless.com), SAM, or raw AWS CloudFormation stacks.
+In preparation for AWS re:invent, I built a CloudFormation Custom resource to allow AWS users to easily deploy Netlify sites as part their existing stacks.
 
-This project lets you define your Netlify site as infrastructure as code.
+This custom resource works with the [serverless framework](https://serverless.com), [SAM](https://aws.amazon.com/serverless/sam/) and vanilla AWS CloudFormation.
 
-- [Post](https://www.netlify.com/blog/2018/11/29/deploying-netlify-sites-with-aws-cloudformation/)
-- [Example](https://github.com/DavidWells/netlify-site-as-aws-custom-resource-example)
+The main goal, other than to scratch my own itch, was to allow your Netlify site to become part of your infrastructure as code.
+
+You can read more about it in the [blog post](https://www.netlify.com/blog/2018/11/29/deploying-netlify-sites-with-aws-cloudformation/) and deploy a [ready made example](https://github.com/DavidWells/netlify-site-as-aws-custom-resource-example)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AQ-f-U8Pncc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 💸 FaunaDB + Netlify Integration
 
-What started out as building a quick example application quickly turned into much much more and became the first official Netlify add-on.
+What started out as building a quick example application quickly turned into the first official [Netlify add-on](https://www.netlify.com/docs/partner-add-ons/).
 
 The humble beginnings of this [application](https://faunadb-example.netlify.com/) is using React for the frontend, Netlify Functions for API calls, and FaunaDB as the backing database.
 
@@ -125,7 +126,7 @@ You can read more about the project in the [README](https://github.com/netlify/n
 
 We ended up turning the project & add-on into a [one click Fauna Stack](https://github.com/netlify/fauna-one-click). Seriously, it's one click for a working FullStack NoSQL backed React application.
 
-The backend works like so:
+The backend is powered by serverless functions and works like so:
 
 <img src="https://user-images.githubusercontent.com/532272/42067494-5c4c2b94-7afb-11e8-91b4-0bef66d85584.png" />
 
@@ -136,7 +137,7 @@ You can install the `faunadb` add-on with the Netlify CLI via:
 netlify addons:create fauna
 ```
 
-For more information checkout the [add-on docs](https://www.netlify.com/docs/partner-add-ons/).
+For more information checkout the [add-on docs](https://www.netlify.com/docs/partner-add-ons/) & the [fauna graphQL demo](https://github.com/sw-yx/netlify-fauna-graphql-todo)
 
 ## Integrating with partners & Netlify Add-ons
 
@@ -198,7 +199,7 @@ If you're curious about other serverless stuff, I highly recommend checking out 
 
 ## How did this happen?
 
-I like to think all these things were made possible by all the wonderful folks on the Netlify team and these guiding principles.
+I like to think all these things were made possible by all the wonderful folks on the Netlify team and these guiding principles:
 
 - Be creative
 - Experiment, try new things, don't be afraid to fail
@@ -207,9 +208,9 @@ I like to think all these things were made possible by all the wonderful folks o
 - Relish & repeat success
 - **Have fun & build awesome** ✨
 
-> Most importantly, have fun and build awesome!
+Looking back at the past year Netlify has enabled me to do just that. I had a blast and built some awesome stuff!
 
-Looking back at the past year Netlify has enabled me to do just that.
+It's also been the most stuff I've ever created in a single year. There are some other bits and bobs that I can't mention here just yet. 🤯
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/success-kid.jpg" />
 
@@ -217,6 +218,6 @@ It's been a wild ride and I can't wait to see what the next year holds.
 
 Shoutout to [Matt](https://twitter.com/biilmann) & [Chris](https://twitter.com/chr_bach) the two founders of Netlify. They are killing it & recruit the best folks (minus myself)
 
-Also to Daniel Freeman who continues to be an awesome mentor & empowers me to build all this awesome shit!
+Also to [Daniel Freeman](https://twitter.com/danielfreeman) who continues to be an awesome mentor & empowers me to build all this awesome shit!
 
-P.S. [we are hiring a bunch of people](https://boards.greenhouse.io/netlify) & trying to expand the awesome. If this post peaked your interest, please reach out.
+P.S. [we are hiring a bunch of people](https://boards.greenhouse.io/netlify). If this post peaked your interest, please reach out.
