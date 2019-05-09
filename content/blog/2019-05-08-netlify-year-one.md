@@ -225,6 +225,7 @@ To that end, most of my content is focused around that.
 - [Netlify CLI 2.0 now in Beta 🎉 ](https://www.netlify.com/blog/2018/09/10/netlify-cli-2.0-now-in-beta-/)
 - [Deploying Netlify Sites with AWS CloudFormation](https://www.netlify.com/blog/2018/11/29/deploying-netlify-sites-with-aws-cloudformation/)
 - [Deploy CodeSandbox to Netlify](https://www.netlify.com/blog/2019/03/26/deploy-codesandbox-to-netlify/)
+- [Serverless Best Practices with Netlify (Video)](https://fauna.com/blog/webcast-video-serverless-best-practices-with-netlify)
 - [Building an app with Netlify OAuth (Video)](https://www.youtube.com/watch?v=LN8cL2yPR3c)
 - [What the heck is serverless webinar series](https://github.com/netlify-labs/what-the-heck-is-serverless)
 - [What the heck is serverless? (Video)](https://www.youtube.com/watch?v=AEBWLm1L-qI)
