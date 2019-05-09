@@ -122,7 +122,7 @@ It was a true pleasure working closely with [Sara Vieira](https://twitter.com/ni
 
 <br />
 
-## 🚀 AWS CloudFormation
+## 🚀 AWS CloudFormation + Netlify
 
 In preparation for AWS re:invent, I built a CloudFormation Custom resource to allow AWS users to easily deploy Netlify sites as part their existing stacks.
 
