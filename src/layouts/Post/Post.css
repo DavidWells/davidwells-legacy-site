@@ -13,6 +13,9 @@ $contentWidth: 650px;
   h1, h2, h3, h4, h5, h6, p, iframe, .postMeta, .loadingWrapper {
     padding-left: $contentPadding;
   }
+  a {
+    color: #4659ff;
+  }
   blockquote {
     margin-left: $contentPadding;
     p, li, ul, a {
