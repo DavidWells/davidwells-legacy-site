@@ -5,15 +5,13 @@ date: 2019-05-08 06:50:28
 layout: Post
 ---
 
-# A Netlify year in review
-
 My how time flys 🚀!
 
-It feels like only yesterday... I was building [serverless.com](https://serverless.com) on top Netlify and falling in love with the truly magical workflow.
+It feels like only yesterday... I was building [serverless.com](https://serverless.com) & falling in love with Netlify's truly magical workflow.
 
 Jump cut to a year ago, I found myself joining the Netlify team in the dog patch of San Francisco as a Growth + DX Engineer as employee #26!
 
-My mission was simple: Help the company grow, make developer lives better & educate the JAMstack world on all things serverless.
+**My mission was simple:** Help the company grow, make developer lives better & educate the JAMstack world on all things serverless.
 
 What happened next, no one could have predicted...
 
@@ -21,11 +19,17 @@ What happened next, no one could have predicted...
 
 I've experienced the most prolific year of my professional life.
 
-Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), gave some [workshops](https://github.com/DavidWells/netlify-functions-workshop) and built a whole lot of awesome!
+Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), gave some [workshops](https://github.com/DavidWells/netlify-functions-workshop) and [built a whole lot of awesome](#building-the-awesome)!
 
 I also had the opportunity to worked with a wide variety of awesome companies in the JAMstack/SaaS world and of course the **world class Netlify team** 🎉! (P.S. [we are hiring](https://boards.greenhouse.io/netlify))
 
 Working at Netlify has been a phenomenal catalyst for my personal growth over the past year.
+
+If I had to describe my job it would look like this:
+
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/DX-ven-diagram.jpg" />
+
+And add partner integrations to the above diagram 😁
 
 ## What the heck is DX?
 
@@ -38,10 +42,6 @@ The DX team is focused on empowering developers (customers & partners) by making
 We (the DXers) are the internal dogfooders. We stretch, bend, and break the tools we offer to make things better for the ever expanding group of developers.
 
 We work closely with product, support, docs, users & partners to push the product to new heights, teach users what is possible with the JAMstack, and build tooling/docs/demos to attract people into the Netlify ecosystem.
-
-If I had to describe my job it would look like this:
-
-<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/DX-ven-diagram.jpg" />
 
 ## Building the Awesome
 
@@ -56,6 +56,8 @@ This led to a number of interesting projects:
 - [Running headless chrome in serverless functions](https://github.com/netlify-labs/netlify-functions-headless-chrome)
 - [Using Apollo GraphQL with serverless functions](https://github.com/netlify-labs/functions-and-graphql)
 - [Building progressive serverless forms](https://github.com/DavidWells/progressive-enhancement-form-functions)
+
+and then some...
 
 ### Netlify CLI
 
@@ -77,7 +79,7 @@ The CLI is extendable via plugins and there is much more in store for it in the 
 
 ### CodeSandbox + Netlify deploy
 
-<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/sb-loves-netlify.jpg" />
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/csb-loves-netlify.jpg" />
 
 This was an integration project with CodeSandbox. We wanted to add a way for CodeSandbox users to be able to one-click deploy from their CodeSandbox project. You can read more about it here in the [blog post](https://www.netlify.com/blog/2019/03/26/deploy-codesandbox-to-netlify/)
 
@@ -85,7 +87,7 @@ This was an integration project with CodeSandbox. We wanted to add a way for Cod
 
 The end result is a nice lil' Deploy to Netlify flow!
 
-<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/deploy.jpg" />
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/csb-deploy.jpg" />
 
 It was a true pleasure working closely with [Sara Vieira](https://twitter.com/nikkitaftw) & [Ives van Hoorne](https://twitter.com/CompuIves) on this one!
 
@@ -100,7 +102,7 @@ This project lets you define your site as infrastructure as code.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AQ-f-U8Pncc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### FaunaDB
+### FaunaDB + Netlify Integration
 
 Building an example application and the first Netlify add-on.
 
@@ -120,7 +122,7 @@ You can install the `faunadb` add-on with the Netlify CLI via:
 netlify addons:create fauna
 ```
 
-### Integrating with partners & Netlify Add-ons
+## Integrating with partners & Netlify Add-ons
 
 I've had a whirl wind of a time keeping up with the various integration partners & companies that want to build on top of the Netlify ecosystem & platform.
 
