@@ -5,7 +5,7 @@ date: 2019-05-08 06:50:28
 layout: Post
 ---
 
-My how time flys 🚀!
+My my how time flies 🚀!
 
 It feels like only yesterday... I was building [serverless.com](https://serverless.com) & falling in love with Netlify's truly magical workflow.
 
@@ -25,25 +25,17 @@ I also had the opportunity to work with a wide variety of awesome companies in t
 
 Working at Netlify has been a phenomenal catalyst for my personal growth over the past year.
 
-If I had to describe my job it would look like this:
+If I had to describe my job in a simple Venn diagram it would look a little something like this:
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/DX-ven-diagram.jpg" />
 
 And [add partner integrations](#integrating-with-partners--netlify-add-ons) to the above diagram 😁
 
-On a daily basis, I find myself at the intersection of devOps, devRel, frontend, product, & marketing. It's awesome to combine all the skills I've acquired over the years into one role!
+On a daily basis, I find myself at the intersection of devOps, devRel, frontend, product, & marketing. Add in working with [partners](#integrating-with-partners--netlify-add-ons) and that almost covers it.
 
-## What the heck is DX?
+It's been great to combine the skills I've acquired over the years into one role!
 
-Developer Experience! Silly.
-
-**My definition of DX is as follows:**
-
-The DX team is focused on empowering developers (customers & partners) by making it as easy & streamlined as possible for them to build awesome stuff on top of the expanding Netlify Platform.
-
-We (the DXers) are the internal dogfooders. We stretch, bend, and break the tools we offer to make things better for the ever expanding group of developers.
-
-We work closely with product, support, docs, users & partners to push the product to new heights, teach users what is possible with the JAMstack, and build tooling/docs/demos to attract people into the Netlify ecosystem.
+Let's dive deeper.
 
 ## Building the Awesome
 
@@ -159,23 +151,17 @@ If you are curious about [Netlify add-ons checkout this deck](https://docs.googl
 
 ### Super secret upcoming integrations
 
-More to come! Stay tuned...
+We have some additional integrations cooking! Stay tuned...
 
 ## Marketing
 
-On the marketing front, I've been in charge of instrumenting the various Netlify products from [app.netlify.com](https://app.netlify.com/), [our site](http://netlify.com), and pretty much everywhere. This data is a crucial part of the product feedback loop and helps us make data driven decisions on where we head to next.
+On the marketing front, I've been in charge of instrumenting analytics on the various Netlify products from [app.netlify.com](https://app.netlify.com/), [our site](http://netlify.com), API, and wide variety of micro sites. This data is a crucial part of the product feedback loop and helps us make data driven decisions on where we head to next.
 
-On the marketing Ops front, I've built a variety of serverless services to help with new user onboarding, sales enablement, usage telemetry & referral tracking (amongst other things).
+On the marketing-ops front, I've built a variety of serverless services to help with new user onboarding, sales enablement, usage telemetry & referral tracking. I'm hoping to open source these at some point.
 
-User Retention + Activation is also a large component of what I have been working on for the past year. You might have seen an email or two for me. I apologize for that!
+User Retention + Activation is also a large component of what I have been working on for the past year here at Netlify. You might have seen an email or two for me 🙈. I apologize for that, we try to make them as helpful & actionable as possible!
 
 I built the [email preference center](https://messages.netlify.com/) for users to manage what kinds of emails they want, or they can opt out completely!
-
-<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/triangle-of-destiny.jpg" />
-
-That about sums up the top of the pyramid here.
-
-<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/triangle-of-destiny.jpg" />
 
 ## Teaching people
 
@@ -202,8 +188,19 @@ If you can write javascript, you can build a badass serverless stack.
 
 If you're curious about other serverless stuff, I highly recommend checking out [this](https://www.manning.com/livevideo/production-ready-serverless) and [this](https://github.com/DavidWells/serverless-workshop) & subscribing to [this](https://www.jeremydaly.com/newsletter/)
 
-# Wrapping up
+## How did this happen?
 
-Many thanks to everyone I've worked with over the past year!
+I like to think all these things were made possible by all the wonderful folks on the Netlify team and these guiding principles.
+
+- Be creative
+- Experiment, try new things, don't be afraid to fail
+- Be data driven
+- Learn from failures
+- Relish & repeat success
+- **Have fun & build awesome** ✨
+
+Most importantly, have fun and build awesome! Looking back at the past year Netlify has enabled me to do just that.
+
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/success-kid.jpg" />
 
 It's been a wild ride and I can't wait to see what the next year holds.
