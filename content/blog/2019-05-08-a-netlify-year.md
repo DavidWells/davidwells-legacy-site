@@ -5,7 +5,7 @@ date: 2019-05-08 06:50:28
 layout: Post
 ---
 
-My my how time flies 🚀!
+How time flies 🚀!
 
 It feels like only yesterday... I was building [serverless.com](https://serverless.com) & falling in love with Netlify's truly magical workflow.
 
@@ -19,17 +19,17 @@ What happened next, no one could have predicted...
 
 I've experienced the most prolific year of my professional life.
 
-Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), gave some [workshops](https://github.com/DavidWells/netlify-functions-workshop) and [built a whole lot of awesome](#building-the-awesome)!
+Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), helped close sale deals, integrate with partners, gave some [talks/workshops](https://github.com/DavidWells/netlify-functions-workshop), [built a whole lot of awesome](#building-the-awesome) and learned a lot along the way!
 
-I also had the opportunity to work with a wide variety of awesome companies in the JAMstack/SaaS world and of course the **world class Netlify team** 🎉! (P.S. [we are hiring](https://boards.greenhouse.io/netlify))
+I also had the opportunity to work with a wide variety of awesome people in the JAMstack/SaaS world and of course the **world class Netlify team** 🎉!  (P.S. [we are hiring](https://boards.greenhouse.io/netlify))
 
 Working at Netlify has been a phenomenal catalyst for my personal growth over the past year.
+
+But what do you do David? I'm GLAD YOU ASKED!
 
 If I had to describe my job in a simple Venn diagram it would look a little something like this:
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/DX-ven-diagram.jpg" />
-
-And [add partner integrations](#integrating-with-partners--netlify-add-ons) to the above diagram 😁
 
 On a daily basis, I find myself at the intersection of devOps, devRel, frontend, product, & marketing. Add in working with [partners](#integrating-with-partners--netlify-add-ons) and that almost covers it.
 
@@ -39,9 +39,11 @@ Let's dive deeper.
 
 ## Building the Awesome
 
-I spent a lot of my time building and stress testing the different product lines we offer at Netlify.
+The DX team is focused on empowering developers (customers & partners) by making it as easy & streamlined as possible for them to build awesome stuff on top of the expanding Netlify Platform.
 
-This led to a number of interesting projects:
+We are the internal dogfooders. We stretch, bend, and break the tools we offer to make things better for the ever expanding group of developers.
+
+This led to a number of interesting projects including:
 
 - [Netlify + Express](https://github.com/netlify-labs/netlify-functions-express)
 - [How to create Single Sign On flows with role based access controls](https://github.com/netlify-labs/netlify-gated-sites)
@@ -50,10 +52,11 @@ This led to a number of interesting projects:
 - [Running headless chrome in serverless functions](https://github.com/netlify-labs/netlify-functions-headless-chrome)
 - [Building GraphQL APIs with serverless functions](https://github.com/netlify-labs/functions-and-graphql)
 - [Progressive Form enhancement with serverless functions](https://github.com/DavidWells/progressive-enhancement-form-functions)
+- [Cache me outside](https://github.com/DavidWells/cache-me-outside)
 
 and then some...
 
-### Netlify CLI
+### 👨‍💻 Netlify CLI
 
 One of my favorite projects was re-building the [Netlify CLI](https://github.com/netlify/cli).
 
@@ -72,22 +75,24 @@ npm install netlify-cli -g
 
 The CLI is extendable via plugins and there is much more in store for it in the future.
 
-### functions.netlify.com
+### ⚡️ functions.netlify.com
 
-Everything you ever wanted to know about Netlify Functions ⚡️
+In an effort to educate the world of whats possible with serverless tech. I built out [functions.netlify.com](https://functions.netlify.com).
 
-- [Site](https://functions.netlify.com)
+It's everything you ever wanted to know about Netlify Functions
+
+- [Functions Site](https://functions.netlify.com)
+- [Functions Examples](https://functions.netlify.com/examples)
+- [Functions Tutorials](https://functions.netlify.com/tutorials)
 - [Repo](https://github.com/netlify-labs/functions-site)
-
-This was a gatbsy site build to showcase all the awesome stuff you can do with serverless functions.
 
 Make sure to checkout the site for all the awesome [examples](https://functions.netlify.com/examples/) & [tutorials](https://functions.netlify.com/tutorials)
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/netlify-functions-site-examples.jpg" />
 
-### CodeSandbox + Netlify deploy
+Shout out to [Gatsby](https://www.gatsbyjs.org/) for the awesome framework the site is built on.
 
-<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/csb-loves-netlify.png" />
+### ❤️ CodeSandbox + Netlify deploy
 
 This was an integration project with CodeSandbox. We wanted to add a way for CodeSandbox users to be able to one-click deploy from their CodeSandbox project. You can read more about it here in the [blog post](https://www.netlify.com/blog/2019/03/26/deploy-codesandbox-to-netlify/)
 
@@ -99,26 +104,26 @@ The end result is a nice lil' Deploy to Netlify flow!
 
 It was a true pleasure working closely with [Sara Vieira](https://twitter.com/nikkitaftw) & [Ives van Hoorne](https://twitter.com/CompuIves) on this one!
 
-### AWS CloudFormation
+### 🚀 AWS CloudFormation
 
 Deploy Netlify sites as part of [serverless](https://serverless.com), SAM, or raw AWS CloudFormation stacks.
 
-This project lets you define your site as infrastructure as code.
+This project lets you define your Netlify site as infrastructure as code.
 
 - [Post](https://www.netlify.com/blog/2018/11/29/deploying-netlify-sites-with-aws-cloudformation/)
 - [Example](https://github.com/DavidWells/netlify-site-as-aws-custom-resource-example)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AQ-f-U8Pncc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### FaunaDB + Netlify Integration
+### 💸 FaunaDB + Netlify Integration
 
-Building an example application and the first Netlify add-on.
+What started out as building a quick example application quickly turned into much much more and became the first official Netlify add-on.
 
-This [application](https://faunadb-example.netlify.com/) is using React for the frontend, Netlify Functions for API calls, and FaunaDB as the backing database.
+The humble beginnings of this [application](https://faunadb-example.netlify.com/) is using React for the frontend, Netlify Functions for API calls, and FaunaDB as the backing database.
 
 You can read more about the project in the [README](https://github.com/netlify/netlify-faunadb-example/blob/master/README.md) or in the [blog post](https://github.com/netlify/netlify-faunadb-example)
 
-We ended up turning the project & add-on into a [One click Fauna Stack](https://github.com/netlify/fauna-one-click). Seriously, it's one click for a working FullStack NoSQL backed React application.
+We ended up turning the project & add-on into a [one click Fauna Stack](https://github.com/netlify/fauna-one-click). Seriously, it's one click for a working FullStack NoSQL backed React application.
 
 The backend works like so:
 
@@ -131,8 +136,7 @@ You can install the `faunadb` add-on with the Netlify CLI via:
 netlify addons:create fauna
 ```
 
-<img src="https://user-images.githubusercontent.com/532272/42069927-28e1c436-7b09-11e8-96e9-272987fc9e15.gif" />
-
+For more information checkout the [add-on docs](https://www.netlify.com/docs/partner-add-ons/).
 
 ## Integrating with partners & Netlify Add-ons
 
