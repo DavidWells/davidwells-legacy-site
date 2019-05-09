@@ -19,7 +19,7 @@ What happened next, no one could have predicted...
 
 I've experienced the most prolific year of my professional life.
 
-Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), helped close sale deals, integrate with partners, gave some [talks/workshops](https://github.com/DavidWells/netlify-functions-workshop), [built a whole lot of awesome](#building-the-awesome) and learned a lot along the way!
+Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), helped close sale deals, integrate with partners, gave some [talks & workshops](https://davidwells.io/talks/), learned something new everyday, & [built a whole lot of awesome](#building-the-awesome) along the way!
 
 I also had the opportunity to work with a wide variety of awesome people in the JAMstack/SaaS world and of course the **world class Netlify team** 🎉!  (P.S. [we are hiring](https://boards.greenhouse.io/netlify))
 
@@ -37,11 +37,13 @@ If I had to describe my job in a simple Venn diagram it would look a little some
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/DX-ven-diagram.jpg" />
 
-On a daily basis, I find myself at the intersection of devOps, devRel, frontend, product, & marketing. Add in working with [partners](#integrating-with-partners--netlify-add-ons) and that almost covers it.
+On a daily basis, I find myself at the intersection of product, frontend, devOps (serverless of course), devRel, & marketing. Add in working with [partners](#integrating-with-partners--netlify-add-ons) and that almost covers it.
 
 It's been great to combine the skills I've acquired over the years into one role!
 
-Let's dive deeper.
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/davids-work-history.jpg" />
+
+Let's dive deeper. Shall we?!?!
 
 ## Building the Awesome
 
