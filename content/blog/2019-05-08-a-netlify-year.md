@@ -165,17 +165,21 @@ On the marketing-ops front, I've built a variety of serverless services to help 
 
 User Retention + Activation is also a large component of what I have been working on for the past year here at Netlify. You might have seen an email or two for me 🙈. I apologize for that, we try to make them as helpful & actionable as possible!
 
-I built the [email preference center](https://messages.netlify.com/) for users to manage what kinds of emails they want, or they can opt out completely!
+We are leveraging the all powerful [customer.io](http://customer.io) platform for fine-grained communications and I'm **digging it**.
+
+Recently, I built out the [email preference center](https://messages.netlify.com/) for users to manage what kinds of emails they want, or they can opt out completely!
+
+Working close to the numbers & leveraging them for informed decisions its critical for any company. If you're unfamiliar with web analytics / telemetry [holler at me](https://davidwells.io/contact/) and I can point you in the right direction.
 
 ## Teaching people
 
-I'm insanely passionate about teaching people the raw super powers that come when adopting serverless technology.
+I'm **insanely passionate** about teaching people the raw super powers that come when adopting serverless technology.
 
-Scaling, Operating, and Maintaining an application at massive scale is now well within the graps of the frontend developers world.
+Scaling, Operating, and Maintaining an application at massive scale is now well within the grasp of the frontend devs. If you can write javascript, you can build a badass serverless stack.
 
-If you can write javascript, you can build a badass serverless stack.
+To that end, most of my content is focus around that.
 
-- I gave a [workshop on serverless functions](https://github.com/DavidWells/netlify-functions-workshop)
+- [Workshop on serverless functions](https://github.com/DavidWells/netlify-functions-workshop)
 - [Building Serverless CRUD apps with Netlify Functions & FaunaDB](https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions--faunadb/)
 - [How to setup serverless OAuth Flows with Netlify Functions & Intercom](https://www.netlify.com/blog/2018/07/30/how-to-setup-serverless-oauth-flows-with-netlify-functions--intercom/) [Video](https://www.youtube.com/watch?v=zErvY08uNM0)
 - [5 Key Benefits of "Going Serverless"](https://www.netlify.com/blog/2018/08/06/five-key-benefits-of-going-serverless/)
@@ -190,7 +194,7 @@ If you can write javascript, you can build a badass serverless stack.
 - [Building Your Backend With Serverless Functions](https://www.youtube.com/watch?v=iZrzuUwm-9Y)
 - [Netlify Add-ons (deck)](https://docs.google.com/presentation/d/1x-pE1-_-eN1kvyITTAHIuIWReUxQulQHoiEBBmB3dsE/edit?usp=sharing)
 
-If you're curious about other serverless stuff, I highly recommend checking out [this](https://www.manning.com/livevideo/production-ready-serverless) and [this](https://github.com/DavidWells/serverless-workshop) & subscribing to [this](https://www.jeremydaly.com/newsletter/)
+If you're curious about other serverless stuff, I highly recommend checking out [this](https://www.manning.com/livevideo/production-ready-serverless) and [this](https://github.com/DavidWells/serverless-workshop) & subscribing to [this](https://www.jeremydaly.com/newsletter/). Also feel free to drop me a line.
 
 ## How did this happen?
 
@@ -203,8 +207,16 @@ I like to think all these things were made possible by all the wonderful folks o
 - Relish & repeat success
 - **Have fun & build awesome** ✨
 
-Most importantly, have fun and build awesome! Looking back at the past year Netlify has enabled me to do just that.
+> Most importantly, have fun and build awesome!
+
+Looking back at the past year Netlify has enabled me to do just that.
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/success-kid.jpg" />
 
 It's been a wild ride and I can't wait to see what the next year holds.
+
+Shoutout to [Matt](https://twitter.com/biilmann) & [Chris](https://twitter.com/chr_bach) the two founders of Netlify. They are killing it & recruit the best folks (minus myself)
+
+Also to Daniel Freeman who continues to be an awesome mentor & empowers me to build all this awesome shit!
+
+P.S. [we are hiring a bunch of people](https://boards.greenhouse.io/netlify) & trying to expand the awesome. If this post peaked your interest, please reach out.
