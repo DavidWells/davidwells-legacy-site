@@ -21,7 +21,9 @@ I've experienced the most prolific year of my professional life.
 
 Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), helped close sale deals, integrate with partners, gave some [talks & workshops](https://davidwells.io/talks/), learned something new everyday, & [built a whole lot of awesome](#building-the-awesome) along the way!
 
-I also had the opportunity to work with a wide variety of awesome people in the JAMstack/SaaS world and of course the **world class Netlify team** 🎉!  (P.S. [we are hiring](https://boards.greenhouse.io/netlify))
+I also had the opportunity to work with a wide variety of awesome people in the JAMstack/SaaS world and of course the **world class Netlify team** 🎉!  
+
+(P.S. [we are hiring](https://boards.greenhouse.io/netlify))
 
 Working at Netlify has been a phenomenal catalyst for my personal growth over the past year.
 
@@ -83,6 +85,8 @@ npm install netlify-cli -g
 
 The CLI is extendable via plugins and there is much more in store for it in the future.
 
+---
+
 ## ⚡️ functions.netlify.com
 
 In an effort to educate the world of whats possible with serverless tech. I built out [functions.netlify.com](https://functions.netlify.com).
@@ -100,6 +104,8 @@ Make sure to checkout the site for all the awesome [examples](https://functions.
 
 Shout out to [Gatsby](https://www.gatsbyjs.org/) for the awesome framework the site is built on.
 
+---
+
 ## ❤️ CodeSandbox + Netlify deploy
 
 This was an integration project with CodeSandbox. We wanted to add a way for CodeSandbox users to be able to one-click deploy from their CodeSandbox project. You can read more about it here in the [blog post](https://www.netlify.com/blog/2019/03/26/deploy-codesandbox-to-netlify/)
@@ -112,6 +118,8 @@ The end result is a nice lil' Deploy to Netlify flow!
 
 It was a true pleasure working closely with [Sara Vieira](https://twitter.com/nikkitaftw) & [Ives van Hoorne](https://twitter.com/CompuIves) on this one!
 
+---
+
 ## 🚀 AWS CloudFormation
 
 In preparation for AWS re:invent, I built a CloudFormation Custom resource to allow AWS users to easily deploy Netlify sites as part their existing stacks.
@@ -123,6 +131,8 @@ The main goal, other than to scratch my own itch, was to allow your Netlify site
 You can read more about it in the [blog post](https://www.netlify.com/blog/2018/11/29/deploying-netlify-sites-with-aws-cloudformation/) and deploy a [ready made example](https://github.com/DavidWells/netlify-site-as-aws-custom-resource-example)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AQ-f-U8Pncc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 ## 💸 FaunaDB + Netlify Integration
 
@@ -147,6 +157,8 @@ netlify addons:create fauna
 
 For more information checkout the [add-on docs](https://www.netlify.com/docs/partner-add-ons/) & the [fauna graphQL demo](https://github.com/sw-yx/netlify-fauna-graphql-todo)
 
+---
+
 ## Integrating with partners & Netlify Add-ons
 
 I've had a heck of a time keeping up with the various integration partners & companies that want to build on top of the Netlify ecosystem & platform.
@@ -165,6 +177,8 @@ If you are curious about [Netlify add-ons checkout this deck](https://docs.googl
 ### Super secret upcoming integrations
 
 We have some additional integrations cooking! Stay tuned...
+
+---
 
 ## Marketing
 
