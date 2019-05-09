@@ -56,7 +56,7 @@ This led to a number of interesting projects including:
 
 and then some...
 
-### 👨‍💻 Netlify CLI
+## 👨‍💻 Netlify CLI
 
 One of my favorite projects was re-building the [Netlify CLI](https://github.com/netlify/cli).
 
@@ -75,7 +75,7 @@ npm install netlify-cli -g
 
 The CLI is extendable via plugins and there is much more in store for it in the future.
 
-### ⚡️ functions.netlify.com
+## ⚡️ functions.netlify.com
 
 In an effort to educate the world of whats possible with serverless tech. I built out [functions.netlify.com](https://functions.netlify.com).
 
@@ -92,7 +92,7 @@ Make sure to checkout the site for all the awesome [examples](https://functions.
 
 Shout out to [Gatsby](https://www.gatsbyjs.org/) for the awesome framework the site is built on.
 
-### ❤️ CodeSandbox + Netlify deploy
+## ❤️ CodeSandbox + Netlify deploy
 
 This was an integration project with CodeSandbox. We wanted to add a way for CodeSandbox users to be able to one-click deploy from their CodeSandbox project. You can read more about it here in the [blog post](https://www.netlify.com/blog/2019/03/26/deploy-codesandbox-to-netlify/)
 
@@ -104,7 +104,7 @@ The end result is a nice lil' Deploy to Netlify flow!
 
 It was a true pleasure working closely with [Sara Vieira](https://twitter.com/nikkitaftw) & [Ives van Hoorne](https://twitter.com/CompuIves) on this one!
 
-### 🚀 AWS CloudFormation
+## 🚀 AWS CloudFormation
 
 Deploy Netlify sites as part of [serverless](https://serverless.com), SAM, or raw AWS CloudFormation stacks.
 
@@ -115,7 +115,7 @@ This project lets you define your Netlify site as infrastructure as code.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AQ-f-U8Pncc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 💸 FaunaDB + Netlify Integration
+## 💸 FaunaDB + Netlify Integration
 
 What started out as building a quick example application quickly turned into much much more and became the first official Netlify add-on.
 
@@ -161,7 +161,7 @@ We have some additional integrations cooking! Stay tuned...
 
 On the marketing front, I've been in charge of instrumenting analytics on the various Netlify products from [app.netlify.com](https://app.netlify.com/), [our site](http://netlify.com), API, and wide variety of micro sites. This data is a crucial part of the product feedback loop and helps us make data driven decisions on where we head to next.
 
-On the marketing-ops front, I've built a variety of serverless services to help with new user onboarding, sales enablement, usage telemetry & referral tracking. I'm hoping to open source these at some point.
+On the marketing-ops front, I've built a variety of serverless services to help with new user on-boarding, sales enablement, usage telemetry & referral tracking. I'm hoping to open source these at some point.
 
 User Retention + Activation is also a large component of what I have been working on for the past year here at Netlify. You might have seen an email or two for me 🙈. I apologize for that, we try to make them as helpful & actionable as possible!
 
