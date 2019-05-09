@@ -2,7 +2,7 @@
 title: "Happy Netliversary 🎉"
 descriptions: "A look back on all the things that we've built!"
 author: DavidWells
-date: 2019-05-08 06:50:28
+date: 2019-05-09 09:30:00
 layout: Post
 ---
 
@@ -20,7 +20,7 @@ What happened next, no one could have predicted...
 
 I've experienced the most prolific year of my professional life.
 
-Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), helped close deals, integrated with partners, gave some [talks & workshops](https://davidwells.io/talks/), learned something new everyday, & [built a whole lot of awesome](#building-the-awesome)!
+Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), helped close deals, integrated with partners, gave [talks & workshops](https://davidwells.io/talks/), learned a metric boatload, and [built a whole lot of awesome](#building-the-awesome)!
 
 I also had the opportunity to work with a wide variety of top notch people in the JAMstack/SaaS world and of course the **world class Netlify team** 🎉!
 
@@ -253,9 +253,9 @@ I like to think all these things were made possible by all the wonderful folks o
 - Relish & repeat success
 - **Have fun & build awesome** ✨
 
-Looking back at the past year Netlify has enabled me to do just that. I had a blast and built some awesome stuff!
+Looking back at the past year Netlify has enabled me to do just that. I had a lot of fun and built some awesome stuff!
 
-It's also been the most stuff I've ever created in a single year. There are some other bits and bobs that I can't mention here just yet. 🤯
+It's also been the prolific year of building I've ever had. There are **more** things not even mentioned in this post 🤯. Mamma mia!
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/success-kid.jpg" />
 
@@ -265,6 +265,6 @@ Shoutout to [Matt](https://twitter.com/biilmann) & [Chris](https://twitter.com/c
 
 Also to [Daniel Freeman](https://twitter.com/danielfreeman) who continues to be an awesome mentor & empowers me to build all this awesome shit!
 
-P.S. [we are hiring a bunch of people](https://boards.greenhouse.io/netlify). If this post peaked your interest, please reach out.
+P.S. [We are hiring a bunch of people](https://boards.greenhouse.io/netlify). If this post peaked your interest, please reach out.
 
 P.P.S. Sorry for the Netlify ❤️ fest. (but its true G)
