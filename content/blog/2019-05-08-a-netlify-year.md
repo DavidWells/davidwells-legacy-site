@@ -1,7 +1,7 @@
 ---
 title: A Netlify year in review
 author: DavidWells
-date: 2016-07-07 21:07:39
+date: 2019-05-08 06:50:28
 layout: Post
 ---
 
@@ -24,6 +24,8 @@ I've experienced the most prolific year of my professional life.
 Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), gave some [workshops](https://github.com/DavidWells/netlify-functions-workshop) and built a whole lot of awesome!
 
 I also had the opportunity to worked with a wide variety of awesome companies in the JAMstack/SaaS world and of course the **world class Netlify team** 🎉! (P.S. [we are hiring](https://boards.greenhouse.io/netlify))
+
+Working at Netlify has been a phenomenal catalyst for my personal growth over the past year.
 
 ## What the heck is DX?
 
