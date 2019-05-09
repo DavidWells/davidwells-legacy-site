@@ -21,7 +21,7 @@ I've experienced the most prolific year of my professional life.
 
 Wrote a ton of [blog posts](https://www.netlify.com/authors/david-wells/), gave some [workshops](https://github.com/DavidWells/netlify-functions-workshop) and [built a whole lot of awesome](#building-the-awesome)!
 
-I also had the opportunity to worked with a wide variety of awesome companies in the JAMstack/SaaS world and of course the **world class Netlify team** 🎉! (P.S. [we are hiring](https://boards.greenhouse.io/netlify))
+I also had the opportunity to work with a wide variety of awesome companies in the JAMstack/SaaS world and of course the **world class Netlify team** 🎉! (P.S. [we are hiring](https://boards.greenhouse.io/netlify))
 
 Working at Netlify has been a phenomenal catalyst for my personal growth over the past year.
 
@@ -29,7 +29,7 @@ If I had to describe my job it would look like this:
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/DX-ven-diagram.jpg" />
 
-And add partner integrations to the above diagram 😁
+And [add partner integrations](#integrating-with-partners--netlify-add-ons) to the above diagram 😁
 
 ## What the heck is DX?
 
@@ -77,9 +77,13 @@ npm install netlify-cli -g
 
 The CLI is extendable via plugins and there is much more in store for it in the future.
 
+### functions.netlify.com
+
+[Image]
+
 ### CodeSandbox + Netlify deploy
 
-<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/csb-loves-netlify.jpg" />
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/csb-loves-netlify.png" />
 
 This was an integration project with CodeSandbox. We wanted to add a way for CodeSandbox users to be able to one-click deploy from their CodeSandbox project. You can read more about it here in the [blog post](https://www.netlify.com/blog/2019/03/26/deploy-codesandbox-to-netlify/)
 
@@ -145,7 +149,7 @@ More to come! Stay tuned.
 
 On a daily basis, I find myself at the intersection of devOps, devRel, product, & marketing.
 
-On the marketing front, I've been in charge of instrumenting the various Netlify products from [app.netlify.com](https://app.netlify.com/), [our site](http://netlify.com), and pretty much everywhere. This data is a crucial part of the product feedback loop and helps us make data backed decisions on where we head to next.
+On the marketing front, I've been in charge of instrumenting the various Netlify products from [app.netlify.com](https://app.netlify.com/), [our site](http://netlify.com), and pretty much everywhere. This data is a crucial part of the product feedback loop and helps us make data driven decisions on where we head to next.
 
 On the marketing Ops front, I've built a variety of serverless services to help with new user onboarding, sales enablement, usage telemetry & referral tracking (amongst other things).
 
