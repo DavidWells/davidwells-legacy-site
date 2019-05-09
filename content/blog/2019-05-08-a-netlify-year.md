@@ -27,6 +27,12 @@ Working at Netlify has been a phenomenal catalyst for my personal growth over th
 
 But what do you do David? I'm GLAD YOU ASKED!
 
+Here's the mind map of my world...
+
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/work/netlify-mind-map.jpg" />
+
+Let's unpack this 👆...
+
 If I had to describe my job in a simple Venn diagram it would look a little something like this:
 
 <img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/blog/DX-ven-diagram.jpg" />
