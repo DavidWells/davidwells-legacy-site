@@ -26,7 +26,7 @@ export default class Analytics extends React.Component {
         analytics.page() // eslint-disable-line
       }
       console.info('New pageview', window.location.href)
-    }s
+    }
   }
 
   render() {
