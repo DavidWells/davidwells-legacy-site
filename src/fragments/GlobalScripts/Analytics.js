@@ -14,7 +14,7 @@ export default class Analytics extends React.Component {
 
       if (analytics) {
         analytics.ready((action, store) => {
-          console.log('Analyics are loaded')
+          console.log('Analyics loaded')
         })
       }
     }
@@ -23,14 +23,10 @@ export default class Analytics extends React.Component {
   componentWillReceiveProps(props) {
     if (props.params.splat !== this.props.params.splat) {
       if (isProduction) {
-        // ga('set', 'page', window.location.pathname)
-        // ga('send', 'pageview')
         analytics.page() // eslint-disable-line
-      } else {
-        // console.info('New pageview', window.location.href)
       }
       console.info('New pageview', window.location.href)
-    }
+    }s
   }
 
   render() {

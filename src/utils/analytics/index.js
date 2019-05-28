@@ -1,10 +1,9 @@
-import analyticsLib from 'analytics'
+import Analytics from 'analytics'
 import googleAnalytics from 'analytics-plugin-ga'
 
 const isProduction = process.env.NODE_ENV === 'production'
 const isClient = typeof window !== 'undefined'
 const googleAnalyticsUA = process.env.GOOGLE_ANALYTICS_UA
-
 
 const logger = store => next => action => {
   if (action.type) {
@@ -14,7 +13,7 @@ const logger = store => next => action => {
 }
 
 // start analytics
-const analytics = analyticsLib({
+const analytics = Analytics({
   app: 'davidwells',
   version: 1,
   plugins: [
