@@ -11,6 +11,8 @@ layout: Talk
 
 David will be discussing how easy it is for frontend developers to deploy serverless backends using plain ol’ JavaScript.
 
+<img src="https://s3-us-west-2.amazonaws.com/assets.davidwells.io/talks/images/open-table-meetup.jpg" />
+
 You will gain a deeper understanding of the wide variety of serverless solutions in the ecosystem including the different options for databases/filestorage/auth/alerting/queuing and everything else you might need for building real world scalable applications with minimal operational overhead (and at a fraction of the cost).
 
 [Tweets](https://twitter.com/DavidWells/status/1131659586920898560)
