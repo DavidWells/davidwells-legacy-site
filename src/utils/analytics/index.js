@@ -12,20 +12,22 @@ const logger = store => next => action => {
   return next(action)
 }
 
-// start analytics
-const analytics = Analytics({ // eslint-disable-line
-  app: 'davidwells',
-  version: 1,
-  plugins: [
-    logger,
-    googleAnalytics({
-      trackingId: googleAnalyticsUA,
-      autoTrack: true,
-    }),
-  ]
-})
-
+let analytics // eslint-disable-line
 if (isClient) {
+  // start analytics
+  analytics = Analytics({ // eslint-disable-line
+    app: 'davidwells',
+    version: 1,
+    plugins: [
+      logger,
+      googleAnalytics({
+        trackingId: googleAnalyticsUA,
+        autoTrack: true,
+      }),
+    ]
+  })
+
+
   window.analytics = analytics
   console.log('analytics loaded')
 }
