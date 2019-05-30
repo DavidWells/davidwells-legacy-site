@@ -13,7 +13,7 @@ const logger = store => next => action => {
 }
 
 // start analytics
-const analytics = Analytics({
+const analytics = Analytics({ // eslint-disable-line
   app: 'davidwells',
   version: 1,
   plugins: [
